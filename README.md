@@ -1,2 +1,2 @@
 # myhub
-Redeisgn of the myhub site
+Myhub Marketing Site
