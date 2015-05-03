@@ -16,9 +16,9 @@
 body {
   background-color: #fff;
   color: #555;
-  font-family: "Gill Sans W01 Light", sans-serif;
-  font-size: 16px !important;
-  font-weight: 300;
+  font-family: $main-fonts;
+  font-size: 18px !important;
+  font-weight: $regular-weight;
 }
 
 .modal-open .modal,
@@ -43,7 +43,7 @@ a, a:focus, a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Avenir', sans-serif;
+  font-family: $headline;
 }
 
 h2 {
@@ -59,7 +59,7 @@ h2 {
 }
 
 #fullpage {
-  font-family: 'Gill Sans W01 Book', sans-serif;
+  font: inherit;
   background: url("../images/group-layered.png") no-repeat center center transparent;
   background-size: cover;
 }
@@ -229,7 +229,7 @@ a#ln-logo {
 
 .banner-tilte {
   color: #FFF;
-  font-family: 'Gill Sans W01 Book', sans-serif;
+  font-family: $main-fonts;
   position: absolute;
   top: 31%;
   left: 0;
@@ -244,7 +244,7 @@ a#ln-logo {
 
 .banner-tilte span {
   color: #FFF;
-  font-family: 'Gill Sans W01 Book', sans-serif;
+  font-family: $main-fonts;
   text-align: center;
   top: 50%;
   left: 43%;
@@ -261,7 +261,7 @@ a#ln-logo {
   float: left;
   margin-right: 40px;
   margin-top: 10px;
-  font-family: 'Gill Sans W01 Book', sans-serif;
+  font-family: $main-fonts;
   font-size: 18px;
 }
 
@@ -323,7 +323,7 @@ a#ln-logo {
 }
 
 .ln-cont-text h1 {
-  font-family: "Helvetica Neue", 'Gill Sans W01 Book', Helvetica, sans-serif;
+  font-family: $helvatica-fonts;
   font-size: 38px;
 }
 
@@ -332,7 +332,7 @@ a#ln-logo {
 }
 
 .ln-vid-link a {
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-family: $helvatica-fonts;
   font-weight: bold;
   color: #ff6b42;
   line-height: 30px;
@@ -357,10 +357,10 @@ a#ln-logo {
 }
 
 .twilow_sms label {
-  font-family: "Gill Sans W01 Bold", sans-serif;
+  font-family: $main-fonts;
   font-size: 20px;
+  font-weight: $bold-weight;
   color: inherit;
-  font-weight: normal;
   text-transform: uppercase;
   margin-bottom: 8px;
 }
@@ -440,7 +440,7 @@ a#ln-logo {
 }
 
 .middlemodal .modal-body {
-  font-family: Helevtica, sans-serif;
+  font-family: $helvatica-fonts;
   font-size: 20px;
   padding: 2em;
 }
@@ -575,7 +575,9 @@ a#ln-logo {
   background-color: #d8dee6;
   border-color: #d8dee6;
   color: #323a45;
-  font-family: "Gill Sans W01 Medium", sans-serif;
+  font-family: $main-fonts;
+  font-weight: $medium-weight;
+  text-transform: capitalize;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -626,7 +628,7 @@ a#ln-logo {
 .htab-links > li a {
   display: block;
   width: 100%;
-  font-family: "Helvetica Neue", 'Gill Sans W01 Book', Helvetica, sans-serif;
+  font-family: $helvatica-fonts;
 }
 
 .htab-links > li.active {
@@ -716,7 +718,8 @@ a#ln-logo {
   display: inline-block;
   width: 200px;
   text-align: center;
-  font-family: "Gill Sans W01 Medium", sans-serif;
+  font-family: $main-fonts;
+  font-weight: $medium-weight;
   padding: 12px 25px;
   line-height: 26px;
 }
@@ -880,7 +883,7 @@ a#ln-logo {
   position: absolute;
   width: 100%;
   left: 0;
-  bottom: 32px;
+  bottom: 38px;
   height: 67px;
 }
 
@@ -918,7 +921,7 @@ a#ln-logo {
 
 /*page content default*/
 .page_content {
-  font-family: 'Gill Sans W01 Book', sans-serif;
+  font-family: $main-fonts;
   font-size: 18px;
   color: #323a45;
 }
@@ -964,7 +967,7 @@ a#ln-logo {
 }
 
 .headerwrap h1 {
-  font-family: 'Pump W01 Light', sans-serif;
+  font-family: $pump-fonts;
   text-transform: uppercase;
 }
 
@@ -974,7 +977,8 @@ a#ln-logo {
 }
 
 .headerwrap h2 {
-  font-family: 'Gill Sans MT W10 Light', sans-serif;
+  font-family: $main-fonts;
+  font-weight: $light-weight;
 }
 
 #about_service,
@@ -1047,7 +1051,8 @@ a#ln-logo {
 }
 
 .abstc_txt h3 {
-  font-family: 'HelveticaNeueW01-75Bold', sans-serif;
+  font-family: $helvatica-fonts;
+  font-weight: $bold-weight;
   padding-top: 10px;
   font-size: 30px;
 }
@@ -1124,7 +1129,6 @@ a#ln-logo {
 
 .fNav h5 {
   color: inherit;
-  font-family: "Gill Sans W01 Medium", sans-serif;
   font-size: 16px;
   font-weight: bold;
   text-transform: uppercase;
@@ -1133,7 +1137,7 @@ a#ln-logo {
 .fNav li {
   margin: 5px 0 0;
   min-width: 115px;
-  font-family: "Gill Sans W01 Medium", sans-serif;
+  font-family: $main-fonts;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -1201,7 +1205,8 @@ a#ln-logo {
 
 .hwi_tablinks li a {
   display: block;
-  font-family: "Gill Sans W01 Bold", sans-serif;
+  font-family: $main-fonts;
+  font-weight: $bold-weight;
   font-size: 26px;
   padding: 7px 15px;
   color: $dark-blue;
@@ -1328,7 +1333,7 @@ a#ln-logo {
 
 .hwip_txt h4 {
   color: #00bd96;
-  font-family: 'Gill Sans MT W10 Light', sans-serif;
+  font-family: $headline;
   font-size: 35px;
   line-height: 30px;
   margin: 0 0 -5px;
@@ -1398,7 +1403,8 @@ table {
 
 .hwi_lctbl td:nth-child(2) {
   font-size: 1.8em;
-  font-family: "Gill Sans W01 Bold", sans-serif;
+  font-family: $main-fonts;
+  font-weight: $medium-weight;
 }
 
 .hwi_lctbl h4,
@@ -1407,7 +1413,8 @@ table {
   font-size: 40px;
   line-height: 1;
   margin: 0;
-  font-family: 'Gill Sans MT W10 Light', sans-serif;
+  font-family: $main-fonts;
+  font-weight: $light-weight;
 }
 
 .hwi_lctbl h5 {
@@ -1536,7 +1543,7 @@ h2 > embed[class*="title-icon-"] {
 .section6 {
   h2 {
     @media screen and (max-width: $iphone) {
-      font-family: $regular-fonts;
+      font-family: $headline;
       margin-top: 15px;
     }
   }
@@ -1669,9 +1676,9 @@ embed.E {
 
 #fwLpr2 {
 
-  font-size: 12px;
+  font-size: 13px;
   a {
-    font-size: 12px;
+    font-size: 13px;
   }
 }
 

@@ -105,8 +105,8 @@
   top: 0;
   z-index: 9999;
   background: #333332;
-  font-size: 0.9em;
-  font-weight: bold;
+  font-size: 1.1em;
+  font-weight: 300;
   -webkit-box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
   -moz-box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
   box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
@@ -243,8 +243,8 @@
 body > .pushy {
   width: 400px;
   background: $medium-gray;
-  font-size: 1em;
-  font-weight: normal;
+  font-size: 1.1em;
+  font-weight: $medium-weight;
 }
 
 .landingPage .pushy a,
