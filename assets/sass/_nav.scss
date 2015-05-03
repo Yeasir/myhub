@@ -1,5 +1,7 @@
 // Main Navbar 
-
+.nav.navbar-nav.navbar-right {
+  margin-right: 0;
+}
 .nav > li > a:focus, .nav > li > a:hover,
 .nav .open > a, .nav .open > a:focus, .nav .open > a:hover{
   @include ease;
@@ -54,8 +56,7 @@
   margin-top: 2px;
   background: $off-white;
   a {
-    font-size: 14px;
-    font-family: $light-fonts;
+    font: inherit;
     &:hover {
       @include ease;
       background: $light-gray;
@@ -80,6 +81,10 @@
 .navbar-nav > li > a#login-button,
 .navbar-nav > li > a.dropdown-toggle {
   height: 55px;
+}
+.navbar-nav > li > a {
+  font-size: inherit;
+  font-weight: $regular-weight;
 }
 #btn_plus {
   font-size: 25px;

@@ -2,374 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/050adafb-8496-40bc-bd7e-c3ac444262da.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/09df9e09-83d7-46b3-b5cc-e1dc773dfdcf.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/0a13b7b2-5715-4f21-943d-344f661fe08a.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/0a75643e-0857-4abf-a6a6-aa402717b42e.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/13437aee-fc9a-4378-886e-cde8c611857b.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/16695c2d-c755-45a2-bdcf-c54843f39afd.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/1a6dec8e-26f9-4243-8495-835709538f92.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/1ad92902-611c-4f74-a74c-e021e5311bc1.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/1f6af904-724d-4f75-b836-51c3d674a37e.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/2029e71f-067d-46a8-bc44-b5c64a258928.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/212ab03d-5db2-4d6a-b94c-171cc702aa51.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/230d6b14-6d44-4dd5-a6ae-a4287936e51e.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/26c330ee-d1db-484c-9a72-4cba86aba8e5.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/28dfedaf-6372-45a1-8833-b3078dc56a21.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/2a6f81a2-475c-4831-9949-33d7748ee561.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/2ba9f875-66d9-414d-a426-5a012b443475.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/2bc69477-90c2-4415-a51f-36e36eee3d5e.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/2cac77ec-9bc0-4ee7-87e4-27650190744f.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/2cebe80c-b289-4ae0-a3b0-baa82c6c6e10.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/2f5a6074-badc-4e08-83f1-ed67fe5c3d7c.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/33447d8d-d920-48e7-b0a9-1d3dda80d6a6.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/33f5d8d9-105f-4a49-9351-74ecae7f4a49.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3511a780-31ca-4ee1-9083-89b1b7185748.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/3695342c-b5e2-4010-b0d4-56f563465922.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/36ec15b9-f8da-447f-8fed-a9cfdfb91fbb.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/378182d1-8021-4674-a814-cc8f01f9a937.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3d012c73-3418-43c1-8252-3d65991a551a.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3e18b964-7a6f-4828-8e18-5cc698e1051f.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3e419b5b-c789-488d-84cf-a64009cc308e.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/401121a5-d55e-49f5-bd62-aed0f5d202a3.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/43440533-fca2-4e04-880c-633f725e01a1.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/43bc65b5-0f61-40a9-9ec4-469038e8c1f2.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/47fd1045-6e5b-4c87-9235-cfbc2b42cde7.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/4f32268f-fd86-4960-b72c-4bb1ba75ec6f.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/4fb9056b-4ac3-488b-9bac-75741b0ff0bd.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/51318b0e-57fc-4136-b7d1-46aee6c2b565.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/53554f6f-4b01-4815-87fe-82c49b8ba5a9.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/5a05cf7f-f332-456f-ae67-d8c26e0d35b3.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/5e3f5034-a048-4728-a5d7-2c13fe3deb8d.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/5ed4f98e-9044-4810-88ff-74d412c1351f.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/60662abb-0ac3-46b2-930f-4719462489c9.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/6500273c-8e8b-48d2-b0c0-dcae293c0120.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/65cde95a-ac33-4c65-8198-e37857968d1a.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/67903513-1227-4b23-ac40-c20c452c8db1.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/67a2c8ef-54d4-4ab7-b60c-20fb619e97ab.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/6803d3dd-2107-45fc-ac8a-a4fa13771547.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/695a9fa5-9f57-4800-9993-3684d520f107.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/70ed6fd5-9adf-4d08-8b30-514af1de7ca2.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/7147ec3a-8ff8-4ec9-8c5c-bd1571dc6ae6.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7336d98f-b8f7-415b-bdfa-29c5f97dfc22.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/75c84254-5125-412c-bc24-56769ae3b627.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/79de4547-0a1b-43f6-b574-da8187a58759.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/7ad84b42-ea19-4682-935b-0e66be58eeb8.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/7be0fdec-384a-42b5-ab27-c60a322cde7d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7beaeaeb-bdcc-4913-b21d-f5281f8abb66.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/7c7d3040-c381-4ac9-bff7-90b1fdea4739.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/805b1c5b-1ec0-4de6-9408-2e21941d7df5.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/849bc5b9-a2ff-4343-977b-26ba8bd24a60.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/8d3f1c3a-e26d-4dd7-ac5b-4b0bc68dccaa.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/8f21e618-9282-4df1-b556-73ee82bdd673.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/939cba03-5b40-4d01-9bc5-7589eca863db.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/94962f0f-b0b0-4842-a4ad-753995a59289.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/9b2779d5-46af-40b1-87bc-df494ec07194.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/9bcb625d-81de-48c2-ba0c-664558d197e3.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/9e1ea9a8-55ab-4608-b3f1-dddabd93fd37.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/a14a2675-3caa-4ee6-81ac-0b41f15ffcf1.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/a24b3f55-c8c8-41a1-a77e-7cdf417d82f6.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/a2926047-aec5-42f4-b352-e593469518be.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/a44db533-8747-449c-84aa-c0b3e56f8ab4.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/a6a1aab6-ac69-4817-ae03-1d582360299e.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/a6ba6668-9750-40c7-81e3-edbdab16aa16.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/a7622e06-0cde-414a-a25d-5e5f6f5bfcaa.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/aaf11848-aac2-4d09-9a9c-aac5ff7b8ff4.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/abba8818-4dcc-4b51-892c-8376ce88d261.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/acc13cdc-338a-43e6-a156-e54a4c87582d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/acd8a043-828c-4c2c-98cb-b5224f5d4cdb.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/b01b8a8a-cb45-4c4e-b2bb-e5b8853e6fe6.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b6bdc93b-2720-4c92-b68d-48499456178e.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/b9ebb19d-88c1-4cbd-9baf-cf51972422ec.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/bc08634b-8f8b-4bf7-9d0f-c5af91b03cfb.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/bda8f2a5-7c97-4bf5-9201-ff6c5b00e8b8.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/beab4258-af94-4971-a0db-b7bc2bef74bc.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/bf5c2cd3-2fd9-459a-af5e-2282cb09e256.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c28733d9-2865-43c4-ae96-6f3342a7b31d.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/c33278bc-988e-440b-b4be-6acc095e6044.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/c4352a95-7a41-48c1-83ce-d8ffd2a3b118.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c56da29d-9c5b-4d94-900f-770cde3dd317.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/ca94ed56-18fc-4856-940a-70a072607c7c.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/cb10f707-c1c3-420b-bf94-64766ed3e22c.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/cd4dd8e7-e73f-4d13-b385-b1fa2cc2bea4.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/cd5a93fc-2bb1-48df-8982-11119cd6e270.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/d1dc54b2-878d-4693-8d6e-b442e99fef68.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/d9f9decc-5fa8-4390-a105-4f89f6b7b055.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/dc88529a-125a-45aa-a8d5-d6aaf9179947.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/dd6da407-70fe-4aa3-a1c7-64f0cb086f01.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/de4e6ee5-4bb3-4aa3-b76b-8400446faf5e.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/df7d7e3f-561f-4538-8d52-8914ed76323d.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/e0af2f49-a399-482b-a54e-d745e268ec80.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e2d1fd51-cc5e-4cfe-82f1-a6fb8b915569.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e3cab668-d4ff-4b5b-84ba-8679fb64707f.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/e4c25a9c-b7e5-4844-b86c-dee0626bd23a.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/e4d36745-a861-4a49-aa17-6510e67429d3.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/e593d631-0cac-4566-acd4-e56cf65e6804.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e6c4bec9-5272-4a33-8f0e-bea55d89f476.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/ee64424e-e834-44f1-9eee-68cd0ae4f772.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f05272f9-83e3-4de6-8423-5d57f730c87b.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f24034ec-5254-48cd-8643-2b10dbfe8bd7.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/f61bf0f6-c193-4100-b940-12a1a01dcee5.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f7217992-a791-4b39-bbd1-183cd7ba99d0.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/fa48655b-c368-4796-9713-283410e3cd96.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/fa773ad4-7e95-43a6-ace9-c486aad9b8fe.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/fbf3e69b-73b2-406d-84bc-feda30a0a563.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/fc0d04fc-d4ff-4958-a236-3ae4c3758bb7.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/fd197301-816d-4f73-a3da-eb96ea722d25.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/ff5e5e62-c20c-4b45-bce0-3a9c7162efa9.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/fff9e9e7-a3c5-4cad-8349-63b82e9b1b0b.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/0a0d77b6-c35c-4526-bd73-58cb03e40232.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/0a88351a-e628-4b1f-99eb-3a729518af0a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/1bb1acb5-8d4e-4800-88af-dbcf1fe96ef8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/294099f3-8d00-4676-afc5-5e9d8d43ad69.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/30beaea4-72c0-482b-9dd2-fb14cf1bc1e2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/36703776-29ac-440e-99c6-477f6d4a8333.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3c0ab3f9-8efc-47e4-8c22-7ae262aaa612.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/4cb16859-16ca-4342-b89c-292dc83266af.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/4d97cb9a-47e3-41d3-b1ea-ac193cd5d6d1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/6edbedb4-b331-4dc9-b208-8e77a47406d4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/731dd4d3-64da-427d-ba61-01575b3cf3f7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/7bdad4a5-289b-42f9-b6fa-c5883b9e9f23.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/944cce8d-20bf-41c1-ae29-2bc8199859db.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/9bce4920-94e2-4e4d-bd34-818801dd3eb3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/9cf39ac2-87a5-4c4e-a604-7cece19d30bd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/9d9bd1b3-012d-451d-ba4e-0962c68b3568.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/9da974d2-f3f3-41d6-9c96-5e74add0b370.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sass/app.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b56150eb-5caa-4385-b907-373e97ddb2ff.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c4706653-1b96-49e6-b1b3-ee5ed36e23ef.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c702badc-a3be-4674-979d-c07e14404890.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/c7f424be-90e1-45b8-b617-ee3589a859bd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/ca038835-1be3-4dc5-ba25-be1df6121499.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/ca4569d2-e4c3-4dec-8bfe-52712ef6bc31.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/ce43af51-f2ff-4474-9925-6211223fd9e7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/d8851d95-478d-47a9-a0b0-a8d8e4ca127a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e49c440c-7653-44ce-96d2-f775947ba9fe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e73e41fc-119f-4b8b-a5e2-eed9c1f66b21.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f67fa3b5-c1d1-488f-8e60-a828b9ad56a4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/f747b6ee-4d13-4e45-815d-f33ac1b71d63.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts-old/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts.css" afterPath="$PROJECT_DIR$/assets/css/fonts-old.css" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\007ff3cd-c6c5-4d33-8458-99c3d6fc8598.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/007ff3cd-c6c5-4d33-8458-99c3d6fc8598.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\053a7fbc-a481-4144-b663-3df12f279899.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/053a7fbc-a481-4144-b663-3df12f279899.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\07e3241f-4234-4453-ba10-1c07b06deef6.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/07e3241f-4234-4453-ba10-1c07b06deef6.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\07fe0fec-b63f-4963-8ee1-535528b67fdb.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/07fe0fec-b63f-4963-8ee1-535528b67fdb.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\08e2b89e-9853-40e2-b409-05538c48390b.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/08e2b89e-9853-40e2-b409-05538c48390b.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\0af407d7-99a4-42f0-a029-120289683a4c.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/0af407d7-99a4-42f0-a029-120289683a4c.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\0b7f815b-73df-4d3c-84d6-b7ae421078e2.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/0b7f815b-73df-4d3c-84d6-b7ae421078e2.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\0d1df702-21b0-4f94-a0fb-9f2fef8529d0.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/0d1df702-21b0-4f94-a0fb-9f2fef8529d0.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\1054ca30-2f0b-4677-85f5-1c6e97ab0f68.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/1054ca30-2f0b-4677-85f5-1c6e97ab0f68.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\1295a556-4822-49d4-a8a3-8f819bd7d237.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/1295a556-4822-49d4-a8a3-8f819bd7d237.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\14ff6081-326d-4dae-b778-d7afa66166fc.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/14ff6081-326d-4dae-b778-d7afa66166fc.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\16f2ffb0-8a4f-4394-9e77-81c73f1416b6.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/16f2ffb0-8a4f-4394-9e77-81c73f1416b6.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\175fd724-2ca3-4c6d-b4e8-1238fcc8eb1e.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/175fd724-2ca3-4c6d-b4e8-1238fcc8eb1e.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\181ed93b-e034-4401-87ad-b7ae63f13ec4.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/181ed93b-e034-4401-87ad-b7ae63f13ec4.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\18d43876-b641-4b03-b45f-bd41981e7d69.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/18d43876-b641-4b03-b45f-bd41981e7d69.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\19570ca1-8945-47b5-8ea3-bd27525a07b2.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/19570ca1-8945-47b5-8ea3-bd27525a07b2.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\1b46cdcc-147b-4a73-8ba8-68f40bc55daa.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/1b46cdcc-147b-4a73-8ba8-68f40bc55daa.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\1cc063b6-7e7b-4880-9905-0d3d4f9c7c7d.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/1cc063b6-7e7b-4880-9905-0d3d4f9c7c7d.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\202b6353-ffff-45b1-9a1a-89497323d7ed.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/202b6353-ffff-45b1-9a1a-89497323d7ed.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\20cb688c-ecc0-4235-985a-cea32705cf3e.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/20cb688c-ecc0-4235-985a-cea32705cf3e.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\217a2f81-1e65-4924-a0d4-05ac8576f883.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/217a2f81-1e65-4924-a0d4-05ac8576f883.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\270586a3-926c-4ac9-8ba0-891cf8464658.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/270586a3-926c-4ac9-8ba0-891cf8464658.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\278bef59-6be1-4800-b5ac-1f769ab47430.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/278bef59-6be1-4800-b5ac-1f769ab47430.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\284ad777-0022-42a3-9197-c449457c670a.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/284ad777-0022-42a3-9197-c449457c670a.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\2b41f1d9-de8b-41e7-809f-cf667976dab1.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/2b41f1d9-de8b-41e7-809f-cf667976dab1.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\2cebe80c-b289-4ae0-a3b0-baa82c6c6e10.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/2cebe80c-b289-4ae0-a3b0-baa82c6c6e10.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\2e309b1b-08b8-477f-bc9e-7067cf0af0b3.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/2e309b1b-08b8-477f-bc9e-7067cf0af0b3.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\3028823a-fd25-4e94-ab7e-9748a3cd9dc5.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3028823a-fd25-4e94-ab7e-9748a3cd9dc5.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\3345b222-e0f1-4a6c-a8a8-5b82fb487d55.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3345b222-e0f1-4a6c-a8a8-5b82fb487d55.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\343e22e8-4e34-4472-b59f-05e64c4f1545.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/343e22e8-4e34-4472-b59f-05e64c4f1545.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\36c182c6-ef98-4021-9b0d-d63122c2bbf5.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/36c182c6-ef98-4021-9b0d-d63122c2bbf5.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\3b699fce-488f-4faf-bcb1-8f62929e2ce4.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3b699fce-488f-4faf-bcb1-8f62929e2ce4.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\3cbd2991-a894-4b03-a5c1-359a5b699411.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3cbd2991-a894-4b03-a5c1-359a5b699411.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\3d0bfb88-4887-4fd3-a16f-34ae15cbfe25.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/3d0bfb88-4887-4fd3-a16f-34ae15cbfe25.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\42aacb2f-222e-46f5-a95a-1c22948ee0d1.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/42aacb2f-222e-46f5-a95a-1c22948ee0d1.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\43bc65b5-0f61-40a9-9ec4-469038e8c1f2.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/43bc65b5-0f61-40a9-9ec4-469038e8c1f2.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\45b119a9-3bea-4037-a42a-93be92ee1335.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/45b119a9-3bea-4037-a42a-93be92ee1335.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\46978c42-d8b1-4bcb-a37e-800e01894900.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/46978c42-d8b1-4bcb-a37e-800e01894900.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\4a43c405-df62-4255-afc4-e97687467e14.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/4a43c405-df62-4255-afc4-e97687467e14.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\4aadf0c2-d092-46a7-b051-9546f9cb3bb5.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/4aadf0c2-d092-46a7-b051-9546f9cb3bb5.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\4c6503c9-859b-4d3b-a1d5-2d42e1222415.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/4c6503c9-859b-4d3b-a1d5-2d42e1222415.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\4d9231cf-8c93-4c60-a544-36e62fb1cd65.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/4d9231cf-8c93-4c60-a544-36e62fb1cd65.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\50d35bbc-dfd4-48f1-af16-cf058f69421d.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/50d35bbc-dfd4-48f1-af16-cf058f69421d.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\530dee22-e3c1-4e9f-bf62-c31d510d9656.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/530dee22-e3c1-4e9f-bf62-c31d510d9656.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\532b216c-8cb5-4eb9-bf40-2976bb2797c3.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/532b216c-8cb5-4eb9-bf40-2976bb2797c3.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\5405647d-099e-47f7-9d4a-f8692e57a206.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/5405647d-099e-47f7-9d4a-f8692e57a206.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\56be84de-9d60-4089-8df0-0ea6ec786b84.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/56be84de-9d60-4089-8df0-0ea6ec786b84.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\5918aaf0-28ab-4c24-99d9-4a45f322bbf5.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/5918aaf0-28ab-4c24-99d9-4a45f322bbf5.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\60be5c39-863e-40cb-9434-6ebafb62ab2b.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\60d2f3b6-066f-44c2-a7dc-e8a9bb05bec8.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/60d2f3b6-066f-44c2-a7dc-e8a9bb05bec8.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\648c640b-6a9c-4af0-9bd6-f0fa1a0f43df.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/648c640b-6a9c-4af0-9bd6-f0fa1a0f43df.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\66d027e9-d498-429f-91db-5587009f0b19.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/66d027e9-d498-429f-91db-5587009f0b19.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\67ccdd14-5fcd-479c-9829-ec39a60795fa.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/67ccdd14-5fcd-479c-9829-ec39a60795fa.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\688ab72b-4deb-4e15-a088-89166978d469.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/688ab72b-4deb-4e15-a088-89166978d469.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\6ccc64e5-eadb-4da9-98e2-6ca51833fa46.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/6ccc64e5-eadb-4da9-98e2-6ca51833fa46.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\6cd480d1-47d0-48b4-86bd-283db2cb9235.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/6cd480d1-47d0-48b4-86bd-283db2cb9235.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\6d1c26fd-09e2-452b-b55f-bd2eb3ecbc06.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/6d1c26fd-09e2-452b-b55f-bd2eb3ecbc06.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\7122a950-008c-4d5c-8b82-8d039a8f3e1e.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7122a950-008c-4d5c-8b82-8d039a8f3e1e.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\7240ec9f-bea0-4cfa-9cc7-a5667279d552.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7240ec9f-bea0-4cfa-9cc7-a5667279d552.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\75bd3d3d-fac4-420a-a68b-07bb36e44a38.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/75bd3d3d-fac4-420a-a68b-07bb36e44a38.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\766219a5-6481-416d-84a6-119eea394925.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/766219a5-6481-416d-84a6-119eea394925.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\77359161-9f6c-4b42-954c-cd1c7cd736d8.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/77359161-9f6c-4b42-954c-cd1c7cd736d8.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\7816f72f-f47e-4715-8cd7-960e3723846a.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7816f72f-f47e-4715-8cd7-960e3723846a.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\7a9c73c5-c3e1-4aa3-9321-186927e99293.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7a9c73c5-c3e1-4aa3-9321-186927e99293.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\7cde0d7e-9399-4f03-8a7b-e34ac698cf4e.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7cde0d7e-9399-4f03-8a7b-e34ac698cf4e.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\7de6b03f-1298-4bc2-89af-9d9da594008d.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7de6b03f-1298-4bc2-89af-9d9da594008d.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\7df2477a-49e4-4116-b9a6-e63332ccab32.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7df2477a-49e4-4116-b9a6-e63332ccab32.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\7eb26347-5352-4819-952f-f7ab91a3e4e5.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/7eb26347-5352-4819-952f-f7ab91a3e4e5.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\826ab257-8052-4bf9-8e3e-d670985c5e73.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/826ab257-8052-4bf9-8e3e-d670985c5e73.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\842088d0-1ae2-40d0-8561-3c95761ba7a6.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/842088d0-1ae2-40d0-8561-3c95761ba7a6.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\877c8d06-6478-405d-a2ac-fcfddd1fff2b.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/877c8d06-6478-405d-a2ac-fcfddd1fff2b.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\87fb812b-762f-4712-9846-809dd1898686.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/87fb812b-762f-4712-9846-809dd1898686.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\8aebe290-aeb3-4c62-a266-26b0d3e3aa5e.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/8aebe290-aeb3-4c62-a266-26b0d3e3aa5e.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\8e9ee02b-f337-4f13-ad6c-969d6d6536c8.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/8e9ee02b-f337-4f13-ad6c-969d6d6536c8.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\8ed76f11-29a2-49f7-bb82-225237580a68.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/8ed76f11-29a2-49f7-bb82-225237580a68.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\8fda1e47-19be-46c7-8d83-8d4fb35572f0.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/8fda1e47-19be-46c7-8d83-8d4fb35572f0.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\954bbe68-6476-45df-93b4-9d5646a36aaf.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/954bbe68-6476-45df-93b4-9d5646a36aaf.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\9c4c1c06-7366-45f3-9ba8-954d4d409ff8.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/9c4c1c06-7366-45f3-9ba8-954d4d409ff8.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\Genericons.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/Genericons.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\Genericons.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/Genericons.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\Genericons.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/Genericons.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\a4f9f319-dec9-4afc-8b50-e18cc1b61cb4.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/a4f9f319-dec9-4afc-8b50-e18cc1b61cb4.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\a6a06431-f58f-47ce-a769-0b845fcb1d69.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/a6a06431-f58f-47ce-a769-0b845fcb1d69.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\a738fd3c-3be9-43d3-895d-e7f222fc7c0f.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/a738fd3c-3be9-43d3-895d-e7f222fc7c0f.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\aacbd3cd-8ffb-44e2-83c6-2c4d6a9d8522.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/aacbd3cd-8ffb-44e2-83c6-2c4d6a9d8522.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\af177436-d9e8-44e8-9c9c-ef2d945f20a3.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/af177436-d9e8-44e8-9c9c-ef2d945f20a3.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\b0ffdcf0-26da-47fd-8485-20e4a40d4b7d.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b0ffdcf0-26da-47fd-8485-20e4a40d4b7d.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\b1683424-297d-4db5-9597-c41a3bd3709e.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b1683424-297d-4db5-9597-c41a3bd3709e.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\b24f5df0-b969-4b25-b38e-fe6d15821dee.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b24f5df0-b969-4b25-b38e-fe6d15821dee.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\b562c46e-79d8-4128-b01a-4d164f303a14.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b562c46e-79d8-4128-b01a-4d164f303a14.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\b6d63cb7-64b5-4d39-beaf-a8d9fe5eb1df.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b6d63cb7-64b5-4d39-beaf-a8d9fe5eb1df.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\b7693a83-b861-4aa6-85e0-9ecf676bc4d6.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b7693a83-b861-4aa6-85e0-9ecf676bc4d6.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\b78883bf-b91f-4727-b6ff-3c19c5f896f7.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/b78883bf-b91f-4727-b6ff-3c19c5f896f7.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\bc08634b-8f8b-4bf7-9d0f-c5af91b03cfb.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/bc08634b-8f8b-4bf7-9d0f-c5af91b03cfb.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\bc564ead-9b7b-4590-bdfd-8c08978c8eb6.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/bc564ead-9b7b-4590-bdfd-8c08978c8eb6.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\bcf54343-d033-41ee-bbd7-2b77df3fe7ba.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/bcf54343-d033-41ee-bbd7-2b77df3fe7ba.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\beddbbc6-203e-4f36-8960-3f5ca22af567.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/beddbbc6-203e-4f36-8960-3f5ca22af567.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\c07fef9e-a934-42d7-92ad-69205f2b8a00.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c07fef9e-a934-42d7-92ad-69205f2b8a00.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\c15f85df-0e92-4a69-b0e9-f365cbaf19a2.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c15f85df-0e92-4a69-b0e9-f365cbaf19a2.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\c42a27ff-79e1-4699-bb13-cde4c41674f0.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c42a27ff-79e1-4699-bb13-cde4c41674f0.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\c74505d5-13e8-47ed-94a8-630aab4da3e6.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c74505d5-13e8-47ed-94a8-630aab4da3e6.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\c9da67f0-7d19-417d-a0b8-686a715c6311.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/c9da67f0-7d19-417d-a0b8-686a715c6311.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\cacd36b4-a60c-4a12-9db9-3be07e0965d1.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/cacd36b4-a60c-4a12-9db9-3be07e0965d1.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\ce419f0f-945b-4e33-a443-06f3165247e4.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/ce419f0f-945b-4e33-a443-06f3165247e4.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\cf5f337f-0e23-4056-baa1-0dd2e1ebe179.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/cf5f337f-0e23-4056-baa1-0dd2e1ebe179.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\d0110e4d-8197-4ab8-803f-66f55e2a2dcc.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/d0110e4d-8197-4ab8-803f-66f55e2a2dcc.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\d0ee9f77-a10b-40cb-82fd-4cca0329f581.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/d0ee9f77-a10b-40cb-82fd-4cca0329f581.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\d2db8a3c-4ca7-4c24-af9f-e0ad74f0ea5c.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/d2db8a3c-4ca7-4c24-af9f-e0ad74f0ea5c.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\d4a5f926-22a9-4beb-b32d-086e00fb1327.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/d4a5f926-22a9-4beb-b32d-086e00fb1327.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\d8616bae-5c10-48cd-be8c-20bf52930c06.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/d8616bae-5c10-48cd-be8c-20bf52930c06.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\da09f1f1-062a-45af-86e1-2bbdb3dd94f9.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/da09f1f1-062a-45af-86e1-2bbdb3dd94f9.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\da295e2b-01ef-48d5-839d-209a3b37dfe0.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/da295e2b-01ef-48d5-839d-209a3b37dfe0.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\df1fe4b4-9304-4104-9cc0-36bb02fe0fb9.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/df1fe4b4-9304-4104-9cc0-36bb02fe0fb9.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\e1eb0b0b-1d4a-4c3a-9dcb-4899670a6274.woff" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e1eb0b0b-1d4a-4c3a-9dcb-4899670a6274.woff" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\e6850362-9749-48f4-bcb5-dd5dd3b59325.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e6850362-9749-48f4-bcb5-dd5dd3b59325.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\e839d357-9820-4c15-ad57-b62e79f0b3ac.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e839d357-9820-4c15-ad57-b62e79f0b3ac.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\e8d60525-2db5-4caa-a94c-d0c0677cfbce.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/e8d60525-2db5-4caa-a94c-d0c0677cfbce.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\ea4aff29-1571-4db4-92f8-df4170fb08d7.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/ea4aff29-1571-4db4-92f8-df4170fb08d7.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\eb4eabbb-2b30-4cfb-b28f-ae059786be4f.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/eb4eabbb-2b30-4cfb-b28f-ae059786be4f.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\ecaa98fe-425a-42de-846b-c235f0dbc449.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/ecaa98fe-425a-42de-846b-c235f0dbc449.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\eecb89ca-5786-4240-ba6f-28c1074c1c12.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/eecb89ca-5786-4240-ba6f-28c1074c1c12.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\efceedbc-29e2-447f-9fe8-4aff6a58ee23.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/efceedbc-29e2-447f-9fe8-4aff6a58ee23.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\f33c142a-4b49-4401-8008-3af8864d5352.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f33c142a-4b49-4401-8008-3af8864d5352.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\f43951a6-a855-436d-8228-9edb0c7da9b3.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f43951a6-a855-436d-8228-9edb0c7da9b3.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\f751c8ae-1057-46d9-8d74-62592e002568.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f751c8ae-1057-46d9-8d74-62592e002568.svg" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\f86968ac-ed7c-4232-bf4d-cba29cad577e.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f86968ac-ed7c-4232-bf4d-cba29cad577e.ttf" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\f8ebcd42-4fa1-49c1-afe9-50f863eb1949.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f8ebcd42-4fa1-49c1-afe9-50f863eb1949.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\f977ca22-17a6-4600-95c7-f1c507829334.eot" afterPath="$PROJECT_DIR$/assets/css/fonts-old/f977ca22-17a6-4600-95c7-f1c507829334.eot" />
-      <change type="MOVED" beforePath="C:\wamp\www\myhub\assets\css\fonts\fa09bf52-c44c-49f8-b237-3c51c46bd6ea.svg" afterPath="$PROJECT_DIR$/assets/css/fonts-old/fa09bf52-c44c-49f8-b237-3c51c46bd6ea.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\050adafb-8496-40bc-bd7e-c3ac444262da.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/050adafb-8496-40bc-bd7e-c3ac444262da.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\13437aee-fc9a-4378-886e-cde8c611857b.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/13437aee-fc9a-4378-886e-cde8c611857b.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\1a6dec8e-26f9-4243-8495-835709538f92.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/1a6dec8e-26f9-4243-8495-835709538f92.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\1ad92902-611c-4f74-a74c-e021e5311bc1.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/1ad92902-611c-4f74-a74c-e021e5311bc1.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\1f6af904-724d-4f75-b836-51c3d674a37e.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/1f6af904-724d-4f75-b836-51c3d674a37e.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\2bc69477-90c2-4415-a51f-36e36eee3d5e.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/2bc69477-90c2-4415-a51f-36e36eee3d5e.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\33447d8d-d920-48e7-b0a9-1d3dda80d6a6.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/33447d8d-d920-48e7-b0a9-1d3dda80d6a6.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\33f5d8d9-105f-4a49-9351-74ecae7f4a49.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/33f5d8d9-105f-4a49-9351-74ecae7f4a49.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\3511a780-31ca-4ee1-9083-89b1b7185748.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/3511a780-31ca-4ee1-9083-89b1b7185748.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\378182d1-8021-4674-a814-cc8f01f9a937.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/378182d1-8021-4674-a814-cc8f01f9a937.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\3d012c73-3418-43c1-8252-3d65991a551a.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/3d012c73-3418-43c1-8252-3d65991a551a.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\3e18b964-7a6f-4828-8e18-5cc698e1051f.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/3e18b964-7a6f-4828-8e18-5cc698e1051f.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\3e419b5b-c789-488d-84cf-a64009cc308e.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/3e419b5b-c789-488d-84cf-a64009cc308e.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\401121a5-d55e-49f5-bd62-aed0f5d202a3.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/401121a5-d55e-49f5-bd62-aed0f5d202a3.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\43440533-fca2-4e04-880c-633f725e01a1.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/43440533-fca2-4e04-880c-633f725e01a1.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\4f32268f-fd86-4960-b72c-4bb1ba75ec6f.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/4f32268f-fd86-4960-b72c-4bb1ba75ec6f.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\4fb9056b-4ac3-488b-9bac-75741b0ff0bd.woff2" afterPath="$PROJECT_DIR$/assets/css/fonts/4fb9056b-4ac3-488b-9bac-75741b0ff0bd.woff2" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\5e3f5034-a048-4728-a5d7-2c13fe3deb8d.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/5e3f5034-a048-4728-a5d7-2c13fe3deb8d.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\7336d98f-b8f7-415b-bdfa-29c5f97dfc22.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/7336d98f-b8f7-415b-bdfa-29c5f97dfc22.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\79de4547-0a1b-43f6-b574-da8187a58759.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/79de4547-0a1b-43f6-b574-da8187a58759.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\7beaeaeb-bdcc-4913-b21d-f5281f8abb66.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/7beaeaeb-bdcc-4913-b21d-f5281f8abb66.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\805b1c5b-1ec0-4de6-9408-2e21941d7df5.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/805b1c5b-1ec0-4de6-9408-2e21941d7df5.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\849bc5b9-a2ff-4343-977b-26ba8bd24a60.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/849bc5b9-a2ff-4343-977b-26ba8bd24a60.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\8d3f1c3a-e26d-4dd7-ac5b-4b0bc68dccaa.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/8d3f1c3a-e26d-4dd7-ac5b-4b0bc68dccaa.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\939cba03-5b40-4d01-9bc5-7589eca863db.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/939cba03-5b40-4d01-9bc5-7589eca863db.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\94962f0f-b0b0-4842-a4ad-753995a59289.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/94962f0f-b0b0-4842-a4ad-753995a59289.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\9b2779d5-46af-40b1-87bc-df494ec07194.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/9b2779d5-46af-40b1-87bc-df494ec07194.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\9bcb625d-81de-48c2-ba0c-664558d197e3.woff2" afterPath="$PROJECT_DIR$/assets/css/fonts/9bcb625d-81de-48c2-ba0c-664558d197e3.woff2" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\9e1ea9a8-55ab-4608-b3f1-dddabd93fd37.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/9e1ea9a8-55ab-4608-b3f1-dddabd93fd37.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/assets/css/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\a14a2675-3caa-4ee6-81ac-0b41f15ffcf1.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/a14a2675-3caa-4ee6-81ac-0b41f15ffcf1.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\a44db533-8747-449c-84aa-c0b3e56f8ab4.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/a44db533-8747-449c-84aa-c0b3e56f8ab4.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\a6a1aab6-ac69-4817-ae03-1d582360299e.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/a6a1aab6-ac69-4817-ae03-1d582360299e.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\a6ba6668-9750-40c7-81e3-edbdab16aa16.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/a6ba6668-9750-40c7-81e3-edbdab16aa16.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\a7622e06-0cde-414a-a25d-5e5f6f5bfcaa.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/a7622e06-0cde-414a-a25d-5e5f6f5bfcaa.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\acd8a043-828c-4c2c-98cb-b5224f5d4cdb.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/acd8a043-828c-4c2c-98cb-b5224f5d4cdb.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\b6bdc93b-2720-4c92-b68d-48499456178e.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/b6bdc93b-2720-4c92-b68d-48499456178e.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\bda8f2a5-7c97-4bf5-9201-ff6c5b00e8b8.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/bda8f2a5-7c97-4bf5-9201-ff6c5b00e8b8.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\beab4258-af94-4971-a0db-b7bc2bef74bc.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/beab4258-af94-4971-a0db-b7bc2bef74bc.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\c28733d9-2865-43c4-ae96-6f3342a7b31d.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/c28733d9-2865-43c4-ae96-6f3342a7b31d.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\c56da29d-9c5b-4d94-900f-770cde3dd317.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/c56da29d-9c5b-4d94-900f-770cde3dd317.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\cb10f707-c1c3-420b-bf94-64766ed3e22c.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/cb10f707-c1c3-420b-bf94-64766ed3e22c.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\cd4dd8e7-e73f-4d13-b385-b1fa2cc2bea4.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/cd4dd8e7-e73f-4d13-b385-b1fa2cc2bea4.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\cd5a93fc-2bb1-48df-8982-11119cd6e270.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/cd5a93fc-2bb1-48df-8982-11119cd6e270.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\dc88529a-125a-45aa-a8d5-d6aaf9179947.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/dc88529a-125a-45aa-a8d5-d6aaf9179947.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\df7d7e3f-561f-4538-8d52-8914ed76323d.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/df7d7e3f-561f-4538-8d52-8914ed76323d.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\e2d1fd51-cc5e-4cfe-82f1-a6fb8b915569.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/e2d1fd51-cc5e-4cfe-82f1-a6fb8b915569.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\e3cab668-d4ff-4b5b-84ba-8679fb64707f.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/e3cab668-d4ff-4b5b-84ba-8679fb64707f.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\e6c4bec9-5272-4a33-8f0e-bea55d89f476.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/e6c4bec9-5272-4a33-8f0e-bea55d89f476.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\f05272f9-83e3-4de6-8423-5d57f730c87b.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/f05272f9-83e3-4de6-8423-5d57f730c87b.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\f24034ec-5254-48cd-8643-2b10dbfe8bd7.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/f24034ec-5254-48cd-8643-2b10dbfe8bd7.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\f7217992-a791-4b39-bbd1-183cd7ba99d0.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/f7217992-a791-4b39-bbd1-183cd7ba99d0.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\fa48655b-c368-4796-9713-283410e3cd96.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/fa48655b-c368-4796-9713-283410e3cd96.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\fc0d04fc-d4ff-4958-a236-3ae4c3758bb7.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/fc0d04fc-d4ff-4958-a236-3ae4c3758bb7.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\fd197301-816d-4f73-a3da-eb96ea722d25.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/fd197301-816d-4f73-a3da-eb96ea722d25.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\ff5e5e62-c20c-4b45-bce0-3a9c7162efa9.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/ff5e5e62-c20c-4b45-bce0-3a9c7162efa9.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\0a0d77b6-c35c-4526-bd73-58cb03e40232.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/0a0d77b6-c35c-4526-bd73-58cb03e40232.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\30beaea4-72c0-482b-9dd2-fb14cf1bc1e2.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/30beaea4-72c0-482b-9dd2-fb14cf1bc1e2.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\36703776-29ac-440e-99c6-477f6d4a8333.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/36703776-29ac-440e-99c6-477f6d4a8333.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\3c0ab3f9-8efc-47e4-8c22-7ae262aaa612.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/3c0ab3f9-8efc-47e4-8c22-7ae262aaa612.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\4d97cb9a-47e3-41d3-b1ea-ac193cd5d6d1.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/4d97cb9a-47e3-41d3-b1ea-ac193cd5d6d1.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\6edbedb4-b331-4dc9-b208-8e77a47406d4.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/6edbedb4-b331-4dc9-b208-8e77a47406d4.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\944cce8d-20bf-41c1-ae29-2bc8199859db.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/944cce8d-20bf-41c1-ae29-2bc8199859db.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\9d9bd1b3-012d-451d-ba4e-0962c68b3568.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/9d9bd1b3-012d-451d-ba4e-0962c68b3568.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\9da974d2-f3f3-41d6-9c96-5e74add0b370.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/9da974d2-f3f3-41d6-9c96-5e74add0b370.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_fonts.scss" afterPath="$PROJECT_DIR$/assets/sass/_fonts.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\myhub\contact-us.html" afterPath="$PROJECT_DIR$/contact-us-old.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\myhub\jobs.html" afterPath="$PROJECT_DIR$/jobs-old.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_icons.scss" afterPath="$PROJECT_DIR$/assets/sass/_icons.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_nav.scss" afterPath="$PROJECT_DIR$/assets/sass/_nav.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_variables.scss" afterPath="$PROJECT_DIR$/assets/sass/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/app.scss" afterPath="$PROJECT_DIR$/assets/sass/app.scss" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\b56150eb-5caa-4385-b907-373e97ddb2ff.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/b56150eb-5caa-4385-b907-373e97ddb2ff.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\c4706653-1b96-49e6-b1b3-ee5ed36e23ef.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/c4706653-1b96-49e6-b1b3-ee5ed36e23ef.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\c702badc-a3be-4674-979d-c07e14404890.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/c702badc-a3be-4674-979d-c07e14404890.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\ca038835-1be3-4dc5-ba25-be1df6121499.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/ca038835-1be3-4dc5-ba25-be1df6121499.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\ca4569d2-e4c3-4dec-8bfe-52712ef6bc31.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/ca4569d2-e4c3-4dec-8bfe-52712ef6bc31.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\ce43af51-f2ff-4474-9925-6211223fd9e7.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/ce43af51-f2ff-4474-9925-6211223fd9e7.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\d8851d95-478d-47a9-a0b0-a8d8e4ca127a.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/d8851d95-478d-47a9-a0b0-a8d8e4ca127a.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\e49c440c-7653-44ce-96d2-f775947ba9fe.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/e49c440c-7653-44ce-96d2-f775947ba9fe.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\e73e41fc-119f-4b8b-a5e2-eed9c1f66b21.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/e73e41fc-119f-4b8b-a5e2-eed9c1f66b21.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\f67fa3b5-c1d1-488f-8e60-a828b9ad56a4.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/f67fa3b5-c1d1-488f-8e60-a828b9ad56a4.svg" />
-      <change type="MODIFICATION" beforePath="C:\wamp\www\myhub\assets\css\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/fonts.css" afterPath="$PROJECT_DIR$/assets/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact-us.html" afterPath="$PROJECT_DIR$/contact-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/how-it-works.html" afterPath="$PROJECT_DIR$/how-it-works.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jobs.html" afterPath="$PROJECT_DIR$/jobs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -394,95 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_nav.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/sass/_nav.scss">
+      <file leaf-file-name="jobs.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jobs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.1" vertical-offset="5717" max-vertical-offset="9725">
-              <caret line="248" column="0" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.266666" vertical-offset="117" max-vertical-offset="11075">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="11" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/fonts.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10350">
-              <caret line="5" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_fonts.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/sass/_fonts.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="40.01695" vertical-offset="10286" max-vertical-offset="11125">
-              <caret line="317" column="14" selection-start-line="317" selection-start-column="14" selection-end-line="317" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-163.93103" vertical-offset="3096" max-vertical-offset="186975">
-              <caret line="314" column="1" selection-start-line="310" selection-start-column="16" selection-end-line="310" selection-end-column="20" />
-              <folding>
-                <marker date="1430647048888" expanded="true" signature="154790:155065" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="160593:160661" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="162636:162654" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="162836:162844" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="162894:162928" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="162968:162998" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163107:163121" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163148:163156" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163181:163190" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163250:163267" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163346:163365" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163387:163404" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163449:163463" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163503:163506" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163526:163536" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163556:163627" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="163653:163674" placeholder="{...}" />
-                <marker date="1430647048888" expanded="true" signature="172725:172737" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/sass/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.933333" vertical-offset="907" max-vertical-offset="2150">
-              <caret line="53" column="11" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47058824" vertical-offset="21717" max-vertical-offset="44050">
-              <caret line="885" column="15" selection-start-line="885" selection-start-column="15" selection-end-line="885" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.43202764" vertical-offset="0" max-vertical-offset="8775">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -500,12 +61,17 @@
         <option value="$PROJECT_DIR$/assets/sass/app.css.map" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/assets/js/custom.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/demo.css" />
         <option value="$PROJECT_DIR$/assets/sass/_fonts.scss" />
         <option value="$PROJECT_DIR$/assets/css/app.css" />
         <option value="$PROJECT_DIR$/assets/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/assets/sass/_icons.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/assets/sass/_nav.scss" />
+        <option value="$PROJECT_DIR$/how-it-works.html" />
+        <option value="$PROJECT_DIR$/jobs.html" />
+        <option value="$PROJECT_DIR$/contact-us.html" />
         <option value="$PROJECT_DIR$/assets/sass/app.scss" />
       </list>
     </option>
@@ -547,6 +113,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -579,27 +146,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myhub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myhub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -613,10 +161,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\myhub" />
       <recent name="C:\wamp\www\myhub\assets\css\fonts" />
       <recent name="C:\wamp\www\myhub\assets\css" />
       <recent name="C:\wamp\www\myhub\assets\sass" />
-      <recent name="C:\wamp\www\myhub" />
     </key>
   </component>
   <component name="RunManager">
@@ -637,6 +185,9 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -644,9 +195,6 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -709,25 +257,25 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26012793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -756,11 +304,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jobs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/_nav.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3200" max-vertical-offset="9725">
           <caret line="128" column="14" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="5475">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,7 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3036" max-vertical-offset="4100">
           <caret line="127" column="63" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,7 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="178" max-vertical-offset="1475">
           <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -792,7 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="43100" max-vertical-offset="43875">
           <caret line="1724" column="20" selection-start-line="1724" selection-start-column="20" selection-end-line="1724" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1550" max-vertical-offset="1950">
           <caret line="62" column="7" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,12 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="8700" max-vertical-offset="10550">
           <caret line="360" column="32" selection-start-line="360" selection-start-column="32" selection-end-line="360" selection-end-column="32" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1482" max-vertical-offset="9600">
           <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -829,12 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1675" max-vertical-offset="12000">
           <caret line="67" column="69" selection-start-line="67" selection-start-column="69" selection-end-line="67" selection-end-column="69" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -842,7 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="42675">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,7 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1475" max-vertical-offset="1825">
           <caret line="59" column="7" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,7 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="8325">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,7 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3042" max-vertical-offset="37650">
           <caret line="135" column="17" selection-start-line="135" selection-start-column="17" selection-end-line="135" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,12 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11975">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -894,26 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="178875">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <marker date="1430647048888" expanded="true" signature="154790:155065" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="160593:160661" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="162636:162654" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="162836:162844" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="162894:162928" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="162968:162998" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163107:163121" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163148:163156" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163181:163190" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163250:163267" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163346:163365" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163387:163404" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163449:163463" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163503:163506" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163526:163536" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163556:163627" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163653:163674" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="172725:172737" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -925,21 +432,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/app.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.70167065" vertical-offset="17287" max-vertical-offset="18125">
           <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33407572" vertical-offset="0" max-vertical-offset="25825">
           <caret line="4" column="977" selection-start-line="4" selection-start-column="977" selection-end-line="4" selection-end-column="977" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08351893" vertical-offset="0" max-vertical-offset="4950">
           <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -958,19 +462,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/_icons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="675">
           <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -978,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3036" max-vertical-offset="4100">
           <caret line="127" column="63" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -986,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="178" max-vertical-offset="1475">
           <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -994,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7200">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1009,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="5475">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1017,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-35.170506" vertical-offset="30703" max-vertical-offset="35350">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66101694" vertical-offset="14490" max-vertical-offset="15375">
           <caret line="315" column="294" selection-start-line="315" selection-start-column="294" selection-end-line="315" selection-end-column="294" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="15450">
           <caret line="20" column="132" selection-start-line="20" selection-start-column="132" selection-end-line="20" selection-end-column="132" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,20 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12550">
           <caret line="5" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.266666" vertical-offset="117" max-vertical-offset="11075">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1062,26 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-163.93103" vertical-offset="3096" max-vertical-offset="186975">
           <caret line="314" column="1" selection-start-line="310" selection-start-column="16" selection-end-line="310" selection-end-column="20" />
-          <folding>
-            <marker date="1430647048888" expanded="true" signature="154790:155065" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="160593:160661" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="162636:162654" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="162836:162844" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="162894:162928" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="162968:162998" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163107:163121" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163148:163156" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163181:163190" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163250:163267" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163346:163365" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163387:163404" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163449:163463" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163503:163506" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163526:163536" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163556:163627" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="163653:163674" placeholder="{...}" />
-            <marker date="1430647048888" expanded="true" signature="172725:172737" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1089,7 +543,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="40.01695" vertical-offset="10286" max-vertical-offset="11125">
           <caret line="317" column="14" selection-start-line="317" selection-start-column="14" selection-end-line="317" selection-end-column="25" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1900">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1097,22 +557,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.933333" vertical-offset="907" max-vertical-offset="2150">
           <caret line="53" column="11" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="11" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/_icons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="375">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.933333" vertical-offset="452" max-vertical-offset="4425">
+          <caret line="83" column="14" selection-start-line="54" selection-start-column="53" selection-end-line="83" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.133333" vertical-offset="8771" max-vertical-offset="16400">
+          <caret line="363" column="18" selection-start-line="363" selection-start-column="18" selection-end-line="439" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/press.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/privacy-policy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.17416379" vertical-offset="151" max-vertical-offset="14575">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us-old.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="9600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how-it-works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.033333" vertical-offset="604" max-vertical-offset="16250">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/_nav.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.1" vertical-offset="5717" max-vertical-offset="9725">
-          <caret line="248" column="0" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-1.6666666" vertical-offset="0" max-vertical-offset="9850">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47058824" vertical-offset="21717" max-vertical-offset="44050">
-          <caret line="885" column="15" selection-start-line="885" selection-start-column="15" selection-end-line="885" selection-end-column="15" />
+        <state vertical-scroll-proportion="-27.233334" vertical-offset="42758" max-vertical-offset="44925">
+          <caret line="1743" column="21" selection-start-line="1743" selection-start-column="21" selection-end-line="1743" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs-old.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4333334" vertical-offset="827" max-vertical-offset="9450">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.433333" vertical-offset="2102" max-vertical-offset="4450">
+          <caret line="99" column="38" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43202764" vertical-offset="0" max-vertical-offset="8775">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding />
         </state>
       </provider>
