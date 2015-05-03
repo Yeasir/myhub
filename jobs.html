@@ -6,15 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Myhub | Social Planning</title>
 
-   <!-- Core Framework CSS before SASS -->
+    <!-- Core Framework CSS before SASS -->
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    
-    
+
+
     <!--add more stylesheet before this line-->
     <link href="assets/css/app.css" rel="stylesheet">
-    
-	<!-- Script for SVG -->
+
+    <!-- Script for SVG -->
     <script type="text/javascript" src="assets/js/modernizr.custom.70954.js"></script>
 
 
@@ -83,17 +83,17 @@
     </div>
     <!--end header nav-->
 
+
     <!--part1-->
-    <div id="hiw_head" class="headerwrap support_part-header">
-        <div class="" style="background: #323A45;opacity: 0.8;height:300px;">
+    <div id="hiw_head" class="headerwrap jobs_part-header">
+        <div class="" style="background: rgba(50, 58, 69, 0.5); padding: 180px 0 15px;">
             <div class="container">
-                <div class="row text-center" style="padding-top: 90px;">
-                    <div class="col-xs-12">
-                        <!--<embed src="assets/images/icons/Settings_III.svg" width="156" height="156"></embed> -->
-                        <h1>Support</h1>
-                        <h2>Have a question? Drop us a line below</h2>
-
-
+                <div class="row text-center">
+                    <div class="col-lg-12">
+                        <h1><span>Jobs</span></h1>
+                        <h3> <span>Are you entrepreneurial, ambitious, and tech-savvy? </span></h3>
+                        <h3><span>If so, drop us a line :)</span></h3>
+                        <br>
                     </div>
 
                 </div>
@@ -103,92 +103,122 @@
     </div>
     <!--end part1 1-->
 
-    <div id="hiw_sinvitation" class="hiw-part6 cus-part2">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 text-left">
-                    <div class="container support-us">
-                        <h2>Support</h2>
-                        <p><a href="#">Support@myhubapp.com</a> </p>
-                        <p>303-222-2222 x.1</p>
+
+    <div class="jobs aboutPageCont"><!-- contactUsCont job-->
+
+        <div id="jobs_inner">
+            <div class="jobs_about_team">
+                <div class="container media">
+                    <div class="pull-right hidden-xs">
+                        <img src="assets/images/galvanize_logo.jpg" alt="">
                     </div>
-                    <div class="container support-us">
-                        <h2>Partnerships</h2>
-                        <p><a href="#">Partnerships@myhubapp.com</a> </p>
-                        <p>303-222-2222 x.1</p>
+                    <div class="media-body">
+                        <h2>About Our Team</h2>
+                        <p>We’re a small team working together out of a co-working space named Galvanize.
+                            We work and play hard the Colorado way and we’re <em>always</em> looking for good talent.
+                            If you see something that reads like you, drop us a line.</p>
                     </div>
-                    <div class="container support-us">
-                        <h2>Press</h2>
-                        <p><a href="#">Press@myhubapp.com</a> </p>
-                        <p>303-222-2222 x.1</p>
-                    </div>
-                    <div class="container support-us">
-                        <h2>Headquarters</h2>
-                        <p>1062 Delaware St. <br> Denver, CO 80202 </p>
-                    </div>
-                    <div class="clearfix"></div>
                 </div>
-
-
-                <div class="col-md-8">
-                    <!--  <div class="hwi_mblImg text-center"> -->
+            </div><!--end jobs about section-->
+            <div class="jobsCont">
+                <div class="container">
                     <div class="row">
-                        <div class="col-sm-6 pull-left"><h3 style="color:323A45;">Contact Us</h3></div>
-                        <div class="col-sm-6 text-right pull-right require-text">All fields marked with * required</div>
-                        <div class="clearfix"></div>
-                    </div>
-                    <form class="form-horizontal" name="commentform" method="post" action="send_form_email.php">
-                        <div class="form-group">
+                        <div class="col-md-3">
+                            <div class="job_links">
+                                <h2>Available Jobs</h2>
+                                <div class="select_box hidden">
+                                    <div class="form-control visible-480">Jobs List <i class="fa fa-arrow-circle-down"></i></div>
+                                    <ul class="list-unstyled">
+                                        <li><a href="#" class="active">Senior Front End Web Developer</a></li>
+                                        <li><a href="#">Community Manager</a></li>
+                                        <li><a href="#">Data Scientist</a></li>
+                                        <li><a href="#">CEO</a></li>
 
-                            <div class="col-md-12">
-                                <input type="text" class="support-form" id="first_name" name="first_name" placeholder="Username (if applicable)">
+                                    </ul>
+                                </div>
                             </div>
-                        </div>
-                        <div class="form-group">
-
-                            <div class="col-xs-6">
-                                <input type="text" class="support-form" id="last_name" name="last_name" placeholder="First Name*" required="">
-                            </div>
-                            <div class="col-xs-6">
-                                <input type="text" class="support-form" id="last_name" name="last_name" placeholder="Last Name*" required="">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="col-md-12">
-                                <input type="text" class="support-form" id="email" name="email" placeholder="Email Address" required="">
-                            </div>
-                        </div>
-
-
-                        <div class="form-group">
-                            <div class="col-md-12">
-                                <select class="support-form">
-                                    <option value="">What are you contacting us for?</option>
-                                    <option value="1">General Questino</option>
-                                    <option value="2">Account support</option>
-                                    <option value="3">Report a bug</option>
+                            <div class="hidden">
+                                <select class="job-select">
+                                    <option value="" selected="">Senior Front End Web Developer</option>
+                                    <option value="">Community Manager</option>
+                                    <option value="">Data Scientist</option>
+                                    <option value="">CEO</option>
                                 </select>
                             </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="col-md-12">
-                                <textarea rows="5" class="support-form" id="comments" name="comments" placeholder="What's up?"></textarea>
+                            <div class="email-us">
+                                <p>We're always looking for talented people. If you feel like you're a fit for our team, we'd love to hear from you.</p>
+                                <div class="send_us_btn hidden-480 text-center">
+                                    <a href="#"><button class="btn btn-primary btn-group-lg">Send us an email</button></a>
+                                </div>
                             </div>
                         </div>
-                        <div id="file-upload" class="dropzone file-upload-border"></div>
-                        <div class="form-group">
-                            <div class="col-md-6" style="padding-bottom:60px;">
-                                <button type="submit" id="twillow_submit" value="Submit" class="btn btn-custom pull-right" style="margin-top:15px;top: 0; left: 14px;"></button>
-                            </div>
-                        </div>
-                    </form>
-                    <!-- </div> -->
-                </div>
+                        <div class="col-md-9">
+                            <div class="job_txt">
 
+                                <h3 class="clearfix">Senior Front End Developer <span class="pull-right job-date">POSTED FEBUARY 1ST, 2014</span></h3>
+                                <p>Interested in joining an early stage tech startup to showcase your front-end skills? At
+                                    Myhub, we’re looking for an ambitious, senior level Front-End Developer that’s able to hit
+                                    the ground running, contribute ideas, and develop exciting, new features inside an agile
+                                    environment. We are design, server-side, and iOS app ready with a complete v2.0 overhaul
+                                    just completed - but now we need the right Web Developer to step in and take ownership
+                                    of our front-end efforts.  </p>
+
+                                <h4>ABOUT MYHUB</h4>
+                                <p>Myhub is a small team of 5 building the fastest, easiest way to plan social events and pool
+                                    cash for anything. Whether you’re planning a park day, group dinner, road trip, happy hour,
+                                    vacation rental, you name it - Myhub is the perfect solution. We make it incredibly easy for
+                                    anyone to setup an event, send invites, collect cash, and collaborate with friends &mdash; all in
+                                    one place so you can forget chasing down friends and payments. </p>
+
+                                <h4>INDIVIDUAL QUALITIES </h4>
+                                <p>
+                                    - Excellent Communication  <br>
+                                    - Team Player <br>
+                                    - Results-oriented <br>
+                                    - Ambitious &amp; self-motivated
+                                </p>
+
+                                <h4>TECHNICAL SKILLS</h4>
+                                <p>
+                                    - Extensive API familiarity and experience <br>
+                                    - Excellent code quality <br>
+                                    - Proficient in HTML5 / CSS Development <br>
+                                    - Proficient in Javascript <br>
+                                    - Bootstrap / Responsiveness <br>
+                                    - 4+ years relevant experience
+                                </p>
+
+                                <h4>POSITION DETAILS </h4>
+                                <p>
+                                    - Contract-to-hire position <br>
+                                    - Able to work in a distributed team <br>
+                                    - Daily standups via Skype <br>
+                                    - Weekly / Bi-weekly sprint planning <br>
+                                    - $70-80k annual equivalent + equity
+                                </p>
+
+                                <p>Myhub is a privately funded startup based in Galvanize Denver located at 11th and Speer
+                                    in Denver, CO. If you’re interested, shoot us an email at <a href="job@myhubapp.com">job@myhubapp.com</a>.</p>
+                                <div style="height:128px; padding-top: 40px" class="hidden-480">
+                                    <div class="apply_btn pull-left hidden-480">
+                                        <a href="mailto:jobs@myhubapp.com"><button class="btn btn-primary btn-group-lg">Apply?</button></a>
+                                    </div>
+                                    <div class="apply_btn pull-left hidden-480">
+                                        <a href="#"><img src="assets/images/linkedin-btn.png" alt=""></a>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
 
+    </div>
     <!--part1 9-->
     <div id="page_footer_cont" class="inner_footer waypoint active-trans">
 
