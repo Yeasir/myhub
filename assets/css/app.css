@@ -7538,6 +7538,15 @@ table {
     height: 38px;
   }
 }
+@media all and (min-width: 767px) and (max-width: 991px) {
+  #footer_container, #footer_container_page {
+    height: 320px;
+  }
+
+  #fwLpr2 {
+    padding-top: 71px;
+  }
+}
 @media all and (max-width: 767px) {
   #footer_container {
     font-size: 16px;

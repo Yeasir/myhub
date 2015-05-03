@@ -1812,6 +1812,14 @@ embed.E {
     }
   }
 }
+@media all and (min-width: $small) and (max-width: $kinda-small) {
+  #footer_container, #footer_container_page {
+    height: 320px;
+  }
+  #fwLpr2 {
+    padding-top: 71px;
+  }
+}
 @media all and (max-width: $small) {
   #footer_container {
     font-size: 16px;
