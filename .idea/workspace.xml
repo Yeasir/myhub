@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/app.scss" afterPath="$PROJECT_DIR$/assets/sass/app.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
@@ -95,8 +92,8 @@
           <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.48156682" vertical-offset="45307" max-vertical-offset="46600">
-                  <caret line="1821" column="1" selection-start-line="1821" selection-start-column="1" selection-end-line="1821" selection-end-column="1" />
+                <state vertical-scroll-proportion="0.3239766" vertical-offset="46048" max-vertical-offset="47125">
+                  <caret line="1824" column="20" selection-start-line="1824" selection-start-column="20" selection-end-line="1824" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -105,7 +102,7 @@
           <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/sass/_variables.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-17.433332" vertical-offset="1277" max-vertical-offset="2175">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2150">
                   <caret line="72" column="12" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="12" />
                   <folding />
                 </state>
@@ -119,7 +116,7 @@
           <file leaf-file-name="jobs.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/jobs.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4608295" vertical-offset="3775" max-vertical-offset="10425">
+                <state vertical-scroll-proportion="0.49707603" vertical-offset="4475" max-vertical-offset="12875">
                   <caret line="159" column="53" selection-start-line="159" selection-start-column="53" selection-end-line="159" selection-end-column="53" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -251,24 +248,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myhub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myhub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -309,6 +288,9 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -316,9 +298,6 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -364,7 +343,13 @@
       <option name="project" value="LOCAL" />
       <updated>1430655448396</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="footer updated">
+      <created>1430675252459</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1430675252459</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -398,9 +383,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -408,8 +391,10 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -437,7 +422,8 @@
     <MESSAGE value="font added and style updated" />
     <MESSAGE value="contact us page updated" />
     <MESSAGE value="jobs page completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="jobs page completed" />
+    <MESSAGE value="footer updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -632,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="178875">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33407572" vertical-offset="0" max-vertical-offset="25825">
           <caret line="4" column="977" selection-start-line="4" selection-start-column="977" selection-end-line="4" selection-end-column="977" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08351893" vertical-offset="0" max-vertical-offset="4950">
           <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-163.93103" vertical-offset="3096" max-vertical-offset="186975">
           <caret line="314" column="1" selection-start-line="310" selection-start-column="16" selection-end-line="310" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -869,24 +851,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.433332" vertical-offset="1277" max-vertical-offset="2175">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2150">
           <caret line="72" column="12" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48156682" vertical-offset="45307" max-vertical-offset="46600">
-          <caret line="1821" column="1" selection-start-line="1821" selection-start-column="1" selection-end-line="1821" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jobs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4608295" vertical-offset="3775" max-vertical-offset="10425">
-          <caret line="159" column="53" selection-start-line="159" selection-start-column="53" selection-end-line="159" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1934" max-vertical-offset="8925">
+          <caret line="88" column="86" selection-start-line="88" selection-start-column="86" selection-end-line="88" selection-end-column="86" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -896,6 +870,14 @@
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3239766" vertical-offset="46048" max-vertical-offset="47125">
+          <caret line="1824" column="20" selection-start-line="1824" selection-start-column="20" selection-end-line="1824" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
