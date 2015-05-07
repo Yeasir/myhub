@@ -1,0 +1,123 @@
+.profile_info_header {
+  background: #f4f5f7;
+}
+.profile_head {
+  padding: 35px 0;
+  display: table;
+  & > div {
+    display: table-cell;
+    vertical-align: middle;
+  }
+}
+.profile-image {
+  padding: 0 40px 0 100px;
+}
+.profile-bio {
+  h2 {
+    float: left;
+    margin: 0;
+    padding-right: 40px;
+    background: url("#{$image-path}/pimg_icons/profile_name_check.png");
+  }
+  p {
+    margin: 10px;
+  }
+}
+.eric_twt {
+  color: #9ea7b3;
+  text-decoration: none;
+  font-size: .9em;
+}
+.ph_info {
+  font-weight: bold;
+  a {
+    text-decoration: underline;
+  }
+}
+.profile-button {
+  text-align: right;
+  a {
+    display: inline-block;
+    padding: 5px 15px;
+    background: #d8dee6;
+  }
+}
+
+.profile_nav {
+  border-top: 1px solid #9ea7b3;
+  ul {
+    display: table-row;
+  }
+  li {
+    display: table-cell;
+    a {
+      display: block;
+      height: 67px;
+      vertical-align: middle;
+      border-bottom: 5px solid transparent;
+      color: $tag-gray;
+
+      &.active {
+        color: $medium-gray;
+        border-bottom: 5px solid $orange;
+      }
+    }
+  }
+}
+
+.profile-list {
+  ul {
+    margin-left: -15px;
+  }
+  li {
+    display: block;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 210px;
+    &:hover {
+      .pl-name {
+        -ms-transform: translate(0px, 0px); /* IE 9 */
+        -webkit-transform: translate(0px, 0px); /* Chrome, Safari, Opera */
+        transform: translate(0px, 0px);
+      }
+      .pl-hover {
+        z-index: 5;
+        opacity: 1;
+      }
+    }
+  }
+}
+
+.pl-hover, .pl-name {
+  @include transition(1s);
+}
+.pl-name {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  color: $full-white;
+  background: rgba(0,0,0,.6);
+  z-index: 10;
+  bottom: 0;
+  left: 0;
+  -ms-transform: translate(0px, 30px); /* IE 9 */
+  -webkit-transform: translate(0px, 30px); /* Chrome, Safari, Opera */
+  transform: translate(0px, 30px);
+}
+.pl-hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0;
+  background: rgba(0,0,0,.4);
+  text-align: center;
+  display: table;
+  a {
+    display: table-cell;
+    vertical-align: middle;
+  }
+}

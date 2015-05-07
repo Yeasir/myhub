@@ -5804,6 +5804,23 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
   padding: 0 30px;
 }
 
+.profile_info_header {
+  background: #f4f5f7;
+}
+
+.profile_head {
+  padding: 35px 0;
+  display: table;
+}
+.profile_head > div {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.profile-image {
+  padding: 0 40px 0 100px;
+}
+
 body {
   background-color: #fff;
   color: #555;
