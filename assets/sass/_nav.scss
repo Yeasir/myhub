@@ -59,11 +59,16 @@
 }
 
 .dropdown-icon {
-  background: url(../images/more.png);
+  /*background: url(../images/more.png); */
   padding: 0 40px;
   background-repeat: no-repeat;
   background-position: center;
 
+}
+
+.icon-ellipses:before {
+
+	font-size: 28px;
 }
 
 .navbar-nav > li > .dropdown-menu {
@@ -379,6 +384,9 @@ body > .pushy ul {
     &.p-nav-profile {
       a {
         text-align: center;
+        &:hover {
+	        background: none;
+        }
       }
       img {
         width: 100px;

@@ -8,10 +8,19 @@
 @import 'animate';
 @import 'venobox';
 @import 'teamview';
+
+
+
 // Web App Login/Logout User
 @import 'pages/event-detail';
 @import 'pages/password-reset';
 @import 'pages/add-card';
+
+
+
+// Pages
+@import 'pages/privacy-policy';
+@import 'pages/terms-of-use';
 
 body {
   background-color: #fff;
@@ -1895,16 +1904,23 @@ embed.E {
     font-weight: $light-weight;
     font-size: 40px;
     text-transform: none;
+    @media screen and (max-width: $iphone) {
+	    font-size: 30px;
+    }
   }
   h2 {
 	  font-family: $headline;
     font-weight: $light-weight;
     font-size: 24px;
+    @media screen and (max-width: $iphone) {
+	    font-size: 18px;
+    }
   }
   h3 {
     font-family: $headline;
     font-weight: $light-weight;
     font-size: 20px;
+     
   }
 }
 
@@ -1924,6 +1940,19 @@ embed.E {
   margin: 10px 0;
   min-height: 132px;
   width: 100%;
+  
+  h2 {
+	  font-family: $headline;
+	  font-weight: $light-weight;
+	  font-size: 20px;
+	  color: $dark-blue;
+  }
+  p {
+	  font-family: $headline;
+	  font-weight: $light-weight;
+	  font-size: 16px;
+	  color: $dark-blue;
+  }
   a {
     color: #2e97e9;
   }
@@ -1949,6 +1978,9 @@ embed.E {
     font-family: $headline;
     font-weight: $heavy-weight;
     font-size: 24px;
+    @media screen and (max-width: $iphone) {
+	    padding-top: 150px;
+    } 
   }
   .col-md-8 {
     padding-top: 0px;
@@ -1961,6 +1993,11 @@ embed.E {
 	font-size: 16px;
 	font-style: italic;
 	color: $lighter-gray;
+	@media screen and (max-width: $iphone) {
+	    font-size: 12px;
+	    color: $tag-gray;
+	    padding-top: 158px;
+    } 
 }
 
 /*jobs*/
@@ -2137,4 +2174,64 @@ embed.E {
 .support_part-header {
 	  background-image: url("../images/support-map.png");
 	  min-height: 335px;
+}
+
+/* layout.css Style */
+.upload-drop-zone {
+  height: 50px;
+  border-width: 2px;
+  margin-bottom: 20px;
+}
+
+/* skin.css Style*/
+.upload-drop-zone {
+  color: $tag-gray;
+  border-style: solid;
+  border-color: $tag-gray;
+  line-height: 50px;
+  text-align: center;
+  
+  &:hover {
+	  @include ease;
+	  color: $lighter-gray;
+	  border-color: $lighter-gray;
+	  cursor: pointer;
+	  background: $tag-gray;
+  }
+}
+.upload-drop-zone.drop {
+  color: #222;
+  border-color: #222;
+}
+#dropzone-cont {
+	width: 100%;
+	padding: 0;
+}
+.panel-default {
+	border-color: transparent;
+}
+.panel {
+	box-shadow: none;
+	-webkit-box-shadow: transparent;
+	margin-bottom: 0;
+}
+.btn-green {
+	background: $green-button;
+	width: 200px;
+	height: 70px;
+	cursor: pointer;
+	@media screen and (max-width: $iphone) {
+		  margin-left: 70px;
+	}
+	
+	i {
+		color: $full-white;
+		font-size: 2.5em;
+	}
+	
+	&:hover {
+		@include ease;
+		background: darken($green-button, 10%);
+	}
+	
 }
