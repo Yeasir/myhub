@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Account.html" afterPath="$PROJECT_DIR$/Create_Account.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Login.html" afterPath="$PROJECT_DIR$/Login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Reset_Password.html" afterPath="$PROJECT_DIR$/Reset_Password.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_modal.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_pflow.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_pflow.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
@@ -39,7 +35,7 @@
           <file leaf-file-name="Create_Account_Modal.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Create_Account_Modal.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="30.15625" vertical-offset="3989" max-vertical-offset="12582">
+                <state vertical-scroll-proportion="0.0" vertical-offset="3024" max-vertical-offset="7425">
                   <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
                   <folding>
                     <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -48,11 +44,21 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="_pflow.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assets/sass/pages/_pflow.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.34450868" vertical-offset="11987" max-vertical-offset="12852">
+                  <caret line="447" column="27" selection-start-line="447" selection-start-column="27" selection-end-line="447" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="_modal.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-16.375" vertical-offset="3661" max-vertical-offset="10692">
-                  <caret line="155" column="24" selection-start-line="155" selection-start-column="24" selection-end-line="155" selection-end-column="24" />
+                <state vertical-scroll-proportion="43.53125" vertical-offset="5551" max-vertical-offset="10800">
+                  <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -61,7 +67,7 @@
           <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/sass/_variables.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-3.4375" vertical-offset="1186" max-vertical-offset="2430">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1296" max-vertical-offset="2376">
                   <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
                   <folding />
                 </state>
@@ -71,17 +77,17 @@
           <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7371">
+                <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="6912">
                   <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Login_Modal.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Login_Modal.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Login_Modal.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.03117783" vertical-offset="5400" max-vertical-offset="13230">
+                <state vertical-scroll-proportion="29.53125" vertical-offset="4347" max-vertical-offset="13230">
                   <caret line="126" column="26" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
                   <folding />
                 </state>
@@ -95,7 +101,7 @@
           <file leaf-file-name="Create_Account.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Create_Account.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-4.4375" vertical-offset="2153" max-vertical-offset="6885">
+                <state vertical-scroll-proportion="0.0" vertical-offset="2295" max-vertical-offset="5589">
                   <caret line="104" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
                   <folding>
                     <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -108,7 +114,7 @@
           <file leaf-file-name="Forgot_Password.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Forgot_Password.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="12.65625" vertical-offset="3186" max-vertical-offset="9207">
+                <state vertical-scroll-proportion="0.0" vertical-offset="2781" max-vertical-offset="7020">
                   <caret line="103" column="26" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
                   <folding />
                 </state>
@@ -118,7 +124,7 @@
           <file leaf-file-name="Login.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Login.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="2052" max-vertical-offset="9261">
+                <state vertical-scroll-proportion="0.0" vertical-offset="2052" max-vertical-offset="7317">
                   <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
                   <folding>
                     <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -130,8 +136,8 @@
           <file leaf-file-name="Reset_Password_Complete.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Reset_Password_Complete.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4053118" vertical-offset="891" max-vertical-offset="7911">
-                  <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+                <state vertical-scroll-proportion="0.4753521" vertical-offset="1215" max-vertical-offset="7911">
+                  <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
                   <folding>
                     <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
@@ -142,7 +148,7 @@
           <file leaf-file-name="Reset_Password.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Reset_Password.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="14.0" vertical-offset="3418" max-vertical-offset="9693">
+                <state vertical-scroll-proportion="0.0" vertical-offset="2970" max-vertical-offset="7425">
                   <caret line="110" column="26" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
                   <folding />
                 </state>
@@ -152,7 +158,7 @@
           <file leaf-file-name="Welcome_Modal.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Welcome_Modal.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="9.28125" vertical-offset="2673" max-vertical-offset="8505">
+                <state vertical-scroll-proportion="0.0" vertical-offset="2376" max-vertical-offset="6669">
                   <caret line="116" column="51" selection-start-line="116" selection-start-column="51" selection-end-line="116" selection-end-column="51" />
                   <folding>
                     <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -169,7 +175,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="yeasir-dev" />
       </map>
     </option>
   </component>
@@ -198,7 +204,6 @@
         <option value="$PROJECT_DIR$/assets/sass/_main.scss" />
         <option value="$PROJECT_DIR$/profile_following.html" />
         <option value="$PROJECT_DIR$/Profile_Me_Upcoming.html" />
-        <option value="$PROJECT_DIR$/assets/sass/pages/_pflow.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_modals.scss" />
         <option value="$PROJECT_DIR$/assets/sass/app.scss" />
         <option value="$PROJECT_DIR$/assets/sass/_variables.scss" />
@@ -213,6 +218,7 @@
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/Reset_Password.html" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
+        <option value="$PROJECT_DIR$/assets/sass/pages/_pflow.scss" />
       </list>
     </option>
   </component>
@@ -315,7 +321,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,6 +410,9 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -371,9 +420,6 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -461,7 +507,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431377274352</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit after marging">
+      <created>1431447117476</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1431447117476</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -488,6 +540,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -495,7 +548,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2761194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2793177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -505,7 +558,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -541,7 +593,8 @@
     <MESSAGE value="desktop fix and mobile following first page header part only" />
     <MESSAGE value="mobile design done" />
     <MESSAGE value="modal desktop done" />
-    <option name="LAST_COMMIT_MESSAGE" value="modal desktop done" />
+    <MESSAGE value="commit after marging" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit after marging" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -718,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39661017" vertical-offset="0" max-vertical-offset="262170">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,14 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_pflow.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80715936" vertical-offset="11748" max-vertical-offset="12636">
-          <caret line="460" column="1" selection-start-line="439" selection-start-column="0" selection-end-line="460" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33296213" vertical-offset="484567" max-vertical-offset="552420">
@@ -828,13 +872,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="12.65625" vertical-offset="2889" max-vertical-offset="8991">
           <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Forgot_Password.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.65625" vertical-offset="3186" max-vertical-offset="9207">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2781" max-vertical-offset="7020">
           <caret line="103" column="26" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
           <folding />
         </state>
@@ -842,7 +885,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Create_Account.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4375" vertical-offset="2153" max-vertical-offset="6885">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2295" max-vertical-offset="5589">
           <caret line="104" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -863,7 +906,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4375" vertical-offset="1186" max-vertical-offset="2430">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1296" max-vertical-offset="2376">
           <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
           <folding />
         </state>
@@ -879,23 +922,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Reset_Password.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="14.0" vertical-offset="3418" max-vertical-offset="9693">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2970" max-vertical-offset="7425">
           <caret line="110" column="26" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.375" vertical-offset="3661" max-vertical-offset="10692">
-          <caret line="155" column="24" selection-start-line="155" selection-start-column="24" selection-end-line="155" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Create_Account_Modal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="30.15625" vertical-offset="3989" max-vertical-offset="12582">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3024" max-vertical-offset="7425">
           <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -905,7 +940,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Login_Modal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03117783" vertical-offset="5400" max-vertical-offset="13230">
+        <state vertical-scroll-proportion="29.53125" vertical-offset="4347" max-vertical-offset="13230">
           <caret line="126" column="26" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
           <folding />
         </state>
@@ -913,7 +948,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Welcome_Modal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.28125" vertical-offset="2673" max-vertical-offset="8505">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2376" max-vertical-offset="6669">
           <caret line="116" column="51" selection-start-line="116" selection-start-column="51" selection-end-line="116" selection-end-column="51" />
           <folding>
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -921,13 +956,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="43.53125" vertical-offset="5551" max-vertical-offset="10800">
+          <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Reset_Password_Complete.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4053118" vertical-offset="891" max-vertical-offset="7911">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.4753521" vertical-offset="1215" max-vertical-offset="7911">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_pflow.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34450868" vertical-offset="11987" max-vertical-offset="12852">
+          <caret line="447" column="27" selection-start-line="447" selection-start-column="27" selection-end-line="447" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
