@@ -17939,13 +17939,13 @@ a.mb_btn {
   background: #F4F5F7;
   border-radius: 20px;
   opacity: 1;
-  right: 15px;
-  top: 5px;
+  right: -10px;
+  top: -10px;
   color: #323A45;
   position: absolute;
 }
 .modal-dialog .fmodal_wrap .modal-close .icon-decline_Outline {
-  margin-top: -20px;
+  margin-top: 0;
 }
 
 .mb_btn_white {
