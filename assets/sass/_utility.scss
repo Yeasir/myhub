@@ -26,6 +26,18 @@ textarea.default-input{
   font-size: 1em;
   padding-left: 15px;
 }
+.right-arrow {
+  font-family: "myhub-icomoon";
+  text-transform: none;
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  margin-top: -.75em;
+  content: "\e68b";
+  display: block;
+  color: $light-gray;
+  font-size: $icon-font-size + 4;
+}
 
 /**
  * onoff.css

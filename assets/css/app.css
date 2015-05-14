@@ -11753,6 +11753,19 @@ textarea.default-input {
   padding-left: 15px;
 }
 
+.right-arrow, .sl_links li a:after, .support_center_wrap li a:after {
+  font-family: "myhub-icomoon";
+  text-transform: none;
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  margin-top: -.75em;
+  content: "\e68b";
+  display: block;
+  color: #9EA7B3;
+  font-size: 36px;
+}
+
 /**
  * onoff.css
  * Author: http://proto.io/freebies/onoff/
@@ -18233,7 +18246,7 @@ a.mb_btn {
 
 .sl_links {
   background: #F4F5F7;
-  padding-left: 15px;
+  padding-left: 22px;
 }
 .sl_links li {
   display: block;
@@ -18242,21 +18255,9 @@ a.mb_btn {
   display: block;
   position: relative;
   color: #5E6D81;
-  padding: 20px;
+  padding: 20px 0;
   border-bottom: 1px solid #9EA7B3;
-  font-size: 1.3em;
-}
-.sl_links li a:after {
-  font-family: "myhub-icomoon";
-  text-transform: none;
-  position: absolute;
-  right: 12px;
-  top: 50%;
-  margin-top: -.75em;
-  content: "\e68b";
-  display: block;
-  color: #9EA7B3;
-  font-size: 36px;
+  font-size: 1.2em;
 }
 .sl_links li a:before {
   display: block;
@@ -18264,14 +18265,14 @@ a.mb_btn {
   width: 0;
   height: 0;
   visibility: hidden;
-  left: -15px;
+  left: -20px;
   top: 50%;
-  border: 5px solid #FF6B42;
+  border: 4px solid #FF6B42;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -o-transition: all 200ms ease;
   transition: all 200ms ease;
-  content: ' ';
+  content: '';
 }
 .sl_links li:last-child a {
   border-bottom: none;
@@ -18458,6 +18459,28 @@ a.mb_btn {
 }
 .mb_btn_red:hover {
   background: #c23321;
+}
+
+.support_center_wrap li {
+  display: block;
+  border-bottom: 1px solid #9EA7B3;
+}
+.support_center_wrap li h4 {
+  margin: 0;
+  padding: 20px 0 10px;
+  font-size: 1.15em;
+}
+.support_center_wrap li a {
+  color: #5E6D81;
+  display: block;
+  padding: 20px 0;
+  position: relative;
+}
+.support_center_wrap li a:before {
+  display: none;
+}
+.support_center_wrap li a:hover {
+  color: #323A45;
 }
 
 @media all and (min-width: 768px) {
