@@ -15925,7 +15925,7 @@ header h1 {
 .cd-item-info p {
   margin: 1em 0;
   margin: 5px 0;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-family: 100;
   font-size: 18px;
   color: #1D2735;
@@ -16153,7 +16153,7 @@ header h1 {
   }
 
   .cd-item-info h3 {
-    font-family: "Gill Sans W01", sans-serif;
+    font-family: "Avenir W01", sans-serif;
     font-weight: 600;
     font-size: 20px;
     text-transform: uppercase;
@@ -16204,7 +16204,7 @@ header h1 {
 
   .cd-item-info p {
     margin: 5px 0;
-    font-family: "Gill Sans W01", sans-serif;
+    font-family: "Avenir W01", sans-serif;
     font-family: 100;
     font-size: 18px;
     color: #1D2735;
@@ -16751,7 +16751,7 @@ div.joined a.join_action .event-detail-desktop-rsvp-button.selected-rsvp-option:
 }
 
 .mobile-rsvp-bar {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   position: fixed;
   bottom: 0;
   left: 0px;
@@ -16781,7 +16781,7 @@ div.joined a.join_action .event-detail-desktop-rsvp-button.selected-rsvp-option:
   background-image: url("/assets/images/users_white.svg");
 }
 .mobile-rsvp-bar div.mobile-rsvp-bar-comments-button {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-size: 12pt;
   margin-left: 3px;
   margin-right: -3px;
@@ -16806,7 +16806,7 @@ div.joined a.join_action .event-detail-desktop-rsvp-button.selected-rsvp-option:
 }
 
 .mobile-rsvp-actions {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-size: 16pt;
   position: fixed;
   bottom: 0px;
@@ -18328,7 +18328,7 @@ a.mb_btn {
 body {
   background-color: #fff;
   color: #555;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-size: 18px !important;
   font-weight: 200;
 }
@@ -18568,7 +18568,7 @@ a#ln-logo {
 
 .banner-tilte {
   color: #FFF;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   position: absolute;
   top: 31%;
   left: 0;
@@ -18583,7 +18583,7 @@ a#ln-logo {
 
 .banner-tilte span {
   color: #FFF;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   text-align: center;
   top: 50%;
   left: 43%;
@@ -18600,7 +18600,7 @@ a#ln-logo {
   float: left;
   margin-right: 40px;
   margin-top: 10px;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-size: 18px;
 }
 
@@ -18706,7 +18706,7 @@ a#ln-logo {
 }
 
 .twilow_sms label {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-size: 18px;
   font-weight: 300;
   color: inherit;
@@ -19167,7 +19167,7 @@ a#ln-logo {
   display: inline-block;
   width: 200px;
   text-align: center;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 300;
   font-size: 20px;
   padding: 12px 25px;
@@ -19396,7 +19396,7 @@ a#ln-logo {
 
 /*page content default*/
 .page_content {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-size: 18px;
   color: #323a45;
 }
@@ -19461,7 +19461,7 @@ a#ln-logo {
 }
 
 .headerwrap h2 {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
 }
 
@@ -19493,7 +19493,7 @@ a#ln-logo {
   color: #1D2735;
 }
 .absr_txt p {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-family: 100;
   font-size: 20px;
   color: #1D2735;
@@ -19513,7 +19513,7 @@ a#ln-logo {
   }
 
   .abt_txt {
-    font-family: "Gill Sans W01", sans-serif;
+    font-family: "Avenir W01", sans-serif;
     font-weight: 100;
     font-size: 18px;
   }
@@ -19578,7 +19578,7 @@ a#ln-logo {
   color: #1D2735;
 }
 #about_team_cont p {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   color: #1D2735;
 }
@@ -19656,7 +19656,7 @@ a#ln-logo {
 .fNav li {
   margin: 5px 0 0;
   min-width: 115px;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -19705,7 +19705,7 @@ a#ln-logo {
   color: #1D2735;
 }
 .hiwp_txt2 p {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   font-size: 20px;
   color: #1D2735;
@@ -19731,7 +19731,7 @@ a#ln-logo {
 
 .hwi_tablinks li a {
   display: block;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 400;
   font-size: 28px;
   padding: 7px 15px;
@@ -19762,7 +19762,7 @@ a#ln-logo {
 }
 
 .hwi_price_thumbs_wrap h3 {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 200;
   font-size: 20px;
   text-transform: uppercase;
@@ -19864,7 +19864,7 @@ a#ln-logo {
 
 .hwip_txt h4 {
   color: #00bd96;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   font-size: 25px;
   line-height: 30px;
@@ -19939,7 +19939,7 @@ table {
 
 .hwi_lctbl td:nth-child(2) {
   font-size: 1.8em;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 300;
 }
 
@@ -19949,7 +19949,7 @@ table {
   font-size: 40px;
   line-height: 1;
   margin: 0;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
 }
 
@@ -20117,7 +20117,7 @@ table {
 
 .flogoCont p {
   max-width: 350px;
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   font-size: 18px;
 }
@@ -20133,7 +20133,7 @@ table {
   color: #1D2735;
 }
 #hwi_pool_price p {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   font-size: 20px;
   color: #1D2735;
@@ -20146,7 +20146,7 @@ table {
   color: #1D2735;
 }
 #hiw_lcost p {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   font-size: 20px;
   color: #1D2735;
@@ -20159,7 +20159,7 @@ table {
   color: #1D2735;
 }
 #hiw_sinvitation p {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   font-size: 20px;
   color: #1D2735;
@@ -20172,7 +20172,7 @@ table {
   color: #1D2735;
 }
 #hiw_collaborate p {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   font-size: 20px;
   color: #1D2735;
@@ -20186,7 +20186,7 @@ table {
   padding-bottom: 25px;
 }
 #hiw_mcalender p {
-  font-family: "Gill Sans W01", sans-serif;
+  font-family: "Avenir W01", sans-serif;
   font-weight: 100;
   font-size: 20px;
   color: #1D2735;
