@@ -121,9 +121,9 @@
                 <div class="sl_links_wrap">
                     <div class="sl_links">
                         <ul class="clearfix">
-                            <li><a href="#">Edit Profile</a></li>
+                            <li class="active"><a href="#">Edit Profile</a></li>
                             <li><a href="#">Account Settings</a></li>
-                            <li class="active"><a href="#">Payment Methods</a></li>
+                            <li><a href="#">Payment Methods</a></li>
                             <li><a href="#">Notifications</a></li>
                             <li><a href="#">Support Center</a></li>
                             <li><a href="#">Log Out</a></li>
@@ -141,59 +141,54 @@
             <div class="spc_content">
                 <div class="panel panel-default panel-settings">
                     <div class="panel-heading">
-                        <h3 class="panel-title">Payment Methods</h3>
+                        <h3 class="panel-title">Edit Profile</h3>
                     </div>
                     <div class="panel-body">
-                        <form action="#" class="account_form pm_wrap">
-                            <div class="pm_box">
-                                <h4>Bank Accounts</h4>
-                                <a href="#" class="mb_btn mb_btn_lgray">+ New bank account</a>
-                                <div class="pmb_input_wrap">
-                                    <div class="pmb_input modal_input">
-                                        <input type="text" value="Well Fargo .... 6829" style="padding-left: 15px;" readonly>
-                                        <span class="icon-x"></span>
-                                        <span class="icon-checkmark show"></span>
-                                    </div>
-                                    <a href="#" class="btn mb_btn pull-left">Verify</a>
-                                    <a href="#" class="btn mb_btn mb_btn_red pull-right">Delete</a>
+                        <form action="#" class="account_form">
+                            <div class="ac_pb_top">
+                                <div class="form-group">
+                                    <label for="username">username</label>
+                                    <input type="text" class="default-input" id="username" placeholder="erichhubble">
                                 </div>
-                                <div class="light_txt">*You must verify your bank account in order to pay with it.</div>
-                            </div>
-                            <div class="pm_box">
-                                <h4>Card Accounts</h4>
-                                <a href="#" class="mb_btn mb_btn_lgray">+ New card</a>
-                                <div class="pmb_input_wrap">
-                                    <div class="pmb_input modal_input">
-                                        <input type="text" readonly value="....6829">
-                                        <span class="icon-Visa">
-                                            <span class="path1"></span><span class="path2"></span>
-                                            <span class="path3"></span><span class="path4"></span>
-                                            <span class="path5"></span><span class="path6"></span>
-                                            <span class="path7"></span><span class="path8"></span>
-                                        </span>
-                                        <span class="icon-x"></span>
-                                        <span class="icon-checkmark show"></span>
-                                    </div>
-                                    <a href="#" class="btn mb_btn mb_btn_red pull-right">Delete</a>
+                                <div class="form-group col-sm-6" style="padding-left: 0;">
+                                    <label for="fName">first name</label>
+                                    <input type="text" class="default-input" id="fName" placeholder="Eric">
                                 </div>
-                                <div class="pmb_input_wrap">
-                                    <div class="pmb_input modal_input">
-                                        <input type="text" value="....6829">
-                                        <span class="icon-Mastercard">
-                                            <span class="path1"></span><span class="path2"></span>
-                                            <span class="path3"></span><span class="path4"></span>
-                                            <span class="path5"></span><span class="path6"></span>
-                                            <span class="path7"></span><span class="path8"></span>
-                                            <span class="path9"></span><span class="path10"></span>
-                                            <span class="path11"></span><span class="path12"></span>
-                                            <span class="path13"></span>
-                                        </span>
-                                        <span class="icon-x" ></span>
-                                        <span class="icon-checkmark" ></span>
+                                <div class="form-group col-sm-6" style="padding-right: 0;">
+                                    <label for="lName">last name</label>
+                                    <input type="text" class="default-input" id="lName" placeholder="Hubbell">
+                                </div>
+                                <div class="form-group">
+                                    <label for="location">location</label>
+                                    <input type="text" class="default-input" id="location" placeholder="Denver, CO, 80222">
+                                </div>
+                                <div class="form-group">
+                                    <label for="web_add">web address</label>
+                                    <input type="text" class="default-input" id="web_add" placeholder="www.myhubapp.com">
+                                </div>
+                                <div class="form-group">
+                                    <label for="about">about</label>
+                                    <span class="pull-right light_txt">140 character limit</span>
+                                    <textarea class="default-input" id="about">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi fugiat maxime mollitia tenetur ut.</textarea>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="apb_left">
+                                        <label>private profile</label>
+                                        <p>Switch privacy on to approve follows and hide your events from the public.</p>
                                     </div>
-                                    <a href="#" class="btn mb_btn mb_btn_red pull-right">Delete</a>
+                                    <div class="onofWrap pull-right">
+                                        <div class="onoffswitch">
+                                            <input type="checkbox" checked="" class="onoffswitch-checkbox" id="onoffswitch1">
+                                            <label for="onoffswitch1" class="onoffswitch-label">
+                                                <span class="onoffswitch-inner"></span>
+                                                <span class="onoffswitch-switch"></span>
+                                            </label>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
+
                         </form>
                     </div>
                 </div>
@@ -291,7 +286,7 @@
 <!--modals-->
 
 
-<div class="modal middlemodal fade in" id="downloadAppModal" tabindex="-1" role="dialog" arial-labelledby="downloadAppModalTitle" aria-hidden="false" >
+<div class="modal middlemodal fade in" id="downloadAppModal" tabindex="-1" role="dialog" arial-labelledby="downloadAppModalTitle" aria-hidden="false" style="display: none;">
     <div class="modal-dialog">
         <div class="modal-content">
             <button type="button" class="btn close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
@@ -331,6 +326,7 @@
 <script type="text/javascript" src="assets/js/venobox.min.js"></script>
 <script type="text/javascript" src="assets/js/velocity.min.js"></script>
 <script type="text/javascript" src="assets/js/team_view.js"></script>
+<script type="text/javascript" src="assets/js/jquery.onoff.min.js"></script>
 
 
 <!--add scripts before this line-->

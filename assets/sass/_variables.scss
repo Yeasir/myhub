@@ -24,7 +24,7 @@ $twitter-blue: #2E97E9;
 $twitter-blue-2: #2988D2;
 $link-blue: #399AE7;
 $google-red: #DD4B39;
-$google-red-2: #11A47E;
+$google-red-2: darken($google-red, 10%);
 $green-button: #00BA84;
 // refactor
 $green: $green-button;

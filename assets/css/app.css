@@ -11748,6 +11748,96 @@
   background: #F4F5F7;
 }
 
+textarea.default-input {
+  font-size: 1em;
+  padding-left: 15px;
+}
+
+/**
+ * onoff.css
+ * Author: http://proto.io/freebies/onoff/
+ * Author: Timmy Willison
+ */
+.onoffswitch {
+  position: relative;
+  width: 86px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.onoffswitch-checkbox {
+  display: none;
+}
+
+.onoffswitch-label {
+  display: block;
+  overflow: hidden;
+  cursor: pointer;
+  border: 2px solid #FF6B42;
+  border-radius: 40px;
+}
+
+.onoffswitch-inner {
+  display: block;
+  width: 200%;
+  margin-left: -100%;
+  -webkit-transition: margin 0.2s ease-in;
+  transition: margin 0.2s ease-in;
+}
+
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+  float: left;
+  padding: 0;
+  width: 50%;
+  height: 42px;
+  color: white;
+  font: bold 14px/26px Trebuchet, Arial, sans-serif;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.onoffswitch-inner:before {
+  content: "";
+  padding-left: 10px;
+  color: #FFFFFF;
+  background-color: #FF6B42;
+}
+
+.onoffswitch-inner:after {
+  content: "";
+  padding-right: 10px;
+  color: #999999;
+  background-color: #FF6B42;
+  text-align: right;
+}
+
+.onoffswitch-switch {
+  position: absolute;
+  display: block;
+  top: 0;
+  bottom: 0;
+  right: 40px;
+  width: 42px;
+  margin: 2px;
+  background: #FFFFFF;
+  border: 1px solid #E5603B;
+  border-radius: 25px;
+  box-shadow: 0 0 2px #E5603B;
+  -webkit-transition: right 0.2s ease-in, -webkit-box-shadow 0.2s ease-in;
+  transition: right 0.2s ease-in, box-shadow 0.2s ease-in;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+  margin-left: 0;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+  right: 0;
+}
+
 .nav.navbar-nav.navbar-right {
   margin-right: 0;
 }
@@ -18234,6 +18324,9 @@ a.mb_btn {
 .account_form input {
   padding-left: 15px;
 }
+.account_form .modal_input input {
+  padding-left: 65px;
+}
 
 .ac_pb_btm {
   padding: 20px;
@@ -18277,7 +18370,7 @@ a.mb_btn {
   font-size: 1.5em;
 }
 .panel-settings .panel-body {
-  padding: 20px;
+  padding: 30px;
   color: #323A45;
 }
 
@@ -18317,6 +18410,53 @@ a.mb_btn {
   border-radius: 15px;
   border: 1px solid #9EA7B3;
   font-size: 17px;
+}
+
+.mb_btn_lgray {
+  border-color: #F4F5F7;
+  background: #F4F5F7;
+  color: #9EA7B3;
+  padding: 15px;
+}
+.mb_btn_lgray:hover {
+  background: #9EA7B3;
+}
+
+.pmb_input {
+  width: 50%;
+  margin-right: 20px;
+  float: left;
+}
+
+.pmb_input_wrap {
+  padding-top: 20px;
+}
+.pmb_input_wrap .pmb_input input {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #323A45;
+  background: #bbc1c9;
+}
+.pmb_input_wrap .pmb_input span[class^="icon-Mastercard"], .pmb_input_wrap .pmb_input span[class^="icon-Visa"] {
+  font-size: 40px;
+}
+.pmb_input_wrap .mb_btn {
+  padding: 30px 0;
+  width: 105px;
+  color: #FFFFFF;
+}
+
+.light_txt {
+  color: #F4F5F7;
+  padding-top: 20px;
+}
+
+.mb_btn_red {
+  background: #DD4B39;
+  color: #FFFFFF;
+}
+.mb_btn_red:hover {
+  background: #c23321;
 }
 
 @media all and (min-width: 768px) {
