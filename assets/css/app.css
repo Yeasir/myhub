@@ -18096,7 +18096,7 @@ a.mb_btn {
   }
 }
 .settings_page_container {
-  padding: 20px 0;
+  padding: 30px 0;
 }
 
 .spc_left {
@@ -18276,6 +18276,44 @@ a.mb_btn {
 .panel-settings .panel-body {
   padding: 20px;
   color: #323A45;
+}
+
+.snotifications_table {
+  padding: 0 10px;
+}
+.snotifications_table th, .snotifications_table td {
+  padding: 6px 10px;
+  text-align: center;
+  border-bottom: 1px solid #9EA7B3;
+  vertical-align: middle;
+}
+.snotifications_table th:first-child, .snotifications_table td:first-child {
+  padding-left: 0;
+  text-align: left;
+}
+.snotifications_table th {
+  color: #323A45;
+  font-size: 1.2em;
+  font-weight: 200;
+}
+.snotifications_table th .icon-iphone {
+  font-size: 37px;
+}
+.snotifications_table td {
+  color: #5E6D81;
+  font-size: 1em;
+  padding: 15px 10px;
+}
+.snotifications_table td span[class^="icon"] {
+  font-size: 20px;
+  cursor: pointer;
+}
+.snotifications_table td span[class^="icon-close"] {
+  color: #9EA7B3;
+  background: #9EA7B3;
+  border-radius: 15px;
+  border: 1px solid #9EA7B3;
+  font-size: 17px;
 }
 
 @media all and (min-width: 768px) {
