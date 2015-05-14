@@ -61,13 +61,7 @@
   position: relative;
   margin-bottom: 15px;
   input {
-    width: 100%;
-    padding: 15px 15px 15px 65px;
-    font-size: 1.2em;
-    color: $medium-gray;
-    border: 1px solid transparent;
-    border-radius: 5px;
-    background: $off-white;
+    @extend .default-input;
   }
   span[class^="icon"]{
     position: absolute;

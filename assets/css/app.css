@@ -11731,6 +11731,23 @@
   padding-right: 0px;
 }
 
+.hide_before_after:after {
+  display: none;
+}
+.hide_before_after:before {
+  display: none;
+}
+
+.default-input, .modal_input input {
+  width: 100%;
+  padding: 15px 15px 15px 65px;
+  font-size: 1.2em;
+  color: #323A45;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background: #F4F5F7;
+}
+
 .nav.navbar-nav.navbar-right {
   margin-right: 0;
 }
@@ -17735,15 +17752,6 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
   position: relative;
   margin-bottom: 15px;
 }
-.modal_input input {
-  width: 100%;
-  padding: 15px 15px 15px 65px;
-  font-size: 1.2em;
-  color: #323A45;
-  border: 1px solid transparent;
-  border-radius: 5px;
-  background: #F4F5F7;
-}
 .modal_input span[class^="icon"] {
   position: absolute;
   display: block;
@@ -18085,6 +18093,198 @@ a.mb_btn {
 @media all and (max-width: 480px) {
   .mb_btns span[class^="icon-Facebook_Square"] {
     left: 10px;
+  }
+}
+.settings_page_container {
+  padding: 20px 0;
+}
+
+.spc_left {
+  float: left;
+  width: 320px;
+}
+
+.stl_top {
+  padding: 25px 0 25px 25px;
+  background: #F4F5F7;
+}
+
+.stlt_img {
+  float: left;
+  width: 80px;
+}
+.stlt_img img {
+  display: block;
+  border-radius: 100px;
+  width: 100%;
+}
+
+.stlt_txt {
+  padding-left: 20px;
+  float: left;
+}
+.stlt_txt h3 {
+  color: #323A45;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin: 15px 0 3px;
+}
+.stlt_txt a {
+  font-size: 1.1em;
+  color: #5E6D81;
+}
+
+.sl_links_wrap {
+  margin-top: 45px;
+}
+
+.sl_links {
+  background: #F4F5F7;
+  padding-left: 15px;
+}
+.sl_links li {
+  display: block;
+}
+.sl_links li a {
+  display: block;
+  position: relative;
+  color: #5E6D81;
+  padding: 20px;
+  border-bottom: 1px solid #9EA7B3;
+  font-size: 1.3em;
+}
+.sl_links li a:after {
+  font-family: "myhub-icomoon";
+  text-transform: none;
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  margin-top: -.75em;
+  content: "\e68b";
+  display: block;
+  color: #9EA7B3;
+  font-size: 36px;
+}
+.sl_links li a:before {
+  display: block;
+  position: absolute;
+  width: 0;
+  height: 0;
+  visibility: hidden;
+  left: -15px;
+  top: 50%;
+  border: 5px solid #FF6B42;
+  -webkit-transition: all 200ms ease;
+  -moz-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease;
+  content: ' ';
+}
+.sl_links li:last-child a {
+  border-bottom: none;
+}
+.sl_links li.active a, .sl_links li a:hover {
+  color: #323A45;
+}
+.sl_links li.active a:before, .sl_links li a:hover:before {
+  visibility: visible;
+  height: 100%;
+  top: 0;
+}
+
+.sll_socials {
+  margin-top: 35px;
+}
+.sll_socials li {
+  width: 48%;
+}
+.sll_socials li a {
+  display: block;
+  border-radius: 4px;
+  text-align: center;
+  padding: 10px;
+  font-size: 37px;
+  color: #FFFFFF;
+}
+.sll_socials li.fb_slls a {
+  background: #3B5998;
+}
+.sll_socials li.fb_slls a:hover {
+  background: #355089;
+}
+.sll_socials li.twt_slls a {
+  background: #2E97E9;
+}
+.sll_socials li.twt_slls a:hover {
+  background: #2988D2;
+}
+
+.spc_content {
+  margin-left: 340px;
+}
+
+.account_form label {
+  color: #323A45;
+  font-weight: 200;
+  font-size: 1.2em;
+}
+.account_form input {
+  padding-left: 15px;
+}
+
+.ac_pb_btm {
+  padding: 20px;
+}
+
+.apb_left {
+  float: left;
+}
+.apb_left h3 {
+  color: #323A45;
+  margin: 10px 0 5px;
+}
+.apb_left p {
+  color: #9EA7B3;
+}
+
+.deactivate-button {
+  display: block;
+  float: right;
+  width: 115px;
+  padding: 5px;
+  font-size: 36px;
+  text-align: center;
+  color: #FFFFFF;
+  background: #E5603B;
+  border-radius: 5px;
+}
+.deactivate-button:hover {
+  background: #FF6B42;
+  color: #FFFFFF;
+}
+
+.panel-settings.panel {
+  border: 1px solid #9EA7B3;
+}
+.panel-settings.panel > .panel-heading {
+  border-color: #9EA7B3;
+}
+.panel-settings .panel-title {
+  color: #323A45;
+  font-size: 1.5em;
+}
+.panel-settings .panel-body {
+  padding: 20px;
+  color: #323A45;
+}
+
+@media all and (min-width: 768px) {
+  .settings_page_container {
+    margin-top: 55px;
+  }
+
+  .ac_pb_btm {
+    padding: 20% 0 5%;
   }
 }
 body {
