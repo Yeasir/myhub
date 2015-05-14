@@ -1,9 +1,9 @@
 
 body {
   background-color: #fff;
-  color: #555;
+  color: $tag-gray;
   font-family: $main-fonts;
-  font-size: 18px !important;
+  font-size: 16px !important;
   font-weight: $regular-weight;
 }
 
@@ -45,13 +45,20 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
 
+label {
+  font-weight: $regular-weight;
+  color: inherit;
+}
+
 h2 {
   @media screen and (max-width: $iphone) {
     font-size: 25px;
     margin: 0.5em 0 0.3em;
   }
 }
-
+.h4, h4 {
+  font-size: 16px;
+}
 /* CSS used here will be applied after bootstrap.css */
 .tab-content .tab-pane {
   position: relative;

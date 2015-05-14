@@ -11741,7 +11741,7 @@
 .default-input, .modal_input input {
   width: 100%;
   padding: 15px 15px 15px 65px;
-  font-size: 1.2em;
+  font-size: 1.125em;
   color: #323A45;
   border: 1px solid transparent;
   border-radius: 5px;
@@ -11816,7 +11816,7 @@ textarea.default-input {
   content: "";
   padding-left: 10px;
   color: #FFFFFF;
-  background-color: #FF6B42;
+  background-color: #9EA7B3;
 }
 
 .onoffswitch-inner:after {
@@ -17351,7 +17351,7 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
 .eric_twt {
   color: #9ea7b3;
   text-decoration: none;
-  font-size: .9em;
+  font-size: 1.125em;
 }
 
 .ph_info {
@@ -17452,7 +17452,7 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
   bottom: 0;
   left: 0;
   font-family: "Helvetica Neue", sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   -ms-transform: translate(0px, 30px);
   /* IE 9 */
   -webkit-transform: translate(0px, 30px);
@@ -17497,7 +17497,7 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
   margin: 0 auto;
 }
 .pmc_inner h2 {
-  font-weight: 400;
+  font-weight: 600;
   margin: 13px 0 10px;
 }
 
@@ -17557,7 +17557,7 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
   margin: 0;
   font-size: 20px;
   padding-top: 2px;
-  font-weight: 400;
+  font-weight: 600;
   text-align: center;
 }
 .pmu_event_date h3 span {
@@ -17646,7 +17646,7 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
 #profile_info_header_mobile .profile_nav li a {
   font-family: "Avenir W01", sans-serif;
   font-size: 1.3em;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 #follow_number {
@@ -17835,7 +17835,7 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
 }
 .fmodal_head h2 {
   margin: 0;
-  font-size: 1.45em;
+  font-size: 1.35em;
   line-height: 1;
   color: #323A45;
 }
@@ -17922,7 +17922,7 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
   background: #00BA84;
   text-align: center;
   text-shadow: 0 0 0 #FFFFFF;
-  font-size: 1.15em;
+  font-size: 1.125em;
 }
 .mb_btn:hover {
   color: #FFFFFF;
@@ -18257,7 +18257,7 @@ a.mb_btn {
   color: #5E6D81;
   padding: 20px 0;
   border-bottom: 1px solid #9EA7B3;
-  font-size: 1.2em;
+  font-size: 1em;
 }
 .sl_links li a:before {
   display: block;
@@ -18314,12 +18314,12 @@ a.mb_btn {
 }
 
 .spc_content {
-  margin-left: 340px;
+  margin-left: 365px;
 }
 
 .account_form label {
   color: #323A45;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 1.2em;
 }
 .account_form input {
@@ -18391,7 +18391,7 @@ a.mb_btn {
 .snotifications_table th {
   color: #323A45;
   font-size: 1.2em;
-  font-weight: 200;
+  font-weight: 400;
 }
 .snotifications_table th .icon-iphone {
   font-size: 37px;
@@ -18437,7 +18437,7 @@ a.mb_btn {
   padding-top: 30px;
   padding-bottom: 30px;
   color: #323A45;
-  background: #bbc1c9;
+  background: #D8DEE6;
 }
 .pmb_input_wrap .pmb_input span[class^="icon-Mastercard"], .pmb_input_wrap .pmb_input span[class^="icon-Visa"] {
   font-size: 40px;
@@ -18451,6 +18451,7 @@ a.mb_btn {
 .light_txt {
   color: #F4F5F7;
   padding-top: 20px;
+  font-size: 0.875em;
 }
 
 .mb_btn_red {
@@ -18483,6 +18484,47 @@ a.mb_btn {
   color: #323A45;
 }
 
+span.light_txt {
+  padding: 0;
+}
+
+.fmodal_head .light_txt {
+  color: #9EA7B3;
+  margin-top: 5px;
+  font-size: 0.75em;
+}
+
+.smdl_title {
+  border: 1px solid #9EA7B3;
+  color: #323A45;
+  padding: 10px;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.smdl_title > span {
+  float: left;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.smdl_title > span[class^="icon"] {
+  margin-top: 0;
+  font-size: 36px;
+}
+
+.settings_modals .modal_input input {
+  padding-left: 15px;
+}
+.settings_modals .fmodal_wrap_medium .fmodal_body {
+  padding: 25px;
+}
+.settings_modals .mb_btns {
+  padding-top: 10px;
+}
+
+.fmodal_body label {
+  color: #323A45;
+}
+
 @media all and (min-width: 768px) {
   .settings_page_container {
     margin-top: 55px;
@@ -18494,10 +18536,10 @@ a.mb_btn {
 }
 body {
   background-color: #fff;
-  color: #555;
+  color: #5E6D81;
   font-family: "Avenir W01", sans-serif;
-  font-size: 18px !important;
-  font-weight: 200;
+  font-size: 16px !important;
+  font-weight: 400;
 }
 
 .modal-open .modal,
@@ -18538,11 +18580,20 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
 
+label {
+  font-weight: 400;
+  color: inherit;
+}
+
 @media screen and (max-width: 480px) {
   h2 {
     font-size: 25px;
     margin: 0.5em 0 0.3em;
   }
+}
+
+.h4, h4 {
+  font-size: 16px;
 }
 
 /* CSS used here will be applied after bootstrap.css */
@@ -19713,7 +19764,7 @@ a#ln-logo {
 
 .abstc_txt h3 {
   font-family: "Helvetica Neue", sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   padding-top: 10px;
   font-size: 30px;
 }
@@ -19800,7 +19851,7 @@ a#ln-logo {
 }
 .fNav.col-md-7 h5 {
   font-family: "Avenir W01", sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 16px;
 }
 .fNav.col-md-7 a {
@@ -19899,7 +19950,7 @@ a#ln-logo {
 .hwi_tablinks li a {
   display: block;
   font-family: "Avenir W01", sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 28px;
   padding: 7px 15px;
   color: #1D2735;
@@ -19930,7 +19981,7 @@ a#ln-logo {
 
 .hwi_price_thumbs_wrap h3 {
   font-family: "Avenir W01", sans-serif;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 20px;
   text-transform: uppercase;
   color: #5F6E82;
@@ -20096,7 +20147,7 @@ table {
 .hwi_lctbl td {
   padding: 10px;
   text-align: center;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 1.2em;
 }
 

@@ -46,7 +46,7 @@
       color: $tag-gray;
       padding: 20px 0;
       border-bottom: 1px solid $light-gray;
-      font-size: 1.2em;
+      font-size: 1em;
 
       &:after {
         @extend .right-arrow;
@@ -104,7 +104,7 @@
   }
 }
 .spc_content {
-  margin-left: 340px;
+  margin-left: 365px;
 }
 .account_form {
   label {
@@ -225,7 +225,7 @@
       padding-top: 30px;
       padding-bottom: 30px;
       color: $medium-gray;
-      background: lighten($light-gray, 10%);
+      background: $lighter-gray;
     }
     span[class^="icon-Mastercard"], span[class^="icon-Visa"] {
       font-size: $icon-font-size + 8;
@@ -240,6 +240,7 @@
 .light_txt {
   color: $off-white;
   padding-top: 20px;
+  font-size: 0.875em;
 }
 .mb_btn_red {
   background: $google-red;
@@ -272,6 +273,50 @@
         color: $medium-gray;
       }
     }
+  }
+}
+span.light_txt {
+  padding: 0;
+}
+.fmodal_head {
+  .light_txt {
+    color: $light-gray;
+    margin-top: 5px;
+    font-size: 0.75em;
+  }
+}
+.smdl_title {
+  border: 1px solid $light-gray;
+  color: $medium-gray;
+  padding: 10px;
+  font-style: italic;
+  margin-bottom: 15px;
+  & > span {
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+  & > span[class^="icon"]{
+    margin-top: 0;
+    font-size: $icon-font-size + 4;
+  }
+}
+.settings_modals {
+  .modal_input {
+    input {
+      padding-left: 15px;
+    }
+  }
+  .fmodal_wrap_medium .fmodal_body {
+    padding: 25px;
+  }
+  .mb_btns {
+    padding-top: 10px;
+  }
+}
+.fmodal_body {
+  label {
+    color: $medium-gray;
   }
 }
 

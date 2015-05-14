@@ -16,7 +16,7 @@
 .default-input {
   width: 100%;
   padding: 15px 15px 15px 65px;
-  font-size: 1.2em;
+  font-size: 1.125em;
   color: $medium-gray;
   border: 1px solid transparent;
   border-radius: 5px;
@@ -89,7 +89,7 @@ textarea.default-input{
   content: "";
   padding-left: 10px;
   color: #FFFFFF;
-  background-color: $orange;
+  background-color: $mid-gray;
 }
 
 .onoffswitch-inner:after {
