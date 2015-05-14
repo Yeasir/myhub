@@ -226,7 +226,8 @@
   float: left;
 }
 .pmb_input_wrap {
-  padding-top: 20px;
+  margin-top: 20px;
+  min-height: 95px;
 
   .pmb_input {
     input {

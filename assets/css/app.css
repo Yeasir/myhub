@@ -18429,7 +18429,8 @@ a.mb_btn {
 }
 
 .pmb_input_wrap {
-  padding-top: 20px;
+  margin-top: 20px;
+  min-height: 95px;
 }
 .pmb_input_wrap .pmb_input input {
   padding-top: 30px;
