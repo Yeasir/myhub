@@ -320,6 +320,123 @@ span.light_txt {
   }
 }
 
+/**
+Mobile Design
+**/
+.mobile_container {
+  max-width: 767px;
+  margin: 0 auto;
+}
+.smobile_head {
+  background: $medium-gray;
+  min-height: 100px;
+}
+.smobile_head_inner {
+  color: $full-white;
+  position: relative;
+  @extend .hide_before_after;
+  h1 {
+    margin: 0;
+    line-height: 100px;
+    color: inherit;
+  }
+  .back_btn, .ms_submit_btn {
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    margin-top: -0.5em;
+    font-size: $icon-font-size;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  .ms_submit_btn {
+    left: auto;
+    right: 15px;
+  }
+  .icon-arrow_lg_back,
+  .icon-checkmark{
+    font-size: $icon-font-size;
+  }
+}
+.smobile_main {
+  padding-top: 50px;
+}
+.sm_edit_profile_top {
+  display: table;
+  padding-bottom: 50px;
+  width: 100%;
+}
+.sm_edit_profile_top_inner {
+  display: table-cell;
+  vertical-align: middle;
+  .sept_img {
+    width: 120px;
+  }
+  .sept_img_mdl {
+    margin: 0 25px;
+    color: $orange;
+    min-width: 32px;
+    display: inline-block;
+    position: relative;
+    &:before {
+      position: absolute;
+      top: 8px;
+      left: 0;
+      font-size: $icon-font-size + 3;
+    }
+  }
+  .orange_txt {
+    font-weight: $bold-weight;
+    font-style: italic;
+    display: inline-block;
+    line-height: 32px;
+  }
+}
+.orange_txt {
+  color: $orange;
+}
+.sfc_tbl {
+  padding-bottom: 20px;
+  table {
+    width: 100%;
+    border: none;
+  }
+  td {
+    padding: 20px;
+    text-align: right;
+    border-top: 1px solid $light-gray;
+    &:first-child {
+      padding-left: 0;
+      text-align: left;
+    }
+    label:not(.onoffswitch-label){
+      font-size: 1.25em;
+      color: $dark-blue;
+      font-weight: $bold-weight;
+      margin-top: 1px;
+    }
+  }
+  .onofWrap + div {
+    margin-right: 145px;
+    font-size: 1.125em;
+  }
+}
+
+.sfc_m_input {
+  width: 100%;
+  text-align: right;
+  border: none;
+  font-size: 1.25em;
+  color: $mid-gray;
+  background: $full-white;
+  padding: 10px;
+  height: 50px;
+}
+textarea.sfc_m_input {
+  resize: vertical;
+}
+
 @media all and (min-width: $small + 1){
   .settings_page_container {
     margin-top: 55px;
