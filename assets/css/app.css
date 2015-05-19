@@ -18585,6 +18585,8 @@ Mobile Design
 }
 .smobile_main > h2 {
   margin-bottom: 10px;
+  font-size: 1.4em;
+  color: #323A45;
 }
 .smobile_main .spc_left {
   float: none;
@@ -18774,7 +18776,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Avenir W01", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 label {
