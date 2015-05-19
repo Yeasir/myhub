@@ -359,9 +359,15 @@ Mobile Design
 }
 .smobile_main {
   padding-top: 50px;
+  & > h2 {
+    margin-bottom: 10px;
+  }
   .spc_left {
     float: none;
     width: auto;
+    .sl_links_wrap {
+      margin-top: 0;
+    }
     .sl_links {
       background: none;
       padding-left: 15px;

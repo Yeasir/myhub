@@ -18582,9 +18582,15 @@ Mobile Design
 .smobile_main {
   padding-top: 50px;
 }
+.smobile_main > h2 {
+  margin-bottom: 10px;
+}
 .smobile_main .spc_left {
   float: none;
   width: auto;
+}
+.smobile_main .spc_left .sl_links_wrap {
+  margin-top: 0;
 }
 .smobile_main .spc_left .sl_links {
   background: none;
