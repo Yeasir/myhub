@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp\www\myhub\Settings_Desktop_Account_mobile.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\myhub\Settings_Desktop_Notifications_email_mobile.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\myhub\Settings_Desktop_Notifications_mobile.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\myhub\Settings_Desktop_Profile_mobile.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\myhub\Settings_support_mobile.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Account.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Account.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Notifications.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Notifications.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Payment_Methods.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Payment_Methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Profile.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Support.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Support.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_settings.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_settings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_utility.scss" afterPath="$PROJECT_DIR$/assets/sass/_utility.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_variables.scss" afterPath="$PROJECT_DIR$/assets/sass/_variables.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
@@ -42,6 +31,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/sass/pages/_settings.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.28092486" vertical-offset="243" max-vertical-offset="14661">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+              <folding>
+                <element signature="e#7861#8439#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/sass/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.34375" vertical-offset="1267" max-vertical-offset="2430">
+              <caret line="58" column="10" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Settings_Desktop_Notifications.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notifications.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,10 +68,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Settings_Desktop_Account.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Settings_Desktop_Payment_Methods.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Settings_Desktop_Payment_Methods.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="27.75" vertical-offset="13578" max-vertical-offset="16686">
+              <caret line="478" column="60" selection-start-line="478" selection-start-column="60" selection-end-line="478" selection-end-column="60" />
+              <folding>
+                <element signature="n#span#0;n#div#0;n#div#1;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Settings_Desktop_Account.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6819249" vertical-offset="3253" max-vertical-offset="5022">
+            <state vertical-scroll-proportion="-13.09375" vertical-offset="3253" max-vertical-offset="5022">
               <caret line="279" column="0" selection-start-line="279" selection-start-column="0" selection-end-line="279" selection-end-column="0" />
               <folding>
                 <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -136,7 +166,6 @@
         <option value="$PROJECT_DIR$/Reset_Password.html" />
         <option value="$PROJECT_DIR$/assets/sass/app.scss" />
         <option value="$PROJECT_DIR$/Login_Modal.html" />
-        <option value="$PROJECT_DIR$/assets/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_pflow.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
         <option value="$PROJECT_DIR$/Profile_Me_Empty.html" />
@@ -153,12 +182,13 @@
         <option value="$PROJECT_DIR$/Settings_Desktop_Payment_Methods_add_bank_mobile.html" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Profile.html" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Support.html" />
-        <option value="$PROJECT_DIR$/assets/sass/pages/_settings.scss" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/assets/sass/_utility.scss" />
-        <option value="$PROJECT_DIR$/Settings_Desktop_Payment_Methods.html" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Notifications.html" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Account.html" />
+        <option value="$PROJECT_DIR$/Settings_Desktop_Payment_Methods.html" />
+        <option value="$PROJECT_DIR$/assets/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/assets/sass/pages/_settings.scss" />
       </list>
     </option>
   </component>
@@ -262,7 +292,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -515,7 +567,19 @@
       <option name="project" value="LOCAL" />
       <updated>1432062456470</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="mobile settings pages done version 1">
+      <created>1432068586494</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1432068586494</updated>
+    </task>
+    <task id="LOCAL-00032" summary="payment method add bank modal text fixed">
+      <created>1432068692317</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1432068692317</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -555,7 +619,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4067164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4067164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -582,8 +646,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="footer updated" />
-    <MESSAGE value="footer updated 1" />
     <MESSAGE value="css updated" />
     <MESSAGE value="desktop 3 profile pages" />
     <MESSAGE value="desktop fix and mobile following first page header part only" />
@@ -607,7 +669,9 @@
     <MESSAGE value="mobile notifications page" />
     <MESSAGE value="mobile email notifications page" />
     <MESSAGE value="mobile support page" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile support page" />
+    <MESSAGE value="mobile settings pages done version 1" />
+    <MESSAGE value="payment method add bank modal text fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="payment method add bank modal text fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -838,14 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4375" vertical-offset="37" max-vertical-offset="2430">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/_nav.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.76427704" vertical-offset="9307" max-vertical-offset="15876">
@@ -862,38 +918,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_settings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.4375" vertical-offset="10061" max-vertical-offset="14148">
-          <caret line="385" column="13" selection-start-line="385" selection-start-column="13" selection-end-line="385" selection-end-column="13" />
-          <folding>
-            <element signature="e#7522#8100#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/_utility.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.90635836" vertical-offset="3158" max-vertical-offset="4104">
           <caret line="146" column="1" selection-start-line="146" selection-start-column="1" selection-end-line="146" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Payment_Methods.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="35.25" vertical-offset="15762" max-vertical-offset="16686">
-          <caret line="636" column="76" selection-start-line="636" selection-start-column="76" selection-end-line="636" selection-end-column="76" />
-          <folding>
-            <element signature="n#span#0;n#div#0;n#div#1;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,19 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notifications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.78125" vertical-offset="9425" max-vertical-offset="10800">
-          <caret line="370" column="75" selection-start-line="370" selection-start-column="75" selection-end-line="370" selection-end-column="75" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Settings_main_mobile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.46875" vertical-offset="617" max-vertical-offset="2052">
@@ -956,13 +972,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6819249" vertical-offset="3253" max-vertical-offset="5022">
+        <state vertical-scroll-proportion="-13.09375" vertical-offset="3253" max-vertical-offset="5022">
           <caret line="279" column="0" selection-start-line="279" selection-start-column="0" selection-end-line="279" selection-end-column="0" />
           <folding>
             <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notifications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="17.78125" vertical-offset="9425" max-vertical-offset="10800">
+          <caret line="370" column="75" selection-start-line="370" selection-start-column="75" selection-end-line="370" selection-end-column="75" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Payment_Methods.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.75" vertical-offset="13578" max-vertical-offset="16686">
+          <caret line="478" column="60" selection-start-line="478" selection-start-column="60" selection-end-line="478" selection-end-column="60" />
+          <folding>
+            <element signature="n#span#0;n#div#0;n#div#1;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#li#1;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.34375" vertical-offset="1267" max-vertical-offset="2430">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28092486" vertical-offset="243" max-vertical-offset="14661">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <element signature="e#7861#8439#0" expanded="false" />
           </folding>
         </state>
       </provider>
