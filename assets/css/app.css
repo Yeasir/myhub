@@ -18562,17 +18562,18 @@ Mobile Design
   margin: 0;
   line-height: 100px;
   color: inherit;
+  font-size: 1.45em;
 }
 .smobile_head_inner .back_btn, .smobile_head_inner .ms_submit_btn {
   position: absolute;
   top: 50%;
-  left: 15px;
+  left: 0;
   margin-top: -0.5em;
   font-size: 32px;
 }
 .smobile_head_inner .ms_submit_btn {
   left: auto;
-  right: 15px;
+  right: 0;
 }
 .smobile_head_inner .icon-arrow_lg_back,
 .smobile_head_inner .icon-checkmark {
@@ -18661,7 +18662,7 @@ Mobile Design
   padding: 20px 20px 20px 0;
 }
 .sfc_tbl li label:not(.onoffswitch-label) {
-  font-size: 1.25em;
+  font-size: 1.15em;
   color: #1D2735;
   font-weight: 600;
   margin-top: 10px;
@@ -18687,6 +18688,9 @@ Mobile Design
 .sfc_tbl .no_border {
   border: none;
 }
+.sfc_tbl .onofWrap {
+  margin-top: 2px;
+}
 .sfc_tbl .onofWrap + div {
   margin-right: 145px;
   font-size: 1.125em;
@@ -18707,7 +18711,7 @@ Mobile Design
   width: 100%;
   text-align: right;
   border: none;
-  font-size: 1.25em;
+  font-size: 1.15em;
   color: #9EA7B3;
   background: #FFFFFF;
   padding: 10px 0;

@@ -339,18 +339,19 @@ Mobile Design
     margin: 0;
     line-height: 100px;
     color: inherit;
+    font-size: 1.45em;
   }
   .back_btn, .ms_submit_btn {
     @extend .button-empty;
     position: absolute;
     top: 50%;
-    left: 15px;
+    left: 0;
     margin-top: -0.5em;
     font-size: $icon-font-size;
   }
   .ms_submit_btn {
     left: auto;
-    right: 15px;
+    right: 0;
   }
   .icon-arrow_lg_back,
   .icon-checkmark{
@@ -435,7 +436,7 @@ Mobile Design
     border-top: 1px solid $light-gray;
     padding: 20px 20px 20px 0;
     label:not(.onoffswitch-label){
-      font-size: 1.25em;
+      font-size: 1.15em;
       color: $dark-blue;
       font-weight: $bold-weight;
       margin-top: 10px;
@@ -464,6 +465,9 @@ Mobile Design
   .no_border {
     border: none;
   }
+  .onofWrap {
+    margin-top: 2px;
+  }
   .onofWrap + div {
     margin-right: 145px;
     font-size: 1.125em;
@@ -488,7 +492,7 @@ Mobile Design
   width: 100%;
   text-align: right;
   border: none;
-  font-size: 1.25em;
+  font-size: 1.15em;
   color: $mid-gray;
   background: $full-white;
   padding: 10px 0;
