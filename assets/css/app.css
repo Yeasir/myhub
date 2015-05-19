@@ -11766,6 +11766,17 @@ textarea.default-input {
   font-size: 36px;
 }
 
+.button-empty, .smobile_head_inner .back_btn, .smobile_head_inner .ms_submit_btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.no_border {
+  border: none !important;
+}
+
 /**
  * onoff.css
  * Author: http://proto.io/freebies/onoff/
@@ -18559,9 +18570,6 @@ Mobile Design
   left: 15px;
   margin-top: -0.5em;
   font-size: 32px;
-  background: none;
-  border: none;
-  cursor: pointer;
 }
 .smobile_head_inner .ms_submit_btn {
   left: auto;
@@ -18588,6 +18596,7 @@ Mobile Design
 }
 .sm_edit_profile_top_inner .sept_img {
   width: 120px;
+  margin-left: 45px;
 }
 .sm_edit_profile_top_inner .sept_img_mdl {
   margin: 0 25px;
@@ -18616,28 +18625,52 @@ Mobile Design
 .sfc_tbl {
   padding-bottom: 20px;
 }
-.sfc_tbl table {
-  width: 100%;
-  border: none;
-}
-.sfc_tbl td {
-  padding: 20px;
+.sfc_tbl li {
   text-align: right;
   border-top: 1px solid #9EA7B3;
+  padding: 20px 20px 20px 0;
 }
-.sfc_tbl td:first-child {
-  padding-left: 0;
-  text-align: left;
-}
-.sfc_tbl td label:not(.onoffswitch-label) {
+.sfc_tbl li label:not(.onoffswitch-label) {
   font-size: 1.25em;
   color: #1D2735;
   font-weight: 600;
-  margin-top: 1px;
+  margin-top: 10px;
+  float: left;
+  width: 145px;
+  text-align: left;
+}
+.sfc_tbl li .sfc_input_wrap {
+  margin-left: 150px;
+  text-align: right;
+}
+.sfc_tbl li.sfc_da label:not(.onoffswitch-label) {
+  width: auto;
+}
+.sfc_tbl li.sfc_da a {
+  margin-left: 10px;
+  margin-top: 10px;
+  display: inline-block;
+}
+.sfc_tbl .had_border_bottom {
+  border-bottom: 1px solid #9EA7B3;
+}
+.sfc_tbl .no_border {
+  border: none;
 }
 .sfc_tbl .onofWrap + div {
   margin-right: 145px;
   font-size: 1.125em;
+}
+.sfc_tbl .onofWrap + div label {
+  width: auto;
+  float: none;
+}
+
+.sfc_tbl_edac li label:not(.onoffswitch-label) {
+  width: 120px;
+}
+.sfc_tbl_edac li .sfc_input_wrap {
+  margin-left: 125px;
 }
 
 .sfc_m_input {
@@ -18647,7 +18680,7 @@ Mobile Design
   font-size: 1.25em;
   color: #9EA7B3;
   background: #FFFFFF;
-  padding: 10px;
+  padding: 10px 0;
   height: 50px;
 }
 

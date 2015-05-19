@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Settings_Desktop_Profile_mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Settings_Desktop_Account_mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Account.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Account.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Profile_mobile.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Profile_mobile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_settings.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_settings.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_utility.scss" afterPath="$PROJECT_DIR$/assets/sass/_utility.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
@@ -31,14 +33,14 @@
     <favorites_list name="myhub" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.32036248">
+    <splitter split-orientation="horizontal" split-proportion="0.43496802">
       <split-first>
         <leaf>
           <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_settings.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6570439" vertical-offset="10690" max-vertical-offset="12393">
-                  <caret line="416" column="19" selection-start-line="416" selection-start-column="19" selection-end-line="416" selection-end-column="19" />
+                <state vertical-scroll-proportion="0.76069367" vertical-offset="11168" max-vertical-offset="13095">
+                  <caret line="438" column="18" selection-start-line="438" selection-start-column="18" selection-end-line="438" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -54,17 +56,51 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="_utility.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/sass/_utility.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-17.71875" vertical-offset="729" max-vertical-offset="4131">
+                  <caret line="48" column="10" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf>
+          <file leaf-file-name="Settings_Desktop_Account.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-4.25" vertical-offset="2672" max-vertical-offset="5400">
+                  <caret line="104" column="48" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="48" />
+                  <folding>
+                    <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Settings_Desktop_Account_mobile.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account_mobile.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-16.4375" vertical-offset="770" max-vertical-offset="2808">
+                  <caret line="48" column="34" selection-start-line="45" selection-start-column="27" selection-end-line="48" selection-end-column="34" />
+                  <folding>
+                    <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="Settings_Desktop_Profile_mobile.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Settings_Desktop_Profile_mobile.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3669402" vertical-offset="605" max-vertical-offset="2403">
-                  <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+                <state vertical-scroll-proportion="0.63380283" vertical-offset="810" max-vertical-offset="3591">
+                  <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
                   <folding>
-                    <element signature="n#table#0;n#div#0;n#form#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#li#5;n#ul#0;n#div#0;n#form#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -115,7 +151,6 @@
         <option value="$PROJECT_DIR$/Login.html" />
         <option value="$PROJECT_DIR$/Reset_Password.html" />
         <option value="$PROJECT_DIR$/assets/sass/app.scss" />
-        <option value="$PROJECT_DIR$/Settings_Desktop_Account.html" />
         <option value="$PROJECT_DIR$/Login_Modal.html" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Notifications.html" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Support.html" />
@@ -125,11 +160,13 @@
         <option value="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Payment_Methods.html" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
-        <option value="$PROJECT_DIR$/assets/sass/_utility.scss" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Profile.html" />
         <option value="$PROJECT_DIR$/Profile_Me_Empty.html" />
-        <option value="$PROJECT_DIR$/Settings_Desktop_Profile_mobile.html" />
+        <option value="$PROJECT_DIR$/Settings_Desktop_Account.html" />
+        <option value="$PROJECT_DIR$/assets/sass/_utility.scss" />
+        <option value="$PROJECT_DIR$/Settings_Desktop_Account_mobile.html" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_settings.scss" />
+        <option value="$PROJECT_DIR$/Settings_Desktop_Profile_mobile.html" />
       </list>
     </option>
   </component>
@@ -472,7 +509,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431639993213</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="settings edit profile mobile">
+      <created>1432056198501</created>
+      <option name="number" value="00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1432056198501</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -499,6 +542,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -508,7 +552,7 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27771854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32829374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -516,7 +560,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -539,7 +582,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Git init" />
     <MESSAGE value="variables updated" />
     <MESSAGE value="header and footer for index page" />
     <MESSAGE value="font added and style updated" />
@@ -564,20 +606,14 @@
     <MESSAGE value="payment method fixes" />
     <MESSAGE value="support page done" />
     <MESSAGE value="modal on payment method" />
-    <option name="LAST_COMMIT_MESSAGE" value="modal on payment method" />
+    <MESSAGE value="settings edit profile mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="settings edit profile mobile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/sass/_nav.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29274005" vertical-offset="9100" max-vertical-offset="12650">
-          <caret line="337" column="23" selection-start-line="337" selection-start-column="23" selection-end-line="337" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/fonts/myhub-icomoon.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="201950">
@@ -893,14 +929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="22.5625" vertical-offset="4853" max-vertical-offset="11637">
-          <caret line="153" column="58" selection-start-line="153" selection-start-column="58" selection-end-line="153" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Settings_Desktop_Profile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="29.03125" vertical-offset="4736" max-vertical-offset="11934">
@@ -908,14 +936,6 @@
           <folding>
             <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/_utility.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2182448" vertical-offset="0" max-vertical-offset="3807">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,20 +955,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/_utility.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.71875" vertical-offset="729" max-vertical-offset="4131">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account_mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.4375" vertical-offset="770" max-vertical-offset="2808">
+          <caret line="48" column="34" selection-start-line="45" selection-start-column="27" selection-end-line="48" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.25" vertical-offset="2672" max-vertical-offset="5400">
+          <caret line="104" column="48" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="48" />
+          <folding>
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/pages/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6570439" vertical-offset="10690" max-vertical-offset="12393">
-          <caret line="416" column="19" selection-start-line="416" selection-start-column="19" selection-end-line="416" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.76069367" vertical-offset="11168" max-vertical-offset="13095">
+          <caret line="438" column="18" selection-start-line="438" selection-start-column="18" selection-end-line="438" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Settings_Desktop_Profile_mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3669402" vertical-offset="605" max-vertical-offset="2403">
-          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.63380283" vertical-offset="810" max-vertical-offset="3591">
+          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
           <folding>
-            <element signature="n#table#0;n#div#0;n#form#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#li#5;n#ul#0;n#div#0;n#form#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>

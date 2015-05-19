@@ -341,14 +341,12 @@ Mobile Design
     color: inherit;
   }
   .back_btn, .ms_submit_btn {
+    @extend .button-empty;
     position: absolute;
     top: 50%;
     left: 15px;
     margin-top: -0.5em;
     font-size: $icon-font-size;
-    background: none;
-    border: none;
-    cursor: pointer;
   }
   .ms_submit_btn {
     left: auto;
@@ -372,6 +370,7 @@ Mobile Design
   vertical-align: middle;
   .sept_img {
     width: 120px;
+    margin-left: 45px;
   }
   .sept_img_mdl {
     margin: 0 25px;
@@ -398,28 +397,57 @@ Mobile Design
 }
 .sfc_tbl {
   padding-bottom: 20px;
-  table {
-    width: 100%;
-    border: none;
-  }
-  td {
-    padding: 20px;
+  li {
     text-align: right;
     border-top: 1px solid $light-gray;
-    &:first-child {
-      padding-left: 0;
-      text-align: left;
-    }
+    padding: 20px 20px 20px 0;
     label:not(.onoffswitch-label){
       font-size: 1.25em;
       color: $dark-blue;
       font-weight: $bold-weight;
-      margin-top: 1px;
+      margin-top: 10px;
+      float: left;
+      width: 145px;
+      text-align: left;
     }
+    .sfc_input_wrap {
+      margin-left: 150px;
+      text-align: right;
+    }
+    &.sfc_da {
+      label:not(.onoffswitch-label) {
+        width: auto;
+      }
+      a {
+        margin-left: 10px;
+        margin-top: 10px;
+        display: inline-block;
+      }
+    }
+  }
+  .had_border_bottom {
+    border-bottom: 1px solid $light-gray;
+  }
+  .no_border {
+    border: none;
   }
   .onofWrap + div {
     margin-right: 145px;
     font-size: 1.125em;
+    label {
+      width: auto;
+      float: none;
+    }
+  }
+}
+.sfc_tbl_edac {
+  li {
+    label:not(.onoffswitch-label) {
+      width: 120px;
+    }
+    .sfc_input_wrap {
+      margin-left: 125px;
+    }
   }
 }
 
@@ -430,13 +458,12 @@ Mobile Design
   font-size: 1.25em;
   color: $mid-gray;
   background: $full-white;
-  padding: 10px;
+  padding: 10px 0;
   height: 50px;
 }
 textarea.sfc_m_input {
   resize: vertical;
 }
-
 @media all and (min-width: $small + 1){
   .settings_page_container {
     margin-top: 55px;
