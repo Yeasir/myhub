@@ -359,6 +359,33 @@ Mobile Design
 }
 .smobile_main {
   padding-top: 50px;
+  .spc_left {
+    float: none;
+    width: auto;
+    .sl_links {
+      background: none;
+      padding-left: 15px;
+      li {
+        a {
+          font-size: 18px;
+          &:before {
+            display: none;
+          }
+          &:after {
+            @media all and (max-width: $iphone) {
+              margin-top: -0.3em;
+            }
+          }
+        }
+        &:first-child a {
+          border-top: 1px solid $light-gray;
+        }
+        &:last-child a {
+          border-bottom: 1px solid $light-gray;
+        }
+      }
+    }
+  }
 }
 .sm_edit_profile_top {
   display: table;

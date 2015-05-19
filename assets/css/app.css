@@ -12156,15 +12156,14 @@ body > .pushy-left {
   transform: translate3d(-400px, 0, 0);
 }
 
-.landingPage .container-push,
+/*.landingPage .container-push,
 body .container-push {
   -webkit-transform: translate3d(400px, 0, 0) !important;
   -moz-transform: translate3d(400px, 0, 0) !important;
   -ms-transform: translate3d(400px, 0, 0) !important;
   -o-transform: translate3d(400px, 0, 0) !important;
   transform: translate3d(400px, 0, 0) !important;
-}
-
+}*/
 #ln-wrapper {
   -webkit-transition: -webkit-transform 0.2s cubic-bezier(0.16, 0.68, 0.43, 0.99);
   -moz-transition: -moz-transform 0.2s cubic-bezier(0.16, 0.68, 0.43, 0.99);
@@ -18582,6 +18581,31 @@ Mobile Design
 
 .smobile_main {
   padding-top: 50px;
+}
+.smobile_main .spc_left {
+  float: none;
+  width: auto;
+}
+.smobile_main .spc_left .sl_links {
+  background: none;
+  padding-left: 15px;
+}
+.smobile_main .spc_left .sl_links li a {
+  font-size: 18px;
+}
+.smobile_main .spc_left .sl_links li a:before {
+  display: none;
+}
+@media all and (max-width: 480px) {
+  .smobile_main .spc_left .sl_links li a:after {
+    margin-top: -0.3em;
+  }
+}
+.smobile_main .spc_left .sl_links li:first-child a {
+  border-top: 1px solid #9EA7B3;
+}
+.smobile_main .spc_left .sl_links li:last-child a {
+  border-bottom: 1px solid #9EA7B3;
 }
 
 .sm_edit_profile_top {
