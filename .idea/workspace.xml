@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ED_Desktop_GuestList.html" afterPath="$PROJECT_DIR$/ED_Desktop_GuestList.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_utility.scss" afterPath="$PROJECT_DIR$/assets/sass/_utility.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
@@ -91,8 +86,8 @@
           <file leaf-file-name="ED_Desktop_GuestList.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ED_Desktop_GuestList.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5131579" vertical-offset="4512" max-vertical-offset="6831">
-                  <caret line="237" column="73" selection-start-line="237" selection-start-column="73" selection-end-line="237" selection-end-column="73" />
+                <state vertical-scroll-proportion="0.67464113" vertical-offset="4512" max-vertical-offset="6831">
+                  <caret line="241" column="0" selection-start-line="241" selection-start-column="0" selection-end-line="241" selection-end-column="0" />
                   <folding>
                     <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -589,7 +584,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432232448796</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="fix sidebar nav top completed">
+      <created>1432236149056</created>
+      <option name="number" value="00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1432236149056</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -656,7 +657,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="desktop fix and mobile following first page header part only" />
     <MESSAGE value="mobile design done" />
     <MESSAGE value="modal desktop done" />
     <MESSAGE value="commit after marging" />
@@ -681,7 +681,8 @@
     <MESSAGE value="payment method add bank modal text fixed" />
     <MESSAGE value="camera icon on profile image on settings pages" />
     <MESSAGE value="fix sidebar nav top" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix sidebar nav top" />
+    <MESSAGE value="fix sidebar nav top completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix sidebar nav top completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1044,8 +1045,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ED_Desktop_GuestList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5131579" vertical-offset="4512" max-vertical-offset="6831">
-          <caret line="237" column="73" selection-start-line="237" selection-start-column="73" selection-end-line="237" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.67464113" vertical-offset="4512" max-vertical-offset="6831">
+          <caret line="241" column="0" selection-start-line="241" selection-start-column="0" selection-end-line="241" selection-end-column="0" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
