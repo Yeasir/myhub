@@ -183,6 +183,99 @@
     color: inherit;
   }
 }
+.progressbar_top ul,
+.progressbar_bottom ul{
+  margin: 5px 0;
+  @extend .table_list;
+  li {
+    color: $medium-gray;
+    vertical-align: bottom;
+    &:first-child {
+      text-align: left;
+    }
+    &:last-child {
+      text-align: right;
+    }
+    &:nth-child(2){
+      font-size: 2.1em;
+      font-weight: $bold-weight;
+    }
+  }
+}
+.progressbar_bottom ul {
+  font-size: 0.875em;
+  li {
+    color: $tag-gray;
+    vertical-align: top;
+    &:nth-child(2){
+      font: inherit;
+      color: $light-gray;
+    }
+  }
+}
+
+.esc_inner {
+  .progress {
+    margin-bottom: 0;
+  }
+}
+.ed_sidebar_cont_social {
+  padding: 15px 10px;
+}
+.ed_sidebar_social ul {
+  @extend .table_list;
+  li {
+    width: 20%;
+    a {
+      display: block;
+      color: $full-white;
+      padding: 15px 0 0;
+      height: 67px;
+    }
+    &.eds_fb a {
+      background: $facebook-blue;
+      &:hover {
+        background: $facebook-blue-2;
+      }
+    }
+    &.eds_twt a {
+      background: $twitter-blue;
+      font-size: $icon-font-size + 2;
+      line-height: 1.1;
+      &:hover {
+        background: $twitter-blue;
+      }
+    }
+    &.eds_mail a {
+      background: $light-gray;
+      &:hover {
+        background: $mid-blue-2;
+      }
+    }
+    &.eds_cal a {
+      background: $mid-blue;
+      .icon-Calendar_II {
+        .path1:before {
+          color: $mid-blue;
+        }
+      }
+      &:hover {
+        background: $mid-blue-2;
+        .icon-Calendar_II {
+          .path1:before {
+            color: $mid-blue-2;
+          }
+        }
+      }
+    }
+    &.eds_link a {
+      background: $orange;
+      &:hover {
+        background: $orange-2;
+      }
+    }
+  }
+}
 
 @media all and (max-width: $small) {
 

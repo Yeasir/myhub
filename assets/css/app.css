@@ -11777,14 +11777,27 @@ textarea.default-input {
   border: none !important;
 }
 
-.table_list {
+.table_list, .progressbar_top ul,
+.progressbar_bottom ul, .ed_sidebar_social ul {
   display: table;
   width: 100%;
 }
-.table_list li {
+.table_list li, .progressbar_top ul li,
+.progressbar_bottom ul li, .ed_sidebar_social ul li {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
+}
+
+.progress {
+  background: #FFFFFF;
+  box-shadow: none;
+  border-radius: 10px;
+}
+
+.progress-bar-success {
+  background: #00BA84;
+  border-radius: 10px;
 }
 
 /**
@@ -18983,6 +18996,97 @@ textarea.sfc_m_input {
 .es_profile_txt .ph_info {
   font-size: 15px;
   color: inherit;
+}
+
+.progressbar_top ul,
+.progressbar_bottom ul {
+  margin: 5px 0;
+}
+.progressbar_top ul li,
+.progressbar_bottom ul li {
+  color: #323A45;
+  vertical-align: bottom;
+}
+.progressbar_top ul li:first-child,
+.progressbar_bottom ul li:first-child {
+  text-align: left;
+}
+.progressbar_top ul li:last-child,
+.progressbar_bottom ul li:last-child {
+  text-align: right;
+}
+.progressbar_top ul li:nth-child(2),
+.progressbar_bottom ul li:nth-child(2) {
+  font-size: 2.1em;
+  font-weight: 600;
+}
+
+.progressbar_bottom ul {
+  font-size: 0.875em;
+}
+.progressbar_bottom ul li {
+  color: #5E6D81;
+  vertical-align: top;
+}
+.progressbar_bottom ul li:nth-child(2) {
+  font: inherit;
+  color: #9EA7B3;
+}
+
+.esc_inner .progress {
+  margin-bottom: 0;
+}
+
+.ed_sidebar_cont_social {
+  padding: 15px 10px;
+}
+
+.ed_sidebar_social ul li {
+  width: 20%;
+}
+.ed_sidebar_social ul li a {
+  display: block;
+  color: #FFFFFF;
+  padding: 15px 0 0;
+  height: 67px;
+}
+.ed_sidebar_social ul li.eds_fb a {
+  background: #3B5998;
+}
+.ed_sidebar_social ul li.eds_fb a:hover {
+  background: #355089;
+}
+.ed_sidebar_social ul li.eds_twt a {
+  background: #2E97E9;
+  font-size: 34px;
+  line-height: 1.1;
+}
+.ed_sidebar_social ul li.eds_twt a:hover {
+  background: #2E97E9;
+}
+.ed_sidebar_social ul li.eds_mail a {
+  background: #9EA7B3;
+}
+.ed_sidebar_social ul li.eds_mail a:hover {
+  background: #546274;
+}
+.ed_sidebar_social ul li.eds_cal a {
+  background: #5E6D81;
+}
+.ed_sidebar_social ul li.eds_cal a .icon-Calendar_II .path1:before {
+  color: #5E6D81;
+}
+.ed_sidebar_social ul li.eds_cal a:hover {
+  background: #546274;
+}
+.ed_sidebar_social ul li.eds_cal a:hover .icon-Calendar_II .path1:before {
+  color: #546274;
+}
+.ed_sidebar_social ul li.eds_link a {
+  background: #FF6B42;
+}
+.ed_sidebar_social ul li.eds_link a:hover {
+  background: #E5603B;
 }
 
 body {

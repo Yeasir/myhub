@@ -59,6 +59,15 @@ textarea.default-input{
     vertical-align: middle;
   }
 }
+.progress {
+  background: $full-white;
+  box-shadow: none;
+  border-radius: 10px;
+}
+.progress-bar-success {
+  background: $green;
+  border-radius: 10px;
+}
 
 
 /**
