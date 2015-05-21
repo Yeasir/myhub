@@ -1,0 +1,189 @@
+.ed_banner_wrap {
+  @extend .hide_before_after;
+  position: relative;
+  min-height: 500px;
+  background: url("#{$image-path}/event_detail/header-bg.png") no-repeat center center transparent;
+  background-size: cover;
+  .pmulc_price {
+    @extend .pmulc_price;
+    font-size: 1.8em;
+    padding: 5px 20px;
+    top: 50px;
+  }
+}
+.edb_btm {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  color: $full-white;
+}
+.edb_btm_lft {
+  float: left;
+}
+.ed_date {
+  font-size: 0.875em;
+  line-height: 1.5em;
+  float: left;
+  span {
+    font-size: 1.35em;
+    margin-top: 5px;
+    display: inline-block;
+  }
+}
+.edb_ltxt {
+  float: left;
+  padding-left: 15px;
+  h4 {
+    font-size: 1.125em;
+    margin: 0 0 4px;
+    line-height: 1.15em;
+  }
+  p {
+    margin: 0;
+  }
+}
+.edb_btm_right {
+  float: right;
+  padding-top: 18px;
+  line-height: $icon-font-size - 8;
+  .icon-lock {
+    float: left;
+    font-size: $icon-font-size - 8;
+    margin-right: 10px;
+  }
+}
+
+.ed_nav_wrap {
+  background: $off-white;
+  .ed_profile_nav {
+    padding-right: 380px;
+  }
+  .profile_nav {
+    border-top: none;
+  }
+}
+
+.ed_pc_inner {
+  position: relative;
+  @extend .hide_before_after;
+}
+.ed_pc_ileft {
+  margin-right: 380px;
+}
+.ed_pc_fx_sidebar {
+  position: absolute;
+  top: -72px;
+  right: 0;
+  width: 360px;
+}
+.ed_sidebar_top_link {
+  height: 72px;
+  & > ul {
+    & > li {
+      width: 50%;
+      padding: 5px 0;
+      float: left;
+      & > a {
+        display: block;
+        color: $light-gray;
+        line-height: 1.2;
+        padding: 16px;
+        max-width: 100%;
+        &.btn-green {
+          height: auto;
+          padding: 18px;
+          font-size: 1em;
+          color: $full-white;
+          &:hover {
+            color: $full-white;
+          }
+        }
+        span[class^="icon"]{
+          font-size: $icon-font-size;
+          float: left;
+        }
+      }
+      &.admin_dropdown_list {
+        & > a {
+          color: $light-gray;
+          font-size: 1em;
+          line-height: 32px;
+          span[class^="icon"] {
+            margin-right: 6px;
+          }
+        }
+      }
+    }
+  }
+}
+.admin_dropdown_list {
+  .dropdown-menu {
+    background: $medium-gray;
+    padding: 0;
+    left: auto;
+    right: 0;
+    margin-top: -5px;
+    border-radius: 0;
+    border: none;
+    width: 360px;
+    &:before {
+      font-size: 32px;
+      top: -29px;
+      color: $medium-gray;
+      right: 42px;
+    }
+    li {
+      width: 100%;
+      a {
+        color: $full-white;
+        padding: 13px 25px;
+        line-height: 32px;
+        font-size: 1.1em;
+        span[class^="icon"] {
+          font-size: $icon-font-size;
+          margin-right: 20px;
+          float: left;
+        }
+        &:hover {
+          background: $dark-blue;
+        }
+      }
+      li.active {
+        background: $dark-blue;
+      }
+    }
+  }
+  .dropdown-menu > .active > a,
+  .dropdown-menu > .active > a:focus,
+  .dropdown-menu > .active > a:hover {
+    background: $dark-blue;
+  }
+}
+.ed_sidebar_cont {
+  background: $off-white;
+  padding: 15px;
+  margin-top: 25px;
+  color: $medium-gray;
+}
+.es_profile_txt {
+  margin-left: 20px;
+  h2 {
+    font-size: 1.375em;
+    margin: 0;
+    color: inherit;
+  }
+  .eric_twt {
+    font-size: 0.875em;
+    display: block;
+    margin-bottom: 2px;
+  }
+  .ph_info {
+    font-size: 15px;
+    color: inherit;
+  }
+}
+
+@media all and (max-width: $small) {
+
+}
