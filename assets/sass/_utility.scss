@@ -68,7 +68,19 @@ textarea.default-input{
   background: $green;
   border-radius: 10px;
 }
-
+.btn-gray, .btn.btn-gray {
+  background: $tag-gray;
+  color: $full-white;
+  &:hover {
+    background: $mid-blue-2;
+    color: $full-white;
+  }
+}
+.input-group-btn {
+  .btn {
+    font-size: 16px;
+  }
+}
 
 /**
  * onoff.css
