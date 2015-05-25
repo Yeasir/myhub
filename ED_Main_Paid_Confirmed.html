@@ -134,9 +134,9 @@
             <div class="ed_profile_nav">
                 <div class="profile_nav">
                     <ul class="clearfix">
-                        <li role="presentation"><a href="#">Details</a></li>
+                        <li role="presentation" class="active"><a href="#">Details</a></li>
                         <li role="presentation"><a href="#">Guest List</a></li>
-                        <li role="presentation" class="active"><a href="#">Comments</a></li>
+                        <li role="presentation"><a href="#">Comments</a></li>
                     </ul>
                 </div>
             </div>
@@ -147,77 +147,33 @@
         <div class="container">
             <div class="ed_pc_inner">
                 <div class="ed_pc_ileft">
-                    <div class="ed_post_content">
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Add to the conversation...">
-      <span class="input-group-btn">
-        <button class="btn btn-default btn-gray" type="button"><span class="pull-left">Post</span> <span class="icon-Paper_Airplane pull-right"></span></button>
-      </span>
-                        </div>
-                        <img src="assets/images/pimg_icons/AT.png" alt=""/>
+                    <div class="edm_links">
+                        <ul class="list-inline">
+                            <li><a href="#">#Denver</a></li>
+                            <li><a href="#">#Musin</a></li>
+                            <li><a href="#">#Friends</a></li>
+                            <li><a href="#">#Friday</a></li>
+                        </ul>
                     </div>
 
-                    <div class="ed_comment_list">
-                        <div class="media">
-                            <div class="media-left">
-                                <a href="#">
-                                    <img  src="assets/images/pimg_icons/Jeff.png" alt="">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading clearfix">Media heading <span class="pull-right light_txt">30m ago</span></h4>
-                                <p>Cras sit amet nibh libero, in gravida nulla. <br/>
-                                    Nulla vel metus scelerisque ante sollicitudin <br/>
-                                    commodo?</p>
-                            </div>
+                    <div class="edm_contents">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consectetur consequuntur cupiditate dignissimos earum excepturi hic iure iusto libero maiores mollitia nostrum obcaecati omnis quis quo recusandae temporibus totam, vero?</p>
+                        <div class="read_more_wrap">
+                            <a class="btn btn-default read-more" href="#" role="button">Read More</a>
                         </div>
-                        <div class="media">
-                            <div class="media-left">
-                                <a href="#">
-                                    <img  src="assets/images/pimg_icons/AT.png" alt="">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading clearfix">Media heading <span class="pull-right light_txt">1h ago</span></h4>
-                                <p>Cras sit amet nibh libero, in gravida nulla. Jill?</p>
-                            </div>
+                    </div>
+
+                    <div class="separator">
+                        <span class="icon-location_outline"></span>
+                    </div>
+
+                    <div class="ed_map_container">
+                        <div class="emc_ttl">
+                            <h3>Highway 101</h3>
+                            <p>Santa Monica Blvd. Los Angeles, CA</p>
                         </div>
-                        <div class="media">
-                            <div class="media-left">
-                                <a href="#">
-                                    <img src="assets/images/event_detail/Jill.png" alt="">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading clearfix">Media heading <span class="pull-right light_txt">6h ago</span></h4>
-                                <p>Cras sit amet nibh libero, in gravida nulla.</p>
-                                <div class="media">
-                                    <div class="media-left no-texts">
-                                        &nbsp;
-                                    </div>
-                                    <div class="media-body media-body-right-medai">
-                                        <h4 class="media-heading clearfix">Myhub | Social Planning</h4>
-                                        <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo metus scelerisque faucibus.</p>
-                                    </div>
-                                    <div class="media-right">
-                                        <a href="#">
-                                            <img alt="64x64" src="assets/images/event_detail/myhub_logo.png">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="media-left">
-                                <a href="#">
-                                    <img  src="assets/images/pimg_icons/Jeff.png" alt="">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading clearfix">Media heading <span class="pull-right light_txt">1d ago</span></h4>
-                                <p>Cras sit amet nibh libero, in gravida nulla. Commodo metus scelerisque faucibus Nulla vel metus scelerisque ante sollicitudin
-                                    commodo?</p>
-                            </div>
+                        <div class="ed_map_img">
+                            <img src="assets/images/event_detail/map.JPG" alt=""/>
                         </div>
                     </div>
 
@@ -228,12 +184,12 @@
                             <li>
                                 <a href="" class="btn btn-default btn-green">Contribute</a>
                             </li>
-                            <li class="dropdown admin_dropdown_list" id="dropdown_admin">
-                                <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#"><span class="icon-Settings"></span> Admin &nbsp; <i class="fa fa-caret-down"></i></a>
+                            <li class="dropdown admin_dropdown_list admin_dropdown_list_paid" id="dropdown_admin">
+                                <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#"><span class="icon-ticket"></span> Receipts &nbsp; <i class="fa fa-caret-down"></i></a>
                                 <ul role="menu" class="dropdown-menu">
-                                    <li class="active"><a href="#"><span class="icon-edit"></span> Edit this event</a></li>
-                                    <li><a href="#"><span class="icon-dollar_bills"></span> Request a Payout</a></li>
-                                    <li><a href="#"><span class="icon-close"></span> Shut off RSVPs temporarily</a></li>
+
+                                    <li><span class="cal_in">may <strong>25</strong></span> You contributed $25.00 @ 8:00PM</li>
+                                    <li><span class="cal_in">may <strong>25</strong></span> You contributed $25.00 @ 8:00PM</li>
                                 </ul>
                             </li>
                         </ul>

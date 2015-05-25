@@ -11731,10 +11731,10 @@
   padding-right: 0px;
 }
 
-.hide_before_after:after, .smobile_head_inner:after, .ed_banner_wrap:after, .ed_pc_inner:after, .ed_post_content:after {
+.hide_before_after:after, .smobile_head_inner:after, .ed_banner_wrap:after, .ed_pc_inner:after, .ed_post_content:after, .separator:after {
   display: none;
 }
-.hide_before_after:before, .smobile_head_inner:before, .ed_banner_wrap:before, .ed_pc_inner:before, .ed_post_content:before {
+.hide_before_after:before, .smobile_head_inner:before, .ed_banner_wrap:before, .ed_pc_inner:before, .ed_post_content:before, .separator:before {
   display: none;
 }
 
@@ -11771,6 +11771,13 @@ textarea.default-input {
   border: none;
   cursor: pointer;
   box-shadow: none;
+}
+
+.read-more {
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  font-size: 0.875em;
 }
 
 .no_border {
@@ -11811,6 +11818,13 @@ textarea.default-input {
 
 .input-group-btn .btn {
   font-size: 16px;
+}
+
+.btn.btn-orange {
+  background: #FF6B42;
+}
+.btn.btn-orange:hover {
+  background: #E5603B;
 }
 
 /**
@@ -18898,6 +18912,7 @@ textarea.sfc_m_input {
 
 .ed_pc_inner {
   position: relative;
+  min-height: 550px;
 }
 
 .ed_pc_ileft {
@@ -18947,6 +18962,35 @@ textarea.sfc_m_input {
 }
 .ed_sidebar_top_link > ul > li.admin_dropdown_list > a span[class^="icon"] {
   margin-right: 6px;
+}
+.ed_sidebar_top_link > ul > li.admin_dropdown_list > a .fa {
+  font-size: 1.45em;
+}
+.ed_sidebar_top_link > ul > li.admin_dropdown_list.admin_dropdown_list_paid li {
+  padding: 0 0 10px 10px;
+  color: #FFFFFF;
+  line-height: 40px;
+}
+.ed_sidebar_top_link > ul > li.admin_dropdown_list.admin_dropdown_list_paid li:first-child {
+  padding-top: 10px;
+}
+.ed_sidebar_top_link > ul > li.admin_dropdown_list.admin_dropdown_list_paid li .cal_in {
+  display: inline-block;
+  padding: 3px 5px;
+  text-align: center;
+  margin-right: 10px;
+  border: 1px solid #F4F5F7;
+  border-radius: 4px;
+  font-weight: 600;
+  float: left;
+  line-height: 1.1;
+  text-transform: uppercase;
+  font-size: 0.9em;
+}
+.ed_sidebar_top_link > ul > li.admin_dropdown_list.admin_dropdown_list_paid li .cal_in strong {
+  color: #FF6B42;
+  display: block;
+  font-size: 1.25em;
 }
 
 .admin_dropdown_list .dropdown-menu {
@@ -19178,6 +19222,129 @@ textarea.sfc_m_input {
 
 .media-left.no-texts {
   border-left: 2px solid #323A45;
+}
+
+.edc_msg {
+  padding-top: 20%;
+}
+
+.edc_msg_inner {
+  text-align: center;
+  vertical-align: middle;
+}
+.edc_msg_inner h3 {
+  margin-top: 5px;
+}
+.edc_msg_inner .icon-messages_II {
+  font-size: 64px;
+}
+.edc_msg_inner .icon-messages_II span:before {
+  color: #323A45;
+}
+.edc_msg_inner .icon-messages_II span.path4:before,
+.edc_msg_inner .icon-messages_II span.path3:before {
+  color: #FF6B42;
+}
+
+.profile-edg-list li {
+  margin-bottom: 50px;
+  overflow: visible;
+}
+.profile-edg-list li .pl-hover {
+  bottom: 50px;
+  right: 0;
+}
+.profile-edg-list li .plg-name {
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  right: 0;
+  display: block;
+  height: 50px;
+}
+.profile-edg-list li .light_txt {
+  color: #9EA7B3;
+  padding-top: 0;
+}
+.profile-edg-list li h4 {
+  margin: 7px 0 0;
+}
+
+.edg_ttl {
+  position: relative;
+  display: block;
+  width: auto;
+  border: none;
+  box-shadow: none;
+  background: #F4F5F7;
+  border-radius: 0;
+  font: inherit;
+  max-width: none;
+  margin-bottom: 20px;
+}
+.edg_ttl .popover-title {
+  font-weight: 600;
+  font-size: 1.125em;
+  border: none;
+  border-radius: 0;
+  background: #F4F5F7;
+}
+.edg_ttl.popover.top > .arrow {
+  border-top-color: #F4F5F7;
+  left: 70px;
+}
+.edg_ttl.popover.top > .arrow:after {
+  border-top-color: #F4F5F7;
+}
+
+.edcm_icons .icon-girl_II,
+.edcm_icons .icon-guy,
+.edcm_icons .icon-Girl_V {
+  font-size: 51.2px;
+}
+
+.edm_contents {
+  padding-top: 10px;
+}
+
+.read_more_wrap {
+  padding-top: 10px;
+}
+
+.separator {
+  position: relative;
+  text-align: center;
+  margin: 25px 0;
+}
+.separator .icon-location_outline {
+  display: inline-block;
+  font-size: 29px;
+  color: #5E6D81;
+  padding-left: 20px;
+  padding-right: 20px;
+  background: #FFFFFF;
+  position: relative;
+  z-index: 50;
+}
+.separator:after {
+  display: block;
+  width: 100%;
+  position: absolute;
+  height: 1px;
+  overflow: hidden;
+  background: #323A45;
+  top: 50%;
+  left: 0;
+}
+
+.emc_ttl {
+  padding-bottom: 30px;
+}
+.emc_ttl h3 {
+  margin-bottom: 5px;
+}
+.emc_ttl p {
+  font-size: 0.875em;
 }
 
 body {

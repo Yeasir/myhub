@@ -45,6 +45,12 @@ textarea.default-input{
   cursor: pointer;
   box-shadow: none;
 }
+.read-more {
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  font-size: 0.875em;
+}
 
 .no_border {
   border: none !important;
@@ -79,6 +85,12 @@ textarea.default-input{
 .input-group-btn {
   .btn {
     font-size: 16px;
+  }
+}
+.btn.btn-orange {
+  background: $orange;
+  &:hover {
+    background: $orange-2;
   }
 }
 
