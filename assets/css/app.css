@@ -11941,6 +11941,10 @@ textarea.default-input {
   display: none !important;
 }
 
+.close {
+  font-size: 0;
+}
+
 .nav.navbar-nav.navbar-right {
   margin-right: 0;
 }
@@ -19209,6 +19213,7 @@ textarea.sfc_m_input {
 }
 .ed_comment_list .media .media-left {
   padding-right: 15px;
+  white-space: nowrap;
 }
 .ed_comment_list .media .media-left img {
   width: 50px;
@@ -19266,20 +19271,30 @@ textarea.sfc_m_input {
 }
 
 .profile-edg-list li {
-  margin-bottom: 50px;
-  overflow: visible;
+  height: 200px;
 }
-.profile-edg-list li .pl-hover {
-  bottom: 50px;
-  right: 0;
+.profile-edg-list li:hover .pl-hover {
+  display: none;
 }
-.profile-edg-list li .plg-name {
-  position: absolute;
-  bottom: -50px;
-  left: 0;
-  right: 0;
+.profile-edg-list li .pl_item {
+  position: relative;
   display: block;
-  height: 50px;
+  height: 150px;
+}
+.profile-edg-list li .pl_item .pl-hover {
+  padding-top: 58px;
+}
+.profile-edg-list li .pl_item .pl-hover a {
+  display: block;
+  text-align: center;
+}
+.profile-edg-list li .pl_item:hover .pl-hover {
+  display: block;
+}
+.profile-edg-list li .pl_item > img {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 .profile-edg-list li .light_txt {
   color: #9EA7B3;
@@ -19379,7 +19394,7 @@ textarea.sfc_m_input {
   height: auto;
   padding: 10px;
   text-align: center;
-  z-index: 9999;
+  z-index: 500;
 }
 .btm_link_block ul {
   display: inline-block;
@@ -19438,7 +19453,7 @@ textarea.sfc_m_input {
   position: fixed;
   left: 0;
   bottom: 0;
-  z-index: 1200;
+  z-index: 450;
   background: #5E6D81;
   width: 100%;
   padding: 15px 15px 100px;

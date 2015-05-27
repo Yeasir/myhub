@@ -305,4 +305,6 @@ var $modal_wrap = $(".fmodal_wrap"),
         $(".host_btm_links").slideToggle();
     });
 
+    /*Set right sidebar fixed*/
+
 });
