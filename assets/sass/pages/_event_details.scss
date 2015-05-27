@@ -652,6 +652,13 @@
   }
 }
 
+.ed_pc_fx_sidebar.fixed_t {
+  top: -98px;
+  position: fixed;
+  right: auto;
+}
+
+
 
 @media all and (max-width: $small) {
   .ed_pc_fx_sidebar {

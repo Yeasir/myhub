@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ED_GuestList.html" afterPath="$PROJECT_DIR$/ED_GuestList.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_utility.scss" afterPath="$PROJECT_DIR$/assets/sass/_utility.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
@@ -32,24 +30,24 @@
     <favorites_list name="myhub" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.30097088">
+    <splitter split-orientation="horizontal" split-proportion="0.6723301">
       <split-first>
         <leaf>
-          <file leaf-file-name="_event_details.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_event_details.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.84090906" vertical-offset="12257" max-vertical-offset="22437">
-                  <caret line="434" column="25" selection-start-line="434" selection-start-column="25" selection-end-line="434" selection-end-column="25" />
+                <state vertical-scroll-proportion="-9.4375" vertical-offset="17437" max-vertical-offset="20817">
+                  <caret line="657" column="14" selection-start-line="657" selection-start-column="14" selection-end-line="657" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="10364" max-vertical-offset="11502">
-                  <caret line="307" column="29" selection-start-line="307" selection-start-column="29" selection-end-line="307" selection-end-column="29" />
+                <state vertical-scroll-proportion="0.7094211" vertical-offset="7772" max-vertical-offset="8856">
+                  <caret line="317" column="55" selection-start-line="317" selection-start-column="55" selection-end-line="317" selection-end-column="55" />
                   <folding>
                     <element signature="e#8881#9324#0" expanded="false" />
                   </folding>
@@ -92,8 +90,8 @@
           <file leaf-file-name="ED_GuestList.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ED_GuestList.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6076555" vertical-offset="3380" max-vertical-offset="9369">
-                  <caret line="314" column="29" selection-start-line="314" selection-start-column="29" selection-end-line="314" selection-end-column="29" />
+                <state vertical-scroll-proportion="0.5430622" vertical-offset="5837" max-vertical-offset="16794">
+                  <caret line="305" column="101" selection-start-line="305" selection-start-column="101" selection-end-line="305" selection-end-column="101" />
                   <folding>
                     <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -176,10 +174,10 @@
         <option value="$PROJECT_DIR$/ED_Main_Paid.html" />
         <option value="$PROJECT_DIR$/ED_Main_Host.html" />
         <option value="$PROJECT_DIR$/ED_Main_Free.html" />
-        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/assets/sass/_utility.scss" />
         <option value="$PROJECT_DIR$/ED_GuestList.html" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
+        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
       </list>
     </option>
   </component>
@@ -600,7 +598,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432761796151</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="fixed event details issue">
+      <created>1432764474173</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1432764474173</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -690,7 +694,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="starting settings page" />
     <MESSAGE value="starting settings desktop 1" />
     <MESSAGE value="notifications page" />
     <MESSAGE value="fonts updated" />
@@ -715,7 +718,8 @@
     <MESSAGE value="event details pages completed except modal pages" />
     <MESSAGE value="desktop issue and 4 mobile pages event details" />
     <MESSAGE value="mobile and desktop updated event details" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile and desktop updated event details" />
+    <MESSAGE value="fixed event details issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed event details issue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1078,16 +1082,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="10364" max-vertical-offset="11502">
-          <caret line="307" column="29" selection-start-line="307" selection-start-column="29" selection-end-line="307" selection-end-column="29" />
-          <folding>
-            <element signature="e#8881#9324#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ED_GuestList_Empty.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="10.8125" vertical-offset="1399" max-vertical-offset="13608">
@@ -1152,16 +1146,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84090906" vertical-offset="12257" max-vertical-offset="22437">
-          <caret line="434" column="25" selection-start-line="434" selection-start-column="25" selection-end-line="434" selection-end-column="25" />
+        <state vertical-scroll-proportion="-9.4375" vertical-offset="17437" max-vertical-offset="20817">
+          <caret line="657" column="14" selection-start-line="657" selection-start-column="14" selection-end-line="657" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7094211" vertical-offset="7772" max-vertical-offset="8856">
+          <caret line="317" column="55" selection-start-line="317" selection-start-column="55" selection-end-line="317" selection-end-column="55" />
+          <folding>
+            <element signature="e#8881#9324#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ED_GuestList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6076555" vertical-offset="3380" max-vertical-offset="9369">
-          <caret line="314" column="29" selection-start-line="314" selection-start-column="29" selection-end-line="314" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.5430622" vertical-offset="5837" max-vertical-offset="16794">
+          <caret line="305" column="101" selection-start-line="305" selection-start-column="101" selection-end-line="305" selection-end-column="101" />
           <folding>
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />

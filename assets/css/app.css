@@ -19495,6 +19495,12 @@ textarea.sfc_m_input {
   font-size: 1.1em;
 }
 
+.ed_pc_fx_sidebar.fixed_t {
+  top: -98px;
+  position: fixed;
+  right: auto;
+}
+
 @media all and (max-width: 767px) {
   .ed_pc_fx_sidebar {
     position: static;
