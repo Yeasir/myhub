@@ -11785,12 +11785,12 @@ textarea.default-input {
 }
 
 .table_list, .progressbar_top ul,
-.progressbar_bottom ul, .ed_sidebar_social ul {
+.progressbar_bottom ul, .ed_sidebar_social ul, .host_btm_links ul {
   display: table;
   width: 100%;
 }
 .table_list li, .progressbar_top ul li,
-.progressbar_bottom ul li, .ed_sidebar_social ul li {
+.progressbar_bottom ul li, .ed_sidebar_social ul li, .host_btm_links ul li {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
@@ -17744,7 +17744,7 @@ body.full-white .social-share-buttons.share-with-text .event-detail-social-share
   font-weight: 600;
 }
 
-#follow_number {
+#follow_number, #follow_number2 {
   background: #F4F5F7;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -19430,6 +19430,56 @@ textarea.sfc_m_input {
   padding-top: 5px;
 }
 
+.input-group textarea.form-control {
+  resize: none;
+}
+
+.host_btm_links {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 1200;
+  background: #5E6D81;
+  width: 100%;
+  padding: 15px 15px 100px;
+  display: none;
+  color: #FFFFFF;
+  text-align: center;
+}
+.host_btm_links h3 {
+  color: inherit;
+  margin: 0 0 20px;
+  font-weight: 600;
+}
+.host_btm_links ul li {
+  width: 33.33%;
+  text-align: center;
+}
+.host_btm_links ul li a {
+  color: inherit;
+}
+.host_btm_links ul li a span[class^="icon"] {
+  font-size: 57.6px;
+}
+.host_btm_links ul li a strong {
+  display: block;
+  padding-top: 10px;
+  font-size: 1.1em;
+}
+.host_btm_links h4, .host_btm_links h2 {
+  font-weight: 600;
+  color: inherit;
+  font-size: 1.25em;
+}
+.host_btm_links h2 {
+  font-size: 2.6em;
+  margin: 10px 0;
+}
+.host_btm_links h5 {
+  color: inherit;
+  font-size: 1.1em;
+}
+
 @media all and (max-width: 767px) {
   .ed_pc_fx_sidebar {
     position: static;
@@ -19480,6 +19530,59 @@ textarea.sfc_m_input {
     padding-top: 5px;
     padding-right: 10px;
     color: #FFFFFF;
+  }
+
+  .input-group-btn.visible-xs-inline {
+    display: table-cell !important;
+  }
+
+  .ed_post_content {
+    position: fixed;
+    z-index: 9999;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    background: #F4F5F7;
+    padding: 15px;
+    border-top: 1px solid #9EA7B3;
+  }
+  .ed_post_content > img {
+    display: none;
+  }
+  .ed_post_content .input-group .form-control {
+    padding-left: 15px;
+    border-radius: 5px;
+    border-color: #9EA7B3;
+  }
+  .ed_post_content .input-group .btn {
+    padding-left: 15px;
+    padding-right: 0;
+    border: none;
+    background: none;
+    width: auto;
+  }
+  .ed_post_content .input-group .btn.left_gbtn {
+    padding-right: 15px;
+    padding-left: 0;
+  }
+  .ed_post_content .input-group .btn .pull-left {
+    display: none;
+  }
+  .ed_post_content .input-group span[class^="icon"] {
+    color: #323A45;
+  }
+
+  .joined_invited_list .fn_tttl {
+    padding: 10px 0;
+  }
+
+  .edg_l_empt {
+    padding-top: 45%;
+  }
+
+  .edcm_icons .icon-girl_II, .edcm_icons .icon-guy, .edcm_icons .icon-Girl_V {
+    font-size: 64px;
   }
 }
 body.stop-scrolling {

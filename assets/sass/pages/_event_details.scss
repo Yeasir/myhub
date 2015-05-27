@@ -574,9 +574,68 @@
     }
   }
 }
+.input-group {
+  textarea.form-control {
+    resize: none;
+  }
+}
+
+
+#follow_number2 {
+  @extend #follow_number;
+}
+
+.host_btm_links {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 1200;
+  background: $tag-gray;
+  width: 100%;
+  padding: 15px 15px 100px;
+  display: none;
+  color: $full-white;
+  text-align: center;
+  h3 {
+    color: inherit;
+    margin: 0 0 20px;
+    font-weight: $bold-weight;
+  }
+  ul {
+    @extend .table_list;
+    li {
+      width: 33.33%;
+      text-align: center;
+      a {
+        color: inherit;
+        span[class^="icon"] {
+          font-size: $icon-font-size * 1.8;
+        }
+        strong {
+          display: block;
+          padding-top: 10px;
+          font-size: 1.1em;
+        }
+      }
+    }
+  }
+  h4, h2 {
+    font-weight: $bold-weight;
+    color: inherit;
+    font-size: 1.25em;
+  }
+  h2 {
+    font-size: 2.6em;
+    margin: 10px 0;
+  }
+  h5 {
+    color: inherit;
+    font-size: 1.1em;
+  }
+}
+
 
 @media all and (max-width: $small) {
-
   .ed_pc_fx_sidebar {
     position: static;
     width: 100%;
@@ -622,4 +681,60 @@
     padding-right: 10px;
     color: $full-white;
   }
+  .input-group-btn.visible-xs-inline {
+    display: table-cell !important;
+  }
+  .ed_post_content {
+    position: fixed;
+    z-index: 9999;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    background: $off-white;
+    padding: 15px;
+    border-top: 1px solid $mid-gray;
+    > img {
+      display: none;
+    }
+    .input-group {
+      .form-control {
+        padding-left: 15px;
+        border-radius: 5px;
+        border-color: $mid-gray;
+      }
+      .btn {
+        padding-left: 15px;
+        padding-right: 0;
+        border: none;
+        background: none;
+        width: auto;
+        &.left_gbtn {
+          padding-right: 15px;
+          padding-left: 0;
+        }
+        .pull-left {
+          display: none;
+        }
+      }
+      span[class^="icon"] {
+        color: $medium-gray;
+      }
+    }
+  }
+  .joined_invited_list {
+    .fn_tttl {
+      padding: 10px 0;
+    }
+  }
+  .edg_l_empt {
+    padding-top: 45%;
+  }
+  .edcm_icons .icon-girl_II, .edcm_icons .icon-guy, .edcm_icons .icon-Girl_V {
+    font-size: $icon-font-size * 2;
+  }
+
+
+
+
 }
