@@ -317,6 +317,7 @@ var $modal_wrap = $(".fmodal_wrap"),
     /*Set right sidebar fixed*/
     var get_offset,
         $right_sidebar = $(".ed_pc_fx_sidebar"),
+        $ed_nav_wrap = $(".ed_nav_wrap"),
         $loaded = false;
     $(window).load(function(){
         get_offset = $right_sidebar.offset();
@@ -324,10 +325,12 @@ var $modal_wrap = $(".fmodal_wrap"),
     });
     $(window).scroll(function(){
         if($(this).width() > 767 && $loaded) {
-            if($(this).scrollTop() > get_offset.top + 70){
+            if($(this).scrollTop() > get_offset.top){
                 $right_sidebar.addClass('fixed_t').css('left', get_offset.left + 'px');
+                $ed_nav_wrap.addClass('fixed_t').css('left', get_offset.left + 'px');
             } else {
                 $right_sidebar.removeClass('fixed_t').removeAttr('style');
+                $ed_nav_wrap.removeClass('fixed_t').removeAttr('style');
             }
         }
         $host_btm_links.slideUp();
