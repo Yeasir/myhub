@@ -18982,6 +18982,7 @@ textarea.sfc_m_input {
   line-height: 1.2;
   padding: 16px 10px;
   max-width: 100%;
+  border: none;
 }
 .ed_sidebar_top_link > ul > li > a.btn-green {
   height: auto;
