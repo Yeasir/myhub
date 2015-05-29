@@ -267,11 +267,16 @@ var $modal_wrap = $(".fmodal_wrap"),
 
     $('.mobile_container.hide').hide().removeClass('hide');
 
-    $body.on('click', '.data-go', function(e){
+    /*$body.on('click', '.data-go', function(e){
         e.preventDefault();
         var getId = $(this).attr('data-go');
         $(this).closest('.mobile_container').addClass('hide');
         $("#" + getId).fadeIn();
+    });*/
+    $body.on('click', '.data-go', function(e){
+        e.preventDefault();
+        $(this).closest('.mobile_container').addClass('hide');
+        $('.hidden_first').fadeIn().find('form').addClass('clearfix');
     });
 
     $('.eds_mail').on('click', 'a', function(e){
