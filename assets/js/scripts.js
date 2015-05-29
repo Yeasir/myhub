@@ -300,9 +300,18 @@ var $modal_wrap = $(".fmodal_wrap"),
 
     });
 
+    var $host_btm_links = $(".host_btm_links");
     $(".nav_settings_link").on('click', function(e){
         e.preventDefault();
-        $(".host_btm_links").slideToggle();
+        $host_btm_links.slideToggle();
+    });
+
+    $host_btm_links.siblings().on('click', function(e){
+        if(e.currentTarget.className == "top-header"){
+            e.stopImmediatePropagation();
+        } else {
+            $host_btm_links.slideUp();
+        }
     });
 
     /*Set right sidebar fixed*/
@@ -321,6 +330,15 @@ var $modal_wrap = $(".fmodal_wrap"),
                 $right_sidebar.removeClass('fixed_t').removeAttr('style');
             }
         }
+        $host_btm_links.slideUp();
     });
+
+    /*event detail modals*/
+    $('.countribute_btn').on('click', function(e){
+        e.preventDefault();
+        $(".ED_checkout_modal").modal('show');
+    });
+
+
 
 });

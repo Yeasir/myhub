@@ -11785,12 +11785,12 @@ textarea.default-input {
 }
 
 .table_list, .progressbar_top ul,
-.progressbar_bottom ul, .ed_sidebar_social ul, .host_btm_links ul {
+.progressbar_bottom ul, .ed_sidebar_social ul, .host_btm_links ul, .chk_apm_box ul {
   display: table;
   width: 100%;
 }
 .table_list li, .progressbar_top ul li,
-.progressbar_bottom ul li, .ed_sidebar_social ul li, .host_btm_links ul li {
+.progressbar_bottom ul li, .ed_sidebar_social ul li, .host_btm_links ul li, .chk_apm_box ul li {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
@@ -17066,7 +17066,7 @@ body.event-nested-comments .mobile-rsvp-bar {
 
 .email-invitation-modal textarea {
   height: 200px;
-  background-color: #F4F5F7;
+  background-color: #EEEEEE;
   border: none;
   box-shadow: none;
   -webkit-box-shadow: none;
@@ -19499,6 +19499,65 @@ textarea.sfc_m_input {
   top: -98px;
   position: fixed;
   right: auto;
+}
+
+.chck_ttl {
+  padding: 10px 0 20px;
+  text-align: center;
+  color: #9EA7B3;
+}
+.chck_ttl label {
+  margin-bottom: 15px;
+}
+.chck_ttl input {
+  text-align: center;
+  width: 100%;
+  display: block;
+  border: none;
+  color: #00BA84;
+  font-size: 2.8em;
+  padding: 4px;
+}
+
+.chk_apm_box {
+  border-radius: 5px;
+  border: 1px solid #9EA7B3;
+  padding: 2px 5px;
+  background: #EEEEEE;
+  margin-top: 12px;
+}
+.chk_apm_box ul li {
+  display: table-row;
+}
+.chk_apm_box ul li > span {
+  display: table-cell;
+  vertical-align: middle;
+  color: #323A45;
+  padding: 5px;
+  text-align: left;
+  line-height: 1;
+}
+.chk_apm_box ul li > span:last-child {
+  text-align: right;
+}
+.chk_apm_box ul li span[class^="icon"] {
+  font-size: 64px;
+  line-height: 45px;
+  float: left;
+}
+.chk_apm_box.cab_light_bg {
+  background: #F4F5F7;
+}
+.chk_apm_box.cab_light_bg ul li > span {
+  font-size: 1.3em;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.chk_apm_box.cab_light_bg ul li > span:first-child {
+  text-transform: uppercase;
+}
+.chk_apm_box.cab_light_bg ul li > span:last-child {
+  color: #9EA7B3;
 }
 
 @media all and (max-width: 767px) {
