@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Settings_Desktop_Accountv0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Settings_Desktop_Notificationsv0.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Account.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Account.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Settings_Desktop_Notifications.html" afterPath="$PROJECT_DIR$/Settings_Desktop_Notifications.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_event-detail.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_event-detail.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_settings.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_settings.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
@@ -35,37 +32,17 @@
     <favorites_list name="myhub" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.47014925">
+    <splitter split-orientation="horizontal" split-proportion="0.19237147">
       <split-first>
         <leaf>
           <file leaf-file-name="_event_details.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7815029" vertical-offset="24596" max-vertical-offset="25542">
-                  <caret line="935" column="24" selection-start-line="935" selection-start-column="24" selection-end-line="935" selection-end-column="24" />
+                <state vertical-scroll-proportion="1.1795775" vertical-offset="16194" max-vertical-offset="46440">
+                  <caret line="356" column="20" selection-start-line="356" selection-start-column="20" selection-end-line="356" selection-end-column="20" />
                   <folding>
-                    <element signature="e#11681#11721#0" expanded="false" />
+                    <element signature="e#11744#11784#0" expanded="false" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-3.59375" vertical-offset="290" max-vertical-offset="1215">
-                  <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_event-detail.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event-detail.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="176.84375" vertical-offset="26962" max-vertical-offset="30753">
-                  <caret line="789" column="39" selection-start-line="789" selection-start-column="39" selection-end-line="789" selection-end-column="39" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -73,11 +50,9 @@
           <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="8974" max-vertical-offset="13743">
-                  <caret line="269" column="4" selection-start-line="269" selection-start-column="4" selection-end-line="274" selection-end-column="9" />
-                  <folding>
-                    <element signature="e#9102#9545#0" expanded="false" />
-                  </folding>
+                <state vertical-scroll-proportion="0.0" vertical-offset="8161" max-vertical-offset="13419">
+                  <caret line="274" column="9" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="9" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -85,8 +60,8 @@
           <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_settings.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="40.9375" vertical-offset="16781" max-vertical-offset="19845">
-                  <caret line="573" column="10" selection-start-line="573" selection-start-column="10" selection-end-line="573" selection-end-column="10" />
+                <state vertical-scroll-proportion="171.71875" vertical-offset="18320" max-vertical-offset="27702">
+                  <caret line="475" column="15" selection-start-line="475" selection-start-column="15" selection-end-line="475" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
@@ -129,8 +104,8 @@
           <file leaf-file-name="Settings_Desktop_Accountv0.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Settings_Desktop_Accountv0.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="16.721312" vertical-offset="8796" max-vertical-offset="11259">
-                  <caret line="294" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
+                <state vertical-scroll-proportion="28.67213" vertical-offset="9363" max-vertical-offset="12015">
+                  <caret line="282" column="10" selection-start-line="282" selection-start-column="10" selection-end-line="282" selection-end-column="10" />
                   <folding>
                     <element signature="n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
@@ -141,8 +116,8 @@
           <file leaf-file-name="Settings_Desktop_Account.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="43.6875" vertical-offset="4233" max-vertical-offset="7074">
-                  <caret line="191" column="25" selection-start-line="191" selection-start-column="25" selection-end-line="191" selection-end-column="25" />
+                <state vertical-scroll-proportion="-4.40625" vertical-offset="2046" max-vertical-offset="5454">
+                  <caret line="136" column="67" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="67" />
                   <folding>
                     <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -154,22 +129,22 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Settings_Desktop_Notifications.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Settings_Desktop_Notifications.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notifications.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.625" vertical-offset="1047" max-vertical-offset="22896">
-                  <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Settings_Desktop_Notificationsv0.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notificationsv0.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="28296">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
+                <state vertical-scroll-proportion="0.52347416" vertical-offset="7627" max-vertical-offset="8856">
+                  <caret line="481" column="0" selection-start-line="481" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#tr#0;n#table#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#td#2;n#tr#4;n#table#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#td#2;n#tr#5;n#table#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -177,8 +152,8 @@
           <file leaf-file-name="ED_Comments.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ED_Comments.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="85.03125" vertical-offset="12360" max-vertical-offset="21708">
-                  <caret line="465" column="28" selection-start-line="465" selection-start-column="28" selection-end-line="465" selection-end-column="28" />
+                <state vertical-scroll-proportion="76.15625" vertical-offset="12076" max-vertical-offset="21303">
+                  <caret line="465" column="27" selection-start-line="465" selection-start-column="27" selection-end-line="465" selection-end-column="27" />
                   <folding>
                     <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -187,11 +162,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ED_Main_Host.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ED_Main_Host.html">
+          <file leaf-file-name="Settings_Desktop_Notificationsv0.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notificationsv0.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.48239437" vertical-offset="11091" max-vertical-offset="28701">
-                  <caret line="289" column="0" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
+                <state vertical-scroll-proportion="-4.21875" vertical-offset="0" max-vertical-offset="27108">
+                  <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
                   <folding />
                 </state>
               </provider>
@@ -246,7 +221,6 @@
         <option value="$PROJECT_DIR$/Create_Account_Modal.html" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
         <option value="$PROJECT_DIR$/assets/sass/_main.scss" />
-        <option value="$PROJECT_DIR$/Settings_Desktop_Notifications.html" />
         <option value="$PROJECT_DIR$/ED_Main_Free.html" />
         <option value="$PROJECT_DIR$/assets/sass/_utility.scss" />
         <option value="$PROJECT_DIR$/assets/sass/_variables.scss" />
@@ -263,6 +237,7 @@
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_settings.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
+        <option value="$PROJECT_DIR$/Settings_Desktop_Notifications.html" />
       </list>
     </option>
   </component>
@@ -754,7 +729,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432933804407</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="event detail updates banner">
+      <created>1432936634269</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1432936634269</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -844,7 +825,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="modal on payment method" />
     <MESSAGE value="settings edit profile mobile" />
     <MESSAGE value="settings account page" />
     <MESSAGE value="settings page" />
@@ -869,7 +849,8 @@
     <MESSAGE value="fixed top nav secondary color event details" />
     <MESSAGE value="mobile modal event details" />
     <MESSAGE value="commit before settings form changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit before settings form changes" />
+    <MESSAGE value="event detail updates banner" />
+    <option name="LAST_COMMIT_MESSAGE" value="event detail updates banner" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1192,30 +1173,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.59375" vertical-offset="290" max-vertical-offset="1215">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ED_Main_Host.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76760566" vertical-offset="8823" max-vertical-offset="24219">
+          <caret line="285" column="30" selection-start-line="285" selection-start-column="30" selection-end-line="285" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Settings_Desktop_Accountv0.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.721312" vertical-offset="8796" max-vertical-offset="11259">
-          <caret line="294" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
+        <state vertical-scroll-proportion="28.67213" vertical-offset="9363" max-vertical-offset="12015">
+          <caret line="282" column="10" selection-start-line="282" selection-start-column="10" selection-end-line="282" selection-end-column="10" />
           <folding>
             <element signature="n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notificationsv0.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8974" max-vertical-offset="13743">
-          <caret line="269" column="4" selection-start-line="269" selection-start-column="4" selection-end-line="274" selection-end-column="9" />
-          <folding>
-            <element signature="e#9102#9545#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-4.21875" vertical-offset="0" max-vertical-offset="27108">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="43.6875" vertical-offset="4233" max-vertical-offset="7074">
-          <caret line="191" column="25" selection-start-line="191" selection-start-column="25" selection-end-line="191" selection-end-column="25" />
+        <state vertical-scroll-proportion="-4.40625" vertical-offset="2046" max-vertical-offset="5454">
+          <caret line="136" column="67" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="67" />
           <folding>
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1226,26 +1221,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notifications.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.625" vertical-offset="1047" max-vertical-offset="22896">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="8161" max-vertical-offset="13419">
+          <caret line="274" column="9" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notificationsv0.html">
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event-detail.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="22896">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8809249" vertical-offset="23835" max-vertical-offset="29484">
+          <caret line="789" column="39" selection-start-line="789" selection-start-column="39" selection-end-line="789" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="171.71875" vertical-offset="18320" max-vertical-offset="27702">
+          <caret line="475" column="15" selection-start-line="475" selection-start-column="15" selection-end-line="475" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1795775" vertical-offset="16194" max-vertical-offset="46440">
+          <caret line="356" column="20" selection-start-line="356" selection-start-column="20" selection-end-line="356" selection-end-column="20" />
+          <folding>
+            <element signature="e#11744#11784#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ED_Comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="85.03125" vertical-offset="12360" max-vertical-offset="21708">
-          <caret line="465" column="28" selection-start-line="465" selection-start-column="28" selection-end-line="465" selection-end-column="28" />
+        <state vertical-scroll-proportion="76.15625" vertical-offset="12076" max-vertical-offset="21303">
+          <caret line="465" column="27" selection-start-line="465" selection-start-column="27" selection-end-line="465" selection-end-column="27" />
           <folding>
             <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1253,45 +1266,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_settings.scss">
+    <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notifications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="40.9375" vertical-offset="16781" max-vertical-offset="19845">
-          <caret line="573" column="10" selection-start-line="573" selection-start-column="10" selection-end-line="573" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.59375" vertical-offset="290" max-vertical-offset="1215">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event-detail.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="176.84375" vertical-offset="26962" max-vertical-offset="30753">
-          <caret line="789" column="39" selection-start-line="789" selection-start-column="39" selection-end-line="789" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7815029" vertical-offset="24596" max-vertical-offset="25542">
-          <caret line="935" column="24" selection-start-line="935" selection-start-column="24" selection-end-line="935" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.52347416" vertical-offset="7627" max-vertical-offset="8856">
+          <caret line="481" column="0" selection-start-line="481" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
           <folding>
-            <element signature="e#11681#11721#0" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#0;n#table#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#td#2;n#tr#4;n#table#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#td#2;n#tr#5;n#table#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ED_Main_Host.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48239437" vertical-offset="11091" max-vertical-offset="28701">
-          <caret line="289" column="0" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

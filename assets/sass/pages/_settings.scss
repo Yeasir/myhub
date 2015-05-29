@@ -545,12 +545,19 @@ textarea.sfc_m_input {
     }
   }
 }
+
+
 @media all and (min-width: $small + 1){
   .settings_page_container {
     margin-top: 55px;
   }
   .ac_pb_btm {
     padding: 20% 0 5%;
+  }
+  .edit_ac_mobile {
+    .onofWrap {
+      display: none;
+    }
   }
 }
 @media all and (max-width: $small) {
@@ -653,6 +660,23 @@ textarea.sfc_m_input {
           }
         }
       }
+
+      .snotifications_table {
+        table {
+          border: none;
+        }
+        td {
+          span[class^="icon"]{
+            display: none;
+          }
+        }
+        td:first-child {
+          color: $medium-gray;
+          font-size: 1.15em;
+          font-weight: $bold-weight;
+        }
+      }
+
     }
   }
 }

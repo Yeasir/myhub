@@ -352,6 +352,10 @@
     .media-left {
       padding-right: 15px;
       white-space: nowrap;
+      a {
+        display: block;
+        width: 50px;
+      }
       img {
         width: 50px;
       }

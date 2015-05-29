@@ -18863,6 +18863,10 @@ textarea.sfc_m_input {
   .ac_pb_btm {
     padding: 20% 0 5%;
   }
+
+  .edit_ac_mobile .onofWrap {
+    display: none;
+  }
 }
 @media all and (max-width: 767px) {
   .hidden_first {
@@ -18971,6 +18975,17 @@ textarea.sfc_m_input {
   .edit_ac_mobile .account_form .ac_pb_btm .deactivate-button:hover {
     background: none;
     color: #E5603B;
+  }
+  .edit_ac_mobile .account_form .snotifications_table table {
+    border: none;
+  }
+  .edit_ac_mobile .account_form .snotifications_table td span[class^="icon"] {
+    display: none;
+  }
+  .edit_ac_mobile .account_form .snotifications_table td:first-child {
+    color: #323A45;
+    font-size: 1.15em;
+    font-weight: 600;
   }
 }
 @media all and (max-width: 480px) {
@@ -19324,6 +19339,10 @@ textarea.sfc_m_input {
 .ed_comment_list .media .media-left {
   padding-right: 15px;
   white-space: nowrap;
+}
+.ed_comment_list .media .media-left a {
+  display: block;
+  width: 50px;
 }
 .ed_comment_list .media .media-left img {
   width: 50px;
