@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sass/pages/_modal_mobile.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/app.scss" afterPath="$PROJECT_DIR$/assets/sass/app.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
@@ -30,14 +31,26 @@
     <favorites_list name="myhub" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55117273">
+    <splitter split-orientation="horizontal" split-proportion="0.420398">
       <split-first>
         <leaf>
           <file leaf-file-name="_event_details.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3236994" vertical-offset="2528" max-vertical-offset="25515">
-                  <caret line="103" column="27" selection-start-line="103" selection-start-column="27" selection-end-line="103" selection-end-column="27" />
+                <state vertical-scroll-proportion="0.22887324" vertical-offset="20811" max-vertical-offset="30726">
+                  <caret line="668" column="26" selection-start-line="668" selection-start-column="26" selection-end-line="668" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#11659#11699#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_modal_mobile.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal_mobile.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-2.53125" vertical-offset="0" max-vertical-offset="1485">
+                  <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -79,6 +92,24 @@
       </split-first>
       <split-second>
         <leaf>
+          <file leaf-file-name="ED_Main_Free.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ED_Main_Free.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.6" vertical-offset="5367" max-vertical-offset="12015">
+                  <caret line="242" column="23" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="ED_Main_Paid_Confirmed.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ED_Main_Paid_Confirmed.html">
               <provider selected="true" editor-type-id="text-editor">
@@ -101,20 +132,33 @@
           <file leaf-file-name="ED_Comments.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ED_Comments.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-4.40625" vertical-offset="4152" max-vertical-offset="21573">
-                  <caret line="159" column="91" selection-start-line="159" selection-start-column="76" selection-end-line="159" selection-end-column="91" />
+                <state vertical-scroll-proportion="103.95082" vertical-offset="15440" max-vertical-offset="21060">
+                  <caret line="618" column="22" selection-start-line="618" selection-start-column="22" selection-end-line="618" selection-end-column="22" />
                   <folding>
+                    <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ED_Main_Paid.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="ED_Main_Host.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ED_Main_Host.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="76.78125" vertical-offset="6723" max-vertical-offset="34371">
+                  <caret line="158" column="91" selection-start-line="158" selection-start-column="91" selection-end-line="158" selection-end-column="91" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ED_Main_Paid.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ED_Main_Paid.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.51877934" vertical-offset="4904" max-vertical-offset="21357">
-                  <caret line="171" column="34" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+                <state vertical-scroll-proportion="7.28125" vertical-offset="4904" max-vertical-offset="21357">
+                  <caret line="173" column="45" selection-start-line="173" selection-start-column="45" selection-end-line="173" selection-end-column="45" />
                   <folding>
                     <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -138,7 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/sass/_mixins.scss" />
         <option value="$PROJECT_DIR$/assets/js/custom.js" />
         <option value="$PROJECT_DIR$/assets/sass/_responsive.scss" />
         <option value="$PROJECT_DIR$/assets/css/myhub-icons.css" />
@@ -174,7 +217,6 @@
         <option value="$PROJECT_DIR$/ED_Desktop_GuestList.html" />
         <option value="$PROJECT_DIR$/Create_Account_Modal.html" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
-        <option value="$PROJECT_DIR$/assets/sass/app.scss" />
         <option value="$PROJECT_DIR$/assets/sass/_main.scss" />
         <option value="$PROJECT_DIR$/Settings_Desktop_Notifications.html" />
         <option value="$PROJECT_DIR$/ED_Main_Free.html" />
@@ -188,6 +230,8 @@
         <option value="$PROJECT_DIR$/ED_Main_Host.html" />
         <option value="$PROJECT_DIR$/ED_Main_Paid.html" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/assets/sass/pages/_modal_mobile.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
       </list>
     </option>
@@ -201,9 +245,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="659" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1266" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -291,6 +335,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -317,11 +379,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\myhub\assets\sass\pages" />
       <recent name="C:\wamp\www\myhub\assets\sass" />
       <recent name="C:\wamp\www\myhub\assets\js" />
       <recent name="C:\wamp\www\myhub" />
       <recent name="C:\wamp\www\myhub\assets\images\event_detail" />
-      <recent name="C:\wamp\www\myhub\assets\sass\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp\www\myhub\assets\images\pimg_icons" />
@@ -634,7 +696,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432927617913</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="fixed top nav secondary event details">
+      <created>1432930026928</created>
+      <option name="number" value="00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1432930026928</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -658,7 +726,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="659" y="-8" width="1266" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -669,9 +737,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26036483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32527474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31783783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32829374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -724,7 +792,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="login modal and error (x) color updated" />
     <MESSAGE value="edit profile completed" />
     <MESSAGE value="payment method fixes" />
     <MESSAGE value="support page done" />
@@ -749,20 +816,14 @@
     <MESSAGE value="event detail fixed sidebar" />
     <MESSAGE value="hide bottom section on scroll on mobile event details" />
     <MESSAGE value="modal desktop done event details" />
-    <option name="LAST_COMMIT_MESSAGE" value="modal desktop done event details" />
+    <MESSAGE value="fixed top nav secondary event details" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed top nav secondary event details" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jobs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1917" max-vertical-offset="10044">
-          <caret line="71" column="129" selection-start-line="71" selection-start-column="129" selection-end-line="71" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event-detail.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="25758">
@@ -971,24 +1032,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6316397" vertical-offset="290" max-vertical-offset="1188">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/_main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="16.53125" vertical-offset="56581" max-vertical-offset="62208">
           <caret line="2076" column="30" selection-start-line="2076" selection-start-column="30" selection-end-line="2076" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.09375" vertical-offset="10247" max-vertical-offset="11232">
-          <caret line="382" column="13" selection-start-line="382" selection-start-column="13" selection-end-line="382" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1044,7 +1091,7 @@
         <state vertical-scroll-proportion="22.590164" vertical-offset="18469" max-vertical-offset="20088">
           <caret line="633" column="36" selection-start-line="633" selection-start-column="36" selection-end-line="633" selection-end-column="36" />
           <folding>
-            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1060,9 +1107,8 @@
             <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#0;n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1072,35 +1118,7 @@
         <state vertical-scroll-proportion="15.95082" vertical-offset="17821" max-vertical-offset="19467">
           <caret line="674" column="0" selection-start-line="674" selection-start-column="0" selection-end-line="674" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ED_Main_Free.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.25" vertical-offset="3906" max-vertical-offset="7749">
-          <caret line="248" column="22" selection-start-line="248" selection-start-column="22" selection-end-line="248" selection-end-column="22" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ED_Main_Host.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3934426" vertical-offset="4181" max-vertical-offset="19899">
-          <caret line="158" column="91" selection-start-line="158" selection-start-column="91" selection-end-line="158" selection-end-column="91" />
-          <folding>
-            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1118,16 +1136,6 @@
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ED_Comments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.40625" vertical-offset="4152" max-vertical-offset="21573">
-          <caret line="159" column="91" selection-start-line="159" selection-start-column="76" selection-end-line="159" selection-end-column="91" />
-          <folding>
-            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1150,21 +1158,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
+    <entry file="file://$PROJECT_DIR$/ED_Main_Paid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3236994" vertical-offset="2528" max-vertical-offset="25515">
-          <caret line="103" column="27" selection-start-line="103" selection-start-column="27" selection-end-line="103" selection-end-column="27" />
+        <state vertical-scroll-proportion="7.28125" vertical-offset="4904" max-vertical-offset="21357">
+          <caret line="173" column="45" selection-start-line="173" selection-start-column="45" selection-end-line="173" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63236994" vertical-offset="290" max-vertical-offset="1215">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ED_Main_Paid.html">
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51877934" vertical-offset="4904" max-vertical-offset="21357">
-          <caret line="171" column="34" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.2566474" vertical-offset="10227" max-vertical-offset="11124">
+          <caret line="387" column="5" selection-start-line="387" selection-start-column="5" selection-end-line="387" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal_mobile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.53125" vertical-offset="0" max-vertical-offset="1485">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22887324" vertical-offset="20811" max-vertical-offset="30726">
+          <caret line="668" column="26" selection-start-line="668" selection-start-column="26" selection-end-line="668" selection-end-column="26" />
           <folding>
+            <element signature="e#11659#11699#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ED_Comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="103.95082" vertical-offset="15440" max-vertical-offset="21060">
+          <caret line="618" column="22" selection-start-line="618" selection-start-column="22" selection-end-line="618" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ED_Main_Host.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="76.78125" vertical-offset="6723" max-vertical-offset="34371">
+          <caret line="158" column="91" selection-start-line="158" selection-start-column="91" selection-end-line="158" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ED_Main_Free.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6" vertical-offset="5367" max-vertical-offset="12015">
+          <caret line="242" column="23" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
