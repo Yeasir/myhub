@@ -18904,13 +18904,14 @@ textarea.sfc_m_input {
   }
   .edit_ac_mobile .account_form .form-group input[type="text"],
   .edit_ac_mobile .account_form .form-group input[type="email"],
-  .edit_ac_mobile .account_form .form-group input[type="password"] {
+  .edit_ac_mobile .account_form .form-group input[type="password"],
+  .edit_ac_mobile .account_form .form-group textarea {
     background: #FFFFFF;
     border: none;
     color: #9EA7B3;
     font-size: 1.15em;
     height: 40px;
-    padding: 10px 0;
+    padding: 5px 0;
     text-align: right;
     width: 300px;
     float: right;
@@ -18919,11 +18920,15 @@ textarea.sfc_m_input {
 @media all and (max-width: 767px) and (max-width: 480px) {
   .edit_ac_mobile .account_form .form-group input[type="text"],
   .edit_ac_mobile .account_form .form-group input[type="email"],
-  .edit_ac_mobile .account_form .form-group input[type="password"] {
+  .edit_ac_mobile .account_form .form-group input[type="password"],
+  .edit_ac_mobile .account_form .form-group textarea {
     width: 150px;
   }
 }
 @media all and (max-width: 767px) {
+  .edit_ac_mobile .account_form .form-group span.pull-right.light_txt {
+    display: none;
+  }
   .edit_ac_mobile .account_form .form-group:after, .edit_ac_mobile .account_form .ac_pb_btm:after {
     clear: both;
     display: table;
@@ -18986,6 +18991,9 @@ textarea.sfc_m_input {
     color: #323A45;
     font-size: 1.15em;
     font-weight: 600;
+  }
+  .edit_ac_mobile .sm_edit_profile_top {
+    padding-bottom: 30px;
   }
 }
 @media all and (max-width: 480px) {
@@ -19698,6 +19706,7 @@ textarea.sfc_m_input {
   font-size: 1.2em;
   line-height: 45px;
   margin-left: 20px;
+  white-space: nowrap;
 }
 .chk_apm_box.cab_light_bg {
   background: #F4F5F7;
