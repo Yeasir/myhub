@@ -470,6 +470,7 @@
     border: none;
     border-radius: 0;
     background: $off-white;
+    z-index: 10;
   }
   &.popover.top > .arrow {
     border-top-color: $off-white;
@@ -702,6 +703,12 @@
         line-height: 45px;
         float: left;
       }
+      .edch_cn {
+        display: inline-block;
+        font-size: 1.2em;
+        line-height: 45px;
+        margin-left: 20px;
+      }
     }
   }
   &.cab_light_bg {
@@ -717,6 +724,84 @@
           }
           &:last-child {
             color: $mid-gray;
+          }
+        }
+      }
+    }
+  }
+}
+.ed_cn_top {
+  padding: 10px;
+  text-align: center;
+  .icon-Checkmark_circle {
+    font-size: $icon-font-size * 2.5;
+    .path2:before {
+      color: $green;
+    }
+  }
+  h3 {
+    color: $tag-gray;
+    font-size: 1.2em;
+  }
+}
+
+.ed_cn_share_link {
+  padding-top: 10px;
+  ul {
+    @extend .table_list;
+    li {
+      width: 33.33%;
+      &:first-child {
+        text-align: left;
+      }
+      &:last-child {
+        text-align: right;
+      }
+      a {
+        background: $link-blue;
+        border-radius: 4px;
+        border: 1px solid transparent;
+        box-shadow: 0 -1px 1px rgba(0,0,0, 0.6) inset;
+        display: inline-block;
+        color: $full-white;
+        text-align: center;
+        font-size: 1em;
+        padding: 10px 16px;
+        width: 145px;
+        max-width: 98%;
+        line-height: 32px;
+        span[class^="icon"],
+        span[class^="fa"] {
+          float: left;
+          font-size: $icon-font-size;
+          margin-right: 5px;
+        }
+        &.fb {
+          background: $facebook-blue;
+          &:hover {
+            background: $facebook-blue-2;
+          }
+        }
+        &.twt {
+          background: $twitter-blue;
+          &:hover {
+            background: $twitter-blue-2;
+          }
+        }
+        &.cal {
+          background: $mid-blue;
+          .icon-Calendar_II {
+            .path1:before {
+              color: $mid-blue;
+            }
+          }
+          &:hover {
+            background: $mid-blue-2;
+            .icon-Calendar_II {
+              .path1:before {
+                color: $mid-blue-2;
+              }
+            }
           }
         }
       }

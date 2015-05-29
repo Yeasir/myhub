@@ -334,10 +334,65 @@ var $modal_wrap = $(".fmodal_wrap"),
     });
 
     /*event detail modals*/
-    $('.countribute_btn').on('click', function(e){
+
+    $('.modal').on('hidden.bs.modal', function () {
+        // do something…
+        //$('.modal').modal('hide');
+    });
+
+    function hide_show_modal_event($btn, $modal){
+        $btn.on('click', function(e){
+            e.preventDefault();
+            hide_show_modal($modal);
+        });
+    }
+
+    function hide_show_modal($modal){
+        $('.modal').modal('hide');
+        $modal.modal('show');
+    }
+
+    /*$('.countribute_btn').on('click', function(e){
         e.preventDefault();
         $(".ED_checkout_modal").modal('show');
+    });*/
+
+    var $ed_add_card_modal = $(".ED_checkout_modals_add_card"),
+        $ED_checkout_modal_wrap = $(".ED_checkout_modal_wrap");
+
+    hide_show_modal_event($('.countribute_btn'), $(".ED_checkout_modal"));
+    hide_show_modal_event($('.show_card_modal'), $ed_add_card_modal);
+
+    $ed_add_card_modal.find('form').on('submit', function(e){
+        e.preventDefault();
+        hide_show_modal($('.ED_checkout_modal_card_added'));
+
+        return false;
     });
+
+    $ed_add_card_modal.on('click', '.mb_btn', function(e){
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        hide_show_modal($('.ED_checkout_modal_card_added'));
+
+        return false;
+    });
+
+    $ED_checkout_modal_wrap.find('form').on('submit', function(e){
+        e.preventDefault();
+        hide_show_modal($('.ED_checkout_modal_confirmation'));
+
+        return false;
+    });
+
+    $ED_checkout_modal_wrap.on('click', '.mb_btn', function(e){
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        hide_show_modal($('.ED_checkout_modal_confirmation'));
+
+        return false;
+    });
+
 
 
 
