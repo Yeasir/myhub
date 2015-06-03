@@ -395,19 +395,6 @@ a.mb_btn {
     right: 15px;
   }
 }
-.modal {
-  .modal-dialog {
-    opacity: 0;
-    -webkit-transition: opacity 250ms linear;
-    transition: opacity 250ms linear;
-  }
-  &.in {
-    .modal-dialog {
-      opacity: 1;
-    }
-  }
-}
-
 
 @media all and (max-width: $iphone) {
   .mb_btns {
