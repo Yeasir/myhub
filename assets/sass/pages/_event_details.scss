@@ -908,16 +908,27 @@
               }
             }
           }
+          &.eml {
+            background: $mid-gray;
+            &:hover {
+              background: $mid-blue;
+            }
+          }
         }
       }
     }
   }
   
-  
+  .btm_close {
+    display: none;
+  }
 
 
-  @media all and (max-width: $small) {
-    .ed_pc_fx_sidebar {
+@media all and (max-width: $small) {
+  .btm_close {
+    display: block;
+  }
+  .ed_pc_fx_sidebar {
       position: static;
       width: 100%;
       margin: 0;
@@ -1019,6 +1030,37 @@
       min-height: 360px;
     }
 
+
+    .ed_cn_share_link {
+      padding-bottom: 25px;
+      border-bottom: 1px solid $mid-gray;
+      ul {
+        li {
+          width: 50%;
+          text-align: center !important;
+          padding: 10px;
+          display: inline-block;
+          float: left;
+          margin: 0;
+        }
+      }
+    }
+    .modal-dialog .fmodal_wrap {
+      .btm_close {
+        padding-top: 35px;
+        padding-bottom: 10px;
+        text-align: center;
+        .modal-close {
+          position: static;
+          display: inline-block;
+          float: none;
+          background: #FFFFFF;
+          .icon-decline_Outline {
+            font-size: $icon-font-size * 1.25;
+          }
+        }
+      }
+    }
 }
 .list-inline {
 	font-size: 18px;
