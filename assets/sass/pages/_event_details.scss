@@ -871,6 +871,12 @@
               }
             }
           }
+          &.eml {
+            background: $mid-gray;
+            &:hover {
+              background: $mid-blue;
+            }
+          }
         }
       }
     }
@@ -978,6 +984,35 @@
 
     .ed_banner_wrap {
       min-height: 360px;
+    }
+    .ed_cn_share_link {
+      padding-bottom: 25px;
+      border-bottom: 1px solid $mid-gray;
+      ul {
+        li {
+          width: 50%;
+          text-align: center !important;
+          padding: 10px;
+          display: inline-block;
+          float: left;
+        }
+      }
+    }
+    .modal-dialog .fmodal_wrap {
+      .btm_close {
+        padding-top: 35px;
+        padding-bottom: 10px;
+        text-align: center;
+        .modal-close {
+          position: static;
+          display: inline-block;
+          float: none;
+          background: #FFFFFF;
+          .icon-decline_Outline {
+            font-size: $icon-font-size * 1.25;
+          }
+        }
+      }
     }
 
 }

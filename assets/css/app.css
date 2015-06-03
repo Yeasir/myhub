@@ -19854,6 +19854,12 @@ textarea.sfc_m_input {
 .ed_cn_share_link ul li a.cal:hover .icon-Calendar_II .path1:before {
   color: #546274;
 }
+.ed_cn_share_link ul li a.eml {
+  background: #9EA7B3;
+}
+.ed_cn_share_link ul li a.eml:hover {
+  background: #5E6D81;
+}
 
 @media all and (max-width: 767px) {
   .ed_pc_fx_sidebar {
@@ -19962,6 +19968,33 @@ textarea.sfc_m_input {
 
   .ed_banner_wrap {
     min-height: 360px;
+  }
+
+  .ed_cn_share_link {
+    padding-bottom: 25px;
+    border-bottom: 1px solid #9EA7B3;
+  }
+  .ed_cn_share_link ul li {
+    width: 50%;
+    text-align: center !important;
+    padding: 10px;
+    display: inline-block;
+    float: left;
+  }
+
+  .modal-dialog .fmodal_wrap .btm_close {
+    padding-top: 35px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  .modal-dialog .fmodal_wrap .btm_close .modal-close {
+    position: static;
+    display: inline-block;
+    float: none;
+    background: #FFFFFF;
+  }
+  .modal-dialog .fmodal_wrap .btm_close .modal-close .icon-decline_Outline {
+    font-size: 40px;
   }
 }
 .list-inline {
