@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp\www\myhub\ED_Main_Host1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\myhub\assets\sass\pages\_event_details1.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_modal.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sass/pages/_create.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/app.scss" afterPath="$PROJECT_DIR$/assets/sass/app.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
@@ -39,7 +34,7 @@
           <file leaf-file-name="_event_details.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-110.0" vertical-offset="21482" max-vertical-offset="29916">
+                <state vertical-scroll-proportion="0.0" vertical-offset="25002" max-vertical-offset="29835">
                   <caret line="926" column="17" selection-start-line="926" selection-start-column="17" selection-end-line="926" selection-end-column="17" />
                   <folding />
                 </state>
@@ -49,17 +44,37 @@
           <file leaf-file-name="_modal.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-7.625" vertical-offset="10502" max-vertical-offset="11367">
-                  <caret line="398" column="15" selection-start-line="398" selection-start-column="3" selection-end-line="398" selection-end-column="15" />
+                <state vertical-scroll-proportion="-10.875" vertical-offset="10479" max-vertical-offset="11367">
+                  <caret line="401" column="35" selection-start-line="401" selection-start-column="35" selection-end-line="401" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_create.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/sass/pages/_create.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="162">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.53810626" vertical-offset="344" max-vertical-offset="1269">
+                  <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.32918552" vertical-offset="9726" max-vertical-offset="11907">
+                <state vertical-scroll-proportion="0.0" vertical-offset="9504" max-vertical-offset="11340">
                   <caret line="352" column="77" selection-start-line="352" selection-start-column="77" selection-end-line="352" selection-end-column="77" />
                   <folding />
                 </state>
@@ -73,7 +88,7 @@
           <file leaf-file-name="ED_Main_Host.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ED_Main_Host.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="104.375" vertical-offset="21322" max-vertical-offset="22977">
+                <state vertical-scroll-proportion="0.0" vertical-offset="17982" max-vertical-offset="19305">
                   <caret line="666" column="32" selection-start-line="666" selection-start-column="32" selection-end-line="666" selection-end-column="32" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -90,7 +105,7 @@
           <file leaf-file-name="ED_Main_Paid.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ED_Main_Paid.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="84.5625" vertical-offset="20526" max-vertical-offset="22329">
+                <state vertical-scroll-proportion="0.0" vertical-offset="17820" max-vertical-offset="18981">
                   <caret line="693" column="0" selection-start-line="693" selection-start-column="0" selection-end-line="693" selection-end-column="0" />
                   <folding>
                     <element signature="n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -102,8 +117,8 @@
           <file leaf-file-name="ED_Main_Paid_Confirmed.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ED_Main_Paid_Confirmed.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.43661973" vertical-offset="29085" max-vertical-offset="31401">
-                  <caret line="686" column="17" selection-start-line="686" selection-start-column="17" selection-end-line="686" selection-end-column="17" />
+                <state vertical-scroll-proportion="7.0586166" vertical-offset="23490" max-vertical-offset="31401">
+                  <caret line="687" column="15" selection-start-line="687" selection-start-column="15" selection-end-line="687" selection-end-column="15" />
                   <folding>
                     <element signature="n#div#2;n#div#1;n#form#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
@@ -114,7 +129,7 @@
           <file leaf-file-name="ED_GuestList.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ED_GuestList.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="104.8125" vertical-offset="24846" max-vertical-offset="26595">
+                <state vertical-scroll-proportion="0.0" vertical-offset="21492" max-vertical-offset="22599">
                   <caret line="796" column="0" selection-start-line="796" selection-start-column="0" selection-end-line="796" selection-end-column="0" />
                   <folding />
                 </state>
@@ -124,7 +139,7 @@
           <file leaf-file-name="ED_GuestList_Empty.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ED_GuestList_Empty.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="103.125" vertical-offset="21768" max-vertical-offset="23517">
+                <state vertical-scroll-proportion="0.0" vertical-offset="18468" max-vertical-offset="19575">
                   <caret line="684" column="0" selection-start-line="684" selection-start-column="0" selection-end-line="684" selection-end-column="0" />
                   <folding />
                 </state>
@@ -187,7 +202,6 @@
         <option value="$PROJECT_DIR$/Settings_Desktop_Profile.html" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_settings.scss" />
         <option value="$PROJECT_DIR$/ED_Main_Host.html" />
-        <option value="$PROJECT_DIR$/assets/sass/app.scss" />
         <option value="$PROJECT_DIR$/ED_Comments.html" />
         <option value="$PROJECT_DIR$/ED_Comments_Empty.html" />
         <option value="$PROJECT_DIR$/ED_GuestList.html" />
@@ -197,6 +211,7 @@
         <option value="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/assets/sass/app.scss" />
       </list>
     </option>
   </component>
@@ -253,7 +268,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,12 +314,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -369,9 +384,6 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -379,6 +391,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -393,12 +408,6 @@
       <created>1430500943909</created>
       <option name="number" value="Default" />
       <updated>1430500943909</updated>
-    </task>
-    <task id="LOCAL-00008" summary="css updated">
-      <created>1431016116661</created>
-      <option name="number" value="00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1431016116661</updated>
     </task>
     <task id="LOCAL-00009" summary="desktop 3 profile pages">
       <created>1431085728993</created>
@@ -688,7 +697,13 @@
       <option name="project" value="LOCAL" />
       <updated>1433359641383</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="event detail sub nav scrolling">
+      <created>1433361584097</created>
+      <option name="number" value="00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1433361584097</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -712,30 +727,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2585288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31783783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26119402" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31783783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -755,7 +770,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="mobile settings pages done version 1" />
     <MESSAGE value="payment method add bank modal text fixed" />
     <MESSAGE value="camera icon on profile image on settings pages" />
     <MESSAGE value="fix sidebar nav top" />
@@ -780,22 +794,26 @@
     <MESSAGE value="modal fade effect" />
     <MESSAGE value="before pulling latest changes" />
     <MESSAGE value="modal and confirmation on event details" />
-    <option name="LAST_COMMIT_MESSAGE" value="modal and confirmation on event details" />
+    <MESSAGE value="event detail sub nav scrolling" />
+    <option name="LAST_COMMIT_MESSAGE" value="event detail sub nav scrolling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ED_GuestList_Empty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18468" max-vertical-offset="19575">
+          <caret line="684" column="0" selection-start-line="684" selection-start-column="0" selection-end-line="684" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Settings_Desktop_Account.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1323" max-vertical-offset="7047">
           <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,14 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4509" max-vertical-offset="8262">
           <caret line="205" column="23" selection-start-line="205" selection-start-column="23" selection-end-line="205" selection-end-column="23" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,7 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="6831" max-vertical-offset="8883">
           <caret line="253" column="72" selection-start-line="253" selection-start-column="72" selection-end-line="253" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,11 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1323" max-vertical-offset="7047">
           <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,14 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4509" max-vertical-offset="8262">
           <caret line="205" column="23" selection-start-line="205" selection-start-column="23" selection-end-line="205" selection-end-column="23" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1062,7 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1539">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1070,15 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="6831" max-vertical-offset="8883">
           <caret line="253" column="72" selection-start-line="253" selection-start-column="72" selection-end-line="253" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.96875" vertical-offset="377" max-vertical-offset="1242">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="102.28125" vertical-offset="22821" max-vertical-offset="24543">
           <caret line="724" column="0" selection-start-line="724" selection-start-column="0" selection-end-line="724" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1094,13 +1079,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="84.5625" vertical-offset="20715" max-vertical-offset="22437">
           <caret line="667" column="0" selection-start-line="667" selection-start-column="0" selection-end-line="667" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ED_GuestList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="104.8125" vertical-offset="24846" max-vertical-offset="26595">
+        <state vertical-scroll-proportion="0.0" vertical-offset="21492" max-vertical-offset="22599">
           <caret line="796" column="0" selection-start-line="796" selection-start-column="0" selection-end-line="796" selection-end-column="0" />
           <folding />
         </state>
@@ -1108,7 +1092,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ED_GuestList_Empty.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="103.125" vertical-offset="21768" max-vertical-offset="23517">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18468" max-vertical-offset="19575">
           <caret line="684" column="0" selection-start-line="684" selection-start-column="0" selection-end-line="684" selection-end-column="0" />
           <folding />
         </state>
@@ -1116,7 +1100,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ED_Main_Host.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="104.375" vertical-offset="21322" max-vertical-offset="22977">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17982" max-vertical-offset="19305">
           <caret line="666" column="32" selection-start-line="666" selection-start-column="32" selection-end-line="666" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1131,7 +1115,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ED_Main_Paid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="84.5625" vertical-offset="20526" max-vertical-offset="22329">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17820" max-vertical-offset="18981">
           <caret line="693" column="0" selection-start-line="693" selection-start-column="0" selection-end-line="693" selection-end-column="0" />
           <folding>
             <element signature="n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1143,29 +1127,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.15625" vertical-offset="4607" max-vertical-offset="26757">
           <caret line="172" column="26" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-110.0" vertical-offset="21482" max-vertical-offset="29916">
+        <state vertical-scroll-proportion="0.0" vertical-offset="25002" max-vertical-offset="29835">
           <caret line="926" column="17" selection-start-line="926" selection-start-column="17" selection-end-line="926" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.625" vertical-offset="10502" max-vertical-offset="11367">
-          <caret line="398" column="15" selection-start-line="398" selection-start-column="3" selection-end-line="398" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32918552" vertical-offset="9726" max-vertical-offset="11907">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9726" max-vertical-offset="11907">
           <caret line="352" column="77" selection-start-line="352" selection-start-column="77" selection-end-line="352" selection-end-column="77" />
           <folding />
         </state>
@@ -1173,11 +1148,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ED_Main_Paid_Confirmed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43661973" vertical-offset="29085" max-vertical-offset="31401">
-          <caret line="686" column="17" selection-start-line="686" selection-start-column="17" selection-end-line="686" selection-end-column="17" />
+        <state vertical-scroll-proportion="7.0586166" vertical-offset="23490" max-vertical-offset="31401">
+          <caret line="687" column="15" selection-start-line="687" selection-start-column="15" selection-end-line="687" selection-end-column="15" />
           <folding>
             <element signature="n#div#2;n#div#1;n#form#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.875" vertical-offset="10479" max-vertical-offset="11367">
+          <caret line="401" column="35" selection-start-line="401" selection-start-column="35" selection-end-line="401" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_create.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53810626" vertical-offset="344" max-vertical-offset="1269">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
