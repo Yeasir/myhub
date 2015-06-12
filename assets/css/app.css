@@ -20521,6 +20521,7 @@ a[data-toggle="tooltip"] .icon-question {
 }
 .inv_search_wrap label span {
   font-size: 20px;
+  display: block;
 }
 .inv_search_wrap input {
   width: 180px;
@@ -20539,10 +20540,10 @@ a[data-toggle="tooltip"] .icon-question {
   color: #9EA7B3;
 }
 
-.ED_checkout_modal_confirmation .fmodal_body h4 {
+.cre_checkout_modal_confirmation .fmodal_body h4 {
   font-size: 1.25em;
 }
-.ED_checkout_modal_confirmation p {
+.cre_checkout_modal_confirmation p {
   color: #9EA7B3;
 }
 

@@ -251,6 +251,60 @@
 
 
 
+<div class="modal fmodal_container settings_modals settings_modals_add_card   cre_checkout_modal_confirmation mobile_fullscreen_modal" style="z-index: 9999">
+    <div class="modal-dialog">
+        <div class="fmodal_wrap fmodal_wrap_medium">
+            <form>
+                <div class="fmodal_head clearfix">
+                    <h2>Get Your Location</h2>
+                </div>
+                <div class="fmodal_body">
+                    <div class="ed_cn_top">
+                        <h4>Do you want to get the location
+                            <br/>in the map based on your address?</h4>
+
+                    </div>
+
+
+
+
+                    <div class="cwm_loc_btns">
+                        <ul class="row">
+                            <li class="col-sm-4 col-lg-push-2 col-xs-12">
+                                <a href="#" class="mb_btn show_location">
+                                    Yes
+                                </a>
+                            </li>
+                            <li class="col-sm-4 col-lg-push-2 col-xs-12">
+                                <a href="#" class="mb_btn mb_btn_orange close_modal">
+                                    No
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div class="btm_close text-center">
+                        <button class="close modal-close">
+                            <span class="icon-decline_Outline"></span>
+                        </button>
+                    </div>
+
+
+
+                </div>
+            </form>
+            <button class="close modal-close">
+                <span class="icon-decline_Outline"></span>
+            </button>
+        </div>
+    </div>
+</div>
+
+
+
+
+
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script type="text/javascript" src="assets/js/jquery.min.js"></script>
 
@@ -275,6 +329,11 @@
 <!--add scripts before this line-->
 <script type="text/javascript" src="assets/js/scripts.js"></script>
 
+<script type="text/javascript">
 
+    $(".cre_checkout_modal_confirmation").modal('show');
+
+
+</script>
 </body>
 </html>

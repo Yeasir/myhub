@@ -327,6 +327,7 @@ a[data-toggle="tooltip"] {
     top: 9px;
     span {
       font-size: 20px;
+      display: block;
     }
   }
   input {
@@ -346,7 +347,7 @@ a[data-toggle="tooltip"] {
     color: $mid-gray;
   }
 }
-.ED_checkout_modal_confirmation {
+.cre_checkout_modal_confirmation {
   .fmodal_body h4 {
     font-size: 1.25em;
   }
