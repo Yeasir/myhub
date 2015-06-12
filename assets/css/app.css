@@ -12003,6 +12003,11 @@ div[data-role="editor-toolbar"] {
   cursor: pointer;
 }
 
+/*aa*/
+.icon-Money_circle .path1:before {
+  color: inherit;
+}
+
 .nav.navbar-nav.navbar-right {
   margin-right: 0;
 }
@@ -20266,6 +20271,9 @@ textarea.sfc_m_input {
   width: 80%;
   background: none;
 }
+.cr_nostyle_input.green_txt {
+  color: #00ba84;
+}
 
 .cr_item_divide {
   margin: 6% 0;
@@ -20321,7 +20329,7 @@ textarea.sfc_m_input {
 .cr_footer {
   padding: 10px;
   background: #F4F5F7;
-  position: absolute;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -20480,6 +20488,16 @@ textarea.sfc_m_input {
 .auth_cont_free h3 {
   font-size: 20px;
   color: #5E6D81;
+}
+
+.cr_input_wrap .icon-Money_circle .path1:before {
+  color: inherit;
+}
+
+.ciw_btxt {
+  font-style: italic;
+  font-size: 0.875em;
+  padding-top: 5px;
 }
 
 @media all and (max-width: 767px) {

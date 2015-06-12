@@ -84,6 +84,9 @@
   border: none;
   width: 80%;
   background: none;
+  &.green_txt {
+    color: #00ba84;
+  }
 }
 .cr_item_divide {
   margin: 6% 0;
@@ -138,7 +141,7 @@
 .cr_footer {
   padding: 10px;
   background: $off-white;
-  position: absolute;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -289,4 +292,14 @@
     font-size: 20px;
     color: $tag-gray;
   }
+}
+.cr_input_wrap {
+  .icon-Money_circle .path1:before {
+    color: inherit;
+  }
+}
+.ciw_btxt {
+  font-style: italic;
+  font-size: 0.875em;
+  padding-top: 5px;
 }
