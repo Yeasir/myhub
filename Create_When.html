@@ -143,7 +143,7 @@
                                 When's it start?
                             </h3>
                             <div class="cr_input_wrap">
-                                <input type="text" class="cr_nostyle_input" placeholder="Tonight @ 7:00PM"/>
+                                <input type="text" class="cr_nostyle_input timePicker" placeholder="Tonight @ 7:00PM"/>
                                 <span class="icon-clock_II ciw_lic"></span>
                                 <a href="#" class="ciw_ric"><span class="icon-decline_Outline"></span></a>
                             </div>
@@ -158,7 +158,7 @@
                                 When's it end?
                             </h3>
                             <div class="cr_input_wrap">
-                                <input type="text" class="cr_nostyle_input" placeholder="Tonight @ 9:00PM"/>
+                                <input type="text" class="cr_nostyle_input timePicker" placeholder="Tonight @ 9:00PM"/>
                                 <span class="icon-clock_II ciw_lic"></span>
                                 <a href="#" class="ciw_ric"><span class="icon-decline_Outline"></span></a>
                             </div>
@@ -282,6 +282,9 @@
 <script type="text/javascript" src="assets/js/velocity.min.js"></script>
 <script type="text/javascript" src="assets/js/team_view.js"></script>
 <script type="text/javascript" src="assets/js/jquery.onoff.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery-ui-custom.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery-ui-timepicker.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery-ui-touch-punch.min.js"></script>
 
 
 <!--add scripts before this line-->
@@ -289,6 +292,18 @@
 
 <!--page specific scripts-->
 <script type="text/javascript">
+    $('.timePicker').datetimepicker({
+        prevText: '<i class="fa fa-chevron-left"></i>',
+        nextText: '<i class="fa fa-chevron-right"></i>',
+        beforeShow: function(input, inst) {
+            var newclass = 'smart-forms';
+            var smartpikr = inst.dpDiv.parent();
+            if (!smartpikr.hasClass('smart-forms')){
+                inst.dpDiv.wrap('<div class="'+newclass+'"></div>');
+            }
+        }
+
+    });
 </script>
 
 </body>

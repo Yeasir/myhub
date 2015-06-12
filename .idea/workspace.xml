@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Advanced_FixedPrice.html" afterPath="$PROJECT_DIR$/Create_Advanced_FixedPrice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Advanced_MinPrice.html" afterPath="$PROJECT_DIR$/Create_Advanced_MinPrice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Advanced_Preview.html" afterPath="$PROJECT_DIR$/Create_Advanced_Preview.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Invites_Email.html" afterPath="$PROJECT_DIR$/Create_Invites_Email.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Invites_Gmail_In.html" afterPath="$PROJECT_DIR$/Create_Invites_Gmail_In.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Invites_Gmail_Out.html" afterPath="$PROJECT_DIR$/Create_Invites_Gmail_Out.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Invites_Myhub.html" afterPath="$PROJECT_DIR$/Create_Invites_Myhub.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_What.html" afterPath="$PROJECT_DIR$/Create_What.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-ui-custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-ui-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-ui-touch-punch.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_When.html" afterPath="$PROJECT_DIR$/Create_When.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Where_Map.html" afterPath="$PROJECT_DIR$/Create_Where_Map.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_create.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_create.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_utility.scss" afterPath="$PROJECT_DIR$/assets/sass/_utility.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/gmap.js" afterPath="$PROJECT_DIR$/assets/js/gmap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myhub.iws" />
@@ -74,11 +66,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_utility.scss" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_utility.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/sass/_utility.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="6912" max-vertical-offset="7533">
-                  <caret line="256" column="19" selection-start-line="256" selection-start-column="19" selection-end-line="256" selection-end-column="19" />
+                <state vertical-scroll-proportion="0.3329453" vertical-offset="21071" max-vertical-offset="24354">
+                  <caret line="587" column="85" selection-start-line="587" selection-start-column="85" selection-end-line="587" selection-end-column="85" />
                   <folding />
                 </state>
               </provider>
@@ -94,16 +86,31 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.73176205" vertical-offset="16142" max-vertical-offset="17604">
+                <state vertical-scroll-proportion="0.0" vertical-offset="22379" max-vertical-offset="24165">
                   <caret line="434" column="61" selection-start-line="434" selection-start-column="61" selection-end-line="434" selection-end-column="61" />
                   <folding>
                     <element signature="e#5538#6000#0" expanded="false" />
                     <element signature="e#6057#6103#0" expanded="false" />
                     <element signature="e#6151#6186#0" expanded="false" />
                     <element signature="e#6237#7120#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="jquery-ui-custom.min.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/jquery-ui-custom.min.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247401">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <marker date="1430759884000" expanded="true" signature="17387:17458" placeholder="..." />
+                    <marker date="1430759884000" expanded="true" signature="17472:17496" placeholder="..." />
+                    <marker date="1430759884000" expanded="true" signature="48313:48330" placeholder="..." />
+                    <marker date="1430759884000" expanded="true" signature="57697:57713" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -123,43 +130,35 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="Create_Where_Map.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Create_Where_Map.html">
+          <file leaf-file-name="widget-time-date-picker.html" pinned="false" current-in-tab="false">
+            <entry file="file://D:/work/odesk/Luis/myhub redesign/files1/plugin/codecanyon-7254656-smart-forms/smart forms/flat/Javascript enhancements/widget-time-date-picker.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="99.71875" vertical-offset="10157" max-vertical-offset="13338">
-                  <caret line="263" column="33" selection-start-line="263" selection-start-column="33" selection-end-line="263" selection-end-column="33" />
-                  <folding>
-                    <element signature="n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Create_Advanced_Preview.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Create_Advanced_Preview.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="211.9375" vertical-offset="20633" max-vertical-offset="21654">
-                  <caret line="825" column="0" selection-start-line="825" selection-start-column="0" selection-end-line="830" selection-end-column="9" />
-                  <folding>
-                    <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="gmap.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assets/js/gmap.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4181416" vertical-offset="0" max-vertical-offset="1053">
-                  <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+                <state vertical-scroll-proportion="-2.65625" vertical-offset="104" max-vertical-offset="8478">
+                  <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="smart-forms.css" pinned="false" current-in-tab="true">
+            <entry file="file://D:/work/odesk/Luis/myhub redesign/files1/plugin/codecanyon-7254656-smart-forms/smart forms/flat/Javascript enhancements/css/smart-forms.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.62738496" vertical-offset="42884" max-vertical-offset="63099">
+                  <caret line="1513" column="25" selection-start-line="1513" selection-start-column="25" selection-end-line="1513" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Create_When.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Create_When.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="113.28125" vertical-offset="11374" max-vertical-offset="12366">
+                  <caret line="294" column="18" selection-start-line="294" selection-start-column="18" selection-end-line="294" selection-end-column="18" />
+                  <folding>
+                    <element signature="n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -216,7 +215,6 @@
         <option value="$PROJECT_DIR$/Create_Advanced.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_Entry.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_Free.html" />
-        <option value="$PROJECT_DIR$/assets/sass/_utility.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_create.scss" />
         <option value="$PROJECT_DIR$/Create_Invites_Gmail_Out.html" />
         <option value="$PROJECT_DIR$/Create_Invites_Myhub.html" />
@@ -224,12 +222,13 @@
         <option value="$PROJECT_DIR$/Create_Invites_Email.html" />
         <option value="$PROJECT_DIR$/Create_What.html" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
-        <option value="$PROJECT_DIR$/Create_When.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_FixedPrice.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_MinPrice.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_Preview.html" />
         <option value="$PROJECT_DIR$/Create_Where_Map.html" />
         <option value="$PROJECT_DIR$/assets/js/gmap.js" />
+        <option value="$PROJECT_DIR$/Create_When.html" />
+        <option value="$PROJECT_DIR$/assets/sass/_utility.scss" />
       </list>
     </option>
   </component>
@@ -373,13 +372,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\myhub\assets\js\timePicker" />
       <recent name="C:\wamp\www\myhub\assets\js" />
       <recent name="C:\wamp\www\myhub" />
       <recent name="C:\wamp\www\myhub\assets\sass\pages" />
       <recent name="C:\wamp\www\myhub\assets\sass" />
-      <recent name="C:\wamp\www\myhub\assets\images\event_detail" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\myhub\assets\js" />
       <recent name="C:\wamp\www\myhub\assets\images\pimg_icons" />
     </key>
   </component>
@@ -425,12 +425,6 @@
       <created>1430500943909</created>
       <option name="number" value="Default" />
       <updated>1430500943909</updated>
-    </task>
-    <task id="LOCAL-00016" summary="starting settings page">
-      <created>1431618630754</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1431618630754</updated>
     </task>
     <task id="LOCAL-00017" summary="starting settings desktop 1">
       <created>1431624220111</created>
@@ -720,7 +714,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434128699287</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="updates desktop create">
+      <created>1434135951411</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1434135951411</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -787,7 +787,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="desktop issue and 4 mobile pages event details" />
     <MESSAGE value="mobile and desktop updated event details" />
     <MESSAGE value="fixed event details issue" />
     <MESSAGE value="event detail fixed sidebar" />
@@ -812,34 +811,14 @@
     <MESSAGE value="create section pages updates" />
     <MESSAGE value="create invites and preview pages" />
     <MESSAGE value="create map page" />
-    <option name="LAST_COMMIT_MESSAGE" value="create map page" />
+    <MESSAGE value="updates desktop create" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates desktop create" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/profile_following.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="115.59375" vertical-offset="7560" max-vertical-offset="31995">
-          <caret line="143" column="31" selection-start-line="143" selection-start-column="31" selection-end-line="325" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Profile_Me_Upcoming.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="351.0" vertical-offset="23058" max-vertical-offset="34830">
-          <caret line="438" column="0" selection-start-line="438" selection-start-column="0" selection-end-line="438" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ED_Main_Free.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.196722" vertical-offset="4559" max-vertical-offset="10287">
-          <caret line="215" column="40" selection-start-line="215" selection-start-column="36" selection-end-line="215" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Settings_Desktop_Notifications.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.5" vertical-offset="1335" max-vertical-offset="3132">
@@ -1037,14 +1016,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/_utility.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6912" max-vertical-offset="7533">
-          <caret line="256" column="19" selection-start-line="256" selection-start-column="19" selection-end-line="256" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/jquery.geocomplete.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3686" max-vertical-offset="4590">
@@ -1126,19 +1097,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73176205" vertical-offset="16142" max-vertical-offset="17604">
-          <caret line="434" column="61" selection-start-line="434" selection-start-column="61" selection-end-line="434" selection-end-column="61" />
-          <folding>
-            <element signature="e#5538#6000#0" expanded="false" />
-            <element signature="e#6057#6103#0" expanded="false" />
-            <element signature="e#6151#6186#0" expanded="false" />
-            <element signature="e#6237#7120#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Create_What.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="43.46875" vertical-offset="3416" max-vertical-offset="8505">
@@ -1180,18 +1138,6 @@
             <element signature="n#embed#0;n#div#2;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#11;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create_When.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="29.96875" vertical-offset="4820" max-vertical-offset="11016">
-          <caret line="164" column="30" selection-start-line="164" selection-start-column="30" selection-end-line="164" selection-end-column="30" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1274,8 +1220,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/gmap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4181416" vertical-offset="0" max-vertical-offset="1053">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1053">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16142" max-vertical-offset="17604">
+          <caret line="434" column="61" selection-start-line="434" selection-start-column="61" selection-end-line="434" selection-end-column="61" />
+          <folding>
+            <element signature="e#5538#6000#0" expanded="false" />
+            <element signature="e#6057#6103#0" expanded="false" />
+            <element signature="e#6151#6186#0" expanded="false" />
+            <element signature="e#6237#7120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery-ui-custom.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247401">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1430759884000" expanded="true" signature="17387:17458" placeholder="..." />
+            <marker date="1430759884000" expanded="true" signature="17472:17496" placeholder="..." />
+            <marker date="1430759884000" expanded="true" signature="48313:48330" placeholder="..." />
+            <marker date="1430759884000" expanded="true" signature="57697:57713" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_When.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="113.28125" vertical-offset="11374" max-vertical-offset="12366">
+          <caret line="294" column="18" selection-start-line="294" selection-start-column="18" selection-end-line="294" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/work/odesk/Luis/myhub redesign/files1/plugin/codecanyon-7254656-smart-forms/smart forms/flat/Javascript enhancements/widget-time-date-picker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.65625" vertical-offset="104" max-vertical-offset="8478">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/_utility.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329453" vertical-offset="21071" max-vertical-offset="24354">
+          <caret line="587" column="85" selection-start-line="587" selection-start-column="85" selection-end-line="587" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/work/odesk/Luis/myhub redesign/files1/plugin/codecanyon-7254656-smart-forms/smart forms/flat/Javascript enhancements/css/smart-forms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62738496" vertical-offset="42884" max-vertical-offset="63099">
+          <caret line="1513" column="25" selection-start-line="1513" selection-start-column="25" selection-end-line="1513" selection-end-column="25" />
           <folding />
         </state>
       </provider>
