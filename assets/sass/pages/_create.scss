@@ -236,3 +236,57 @@
 .larget_font {
   font-size: 1.25em;
 }
+.auth_links {
+  border-bottom: 1px solid $mid-gray;
+  li {
+    display: block;
+    float: left;
+    a {
+      display: block;
+      padding: 0 30px 20px;
+      text-align: center;
+      color: $mid-gray;
+      font-size: 16px;
+      position: relative;
+      @extend .hide_before_after;
+      &:after {
+        display: block;
+        position: absolute;
+        content: '';
+        height: 3px;
+        left: 50%;
+        bottom: 0;
+        width: 0;
+        background: $orange;
+        visibility: hidden;
+        @include transition(300ms);
+      }
+    }
+    &.active a,
+    a:hover {
+      color: $medium-gray;
+      &:after {
+        visibility: visible;
+        width: 100%;
+        left: 0;
+      }
+    }
+  }
+}
+.auth_cont_free {
+  padding-top: 22%;
+  text-align: center;
+  > span[class^="icon"] {
+    font-size: $icon-font-size * 2.125;
+  }
+  .icon-Money_circle .path2:before {
+    color: $full-white;
+  }
+  .icon-Money_circle .path1:before {
+    color: $soft-gray;
+  }
+  h3 {
+    font-size: 20px;
+    color: $tag-gray;
+  }
+}
