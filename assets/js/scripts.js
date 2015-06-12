@@ -404,8 +404,12 @@ var $modal_wrap = $(".fmodal_wrap"),
     });
 
     $ED_checkout_modal_wrap.on('click', '.mb_btn', function(e){
-        e.preventDefault();
-        e.stopImmediatePropagation();
+        hide_show_modal($('.ED_checkout_modal_confirmation'));
+
+        return false;
+    });
+
+    $(".confirm_modal_open").on('click', function(e){
         hide_show_modal($('.ED_checkout_modal_confirmation'));
 
         return false;

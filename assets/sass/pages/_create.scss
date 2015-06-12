@@ -303,3 +303,66 @@
   font-size: 0.875em;
   padding-top: 5px;
 }
+.site-overlay-n {
+  @extend .site-overlay;
+}
+.inv_search_wrap {
+  float: right;
+  border-radius: 25px;
+  border: 1px solid $light-gray;
+  position: relative;
+  padding-left: 50px;
+  margin-top: -6px;
+  @extend .hide_before_after;
+  label {
+    position: absolute;
+    left: 15px;
+    top: 9px;
+    span {
+      font-size: 20px;
+    }
+  }
+  input {
+    width: 180px;
+    font-size: 16px;
+    color: $tag-gray;
+    padding: 7px;
+    border: none;
+    background: transparent;
+  }
+}
+.cr_invite_cont_wrap {
+  padding-top: 75px;
+}
+.cr_inv_input_wrap {
+  textarea {
+    color: $mid-gray;
+  }
+}
+.ED_checkout_modal_confirmation {
+  .fmodal_body h4 {
+    font-size: 1.25em;
+  }
+  p {
+    color: $mid-gray;
+  }
+}
+.mb_btn_orange-2 {
+  background: $orange-2;
+  &:hover {
+    background: $orange;
+  }
+}
+.auth_cont_free {
+  .mb_btn {
+    padding-left: 30px;
+    padding-right: 30px;
+    color: $full-white;
+    width: auto;
+  }
+}
+.cr_invite_cont_wrap {
+  > h3 {
+    margin-bottom: 50px;
+  }
+}
