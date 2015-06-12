@@ -28,11 +28,18 @@
         }
     }
 
+    var $map_wrap = $('.cr_map_wrap');
+
+    function setMapHeight($cont){
+        $cont.css('height', $(window).height() - 195 + 'px');
+    }
+    setMapHeight($map_wrap);
 
 
     setHeight();
     $(window).resize(function(){
         setHeight();
+        setMapHeight($map_wrap);
     });
 
     $('.menu-btn').on('click', function(e){
