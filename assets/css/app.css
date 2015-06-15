@@ -21293,6 +21293,26 @@ a[data-toggle="tooltip"] .icon-question {
   .cr_footer {
     display: none;
   }
+
+  .crpw_lists {
+    display: none !important;
+  }
+
+  .cr_map_wrap .cr_input_wrap {
+    background: #F4F5F7;
+    width: 90%;
+    top: 30px;
+    margin-left: -45%;
+    box-shadow: 0 1px 2px #eee;
+  }
+  .cr_map_wrap .cr_input_wrap span[class*="ciw_lic"] {
+    top: 50%;
+    left: 15px;
+    margin-left: 0;
+  }
+  .cr_map_wrap .cr_input_wrap .cr_nostyle_input {
+    padding: 15px 30px;
+  }
 }
 @media all and (max-width: 767px) {
   .mobile_fullscreen_modal {

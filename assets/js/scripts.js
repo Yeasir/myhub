@@ -31,7 +31,12 @@
     var $map_wrap = $('.cr_map_wrap');
 
     function setMapHeight($cont){
-        $cont.css('height', $(window).height() - 195 + 'px');
+        var $window = $(window);
+        if($(window).width() < 767){
+            $cont.css('height', $(window).height() - 100 + 'px');
+        } else {
+            $cont.css('height', $(window).height() - 195 + 'px');
+        }
     }
     setMapHeight($map_wrap);
 
