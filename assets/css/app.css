@@ -21289,6 +21289,9 @@ a[data-toggle="tooltip"] .icon-question {
     position: absolute;
     top: 50%;
   }
+  .cr_header .back_btn span, .cr_header .ms_submit_btn span {
+    display: block;
+  }
   .cr_header .ms_submit_btn {
     left: auto;
     right: 15px;

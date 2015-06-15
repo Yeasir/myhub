@@ -498,6 +498,9 @@ a[data-toggle="tooltip"] {
       margin-top: -0.5em;
       position: absolute;
       top: 50%;
+      span {
+        display: block;
+      }
     }
     .ms_submit_btn {
       left: auto;
