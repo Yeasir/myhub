@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_What.html" afterPath="$PROJECT_DIR$/Create_What.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_When.html" afterPath="$PROJECT_DIR$/Create_When.html" />
+    <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="create where map mobile">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Advanced.html" afterPath="$PROJECT_DIR$/Create_Advanced.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Advanced_Entry.html" afterPath="$PROJECT_DIR$/Create_Advanced_Entry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Advanced_Free.html" afterPath="$PROJECT_DIR$/Create_Advanced_Free.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Invites_Email.html" afterPath="$PROJECT_DIR$/Create_Invites_Email.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Invites_Gmail_In.html" afterPath="$PROJECT_DIR$/Create_Invites_Gmail_In.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Invites_Gmail_Out.html" afterPath="$PROJECT_DIR$/Create_Invites_Gmail_Out.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Invites_Myhub.html" afterPath="$PROJECT_DIR$/Create_Invites_Myhub.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create_Where_Map.html" afterPath="$PROJECT_DIR$/Create_Where_Map.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_create.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_create.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
@@ -33,13 +38,13 @@
     <favorites_list name="myhub" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49375">
+    <splitter split-orientation="horizontal" split-proportion="0.46273062">
       <split-first>
         <leaf>
           <file leaf-file-name="_event_details.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="29835">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="189" max-vertical-offset="29835">
                   <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
                   <folding />
                 </state>
@@ -49,8 +54,8 @@
           <file leaf-file-name="_create.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_create.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6959459" vertical-offset="13098" max-vertical-offset="14013">
-                  <caret line="508" column="26" selection-start-line="508" selection-start-column="26" selection-end-line="508" selection-end-column="26" />
+                <state vertical-scroll-proportion="0.7758007" vertical-offset="17841" max-vertical-offset="18765">
+                  <caret line="685" column="27" selection-start-line="685" selection-start-column="27" selection-end-line="685" selection-end-column="27" />
                   <folding />
                 </state>
               </provider>
@@ -89,13 +94,11 @@
           <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="11610">
-                  <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+                <state vertical-scroll-proportion="33.96552" vertical-offset="6223" max-vertical-offset="15984">
+                  <caret line="194" column="27" selection-start-line="194" selection-start-column="27" selection-end-line="194" selection-end-column="27" />
                   <folding>
-                    <element signature="e#5705#6167#0" expanded="false" />
-                    <element signature="e#6224#6270#0" expanded="false" />
-                    <element signature="e#6318#6353#0" expanded="false" />
-                    <element signature="e#6404#7287#0" expanded="false" />
+                    <element signature="e#6817#6852#0" expanded="false" />
+                    <element signature="e#6903#7786#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -130,28 +133,33 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="Create_When.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Create_When.html">
+          <file leaf-file-name="Create_Invites_Myhub.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Create_Invites_Myhub.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="3699" max-vertical-offset="6399">
-                  <caret line="137" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+                <state vertical-scroll-proportion="-0.72131145" vertical-offset="2467" max-vertical-offset="9909">
+                  <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
                   <folding>
-                    <element signature="n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Create_Where_Map.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Create_Where_Map.html">
+          <file leaf-file-name="Create_Advanced_Free.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Create_Advanced_Free.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.33445945" vertical-offset="3375" max-vertical-offset="8127">
-                  <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
+                <state vertical-scroll-proportion="0.46565774" vertical-offset="4406" max-vertical-offset="10989">
+                  <caret line="140" column="10" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
                   <folding>
-                    <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -160,9 +168,25 @@
           <file leaf-file-name="Create_Advanced.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Create_Advanced.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="29.53125" vertical-offset="7587" max-vertical-offset="15228">
-                  <caret line="246" column="25" selection-start-line="246" selection-start-column="25" selection-end-line="246" selection-end-column="25" />
-                  <folding />
+                <state vertical-scroll-proportion="-46.65625" vertical-offset="3070" max-vertical-offset="12015">
+                  <caret line="178" column="54" selection-start-line="178" selection-start-column="54" selection-end-line="178" selection-end-column="54" />
+                  <folding>
+                    <element signature="n#button#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#li#1;n#ul#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#2;n#ul#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Create_Advanced_Entry.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Create_Advanced_Entry.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="46.0" vertical-offset="6251" max-vertical-offset="16227">
+                  <caret line="186" column="78" selection-start-line="186" selection-start-column="78" selection-end-line="186" selection-end-column="78" />
+                  <folding>
+                    <element signature="n#div#1;n#li#1;n#ul#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -216,13 +240,6 @@
         <option value="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
         <option value="$PROJECT_DIR$/assets/sass/app.scss" />
         <option value="$PROJECT_DIR$/assets/js/bootstrap-wysiwyg.js" />
-        <option value="$PROJECT_DIR$/Create_Advanced.html" />
-        <option value="$PROJECT_DIR$/Create_Advanced_Entry.html" />
-        <option value="$PROJECT_DIR$/Create_Advanced_Free.html" />
-        <option value="$PROJECT_DIR$/Create_Invites_Gmail_Out.html" />
-        <option value="$PROJECT_DIR$/Create_Invites_Myhub.html" />
-        <option value="$PROJECT_DIR$/Create_Invites_Gmail_In.html" />
-        <option value="$PROJECT_DIR$/Create_Invites_Email.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_FixedPrice.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_MinPrice.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_Preview.html" />
@@ -230,8 +247,15 @@
         <option value="$PROJECT_DIR$/assets/sass/_utility.scss" />
         <option value="$PROJECT_DIR$/Create_What.html" />
         <option value="$PROJECT_DIR$/Create_When.html" />
-        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/Create_Where_Map.html" />
+        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/Create_Invites_Email.html" />
+        <option value="$PROJECT_DIR$/Create_Invites_Gmail_Out.html" />
+        <option value="$PROJECT_DIR$/Create_Invites_Gmail_In.html" />
+        <option value="$PROJECT_DIR$/Create_Invites_Myhub.html" />
+        <option value="$PROJECT_DIR$/Create_Advanced.html" />
+        <option value="$PROJECT_DIR$/Create_Advanced_Entry.html" />
+        <option value="$PROJECT_DIR$/Create_Advanced_Free.html" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_create.scss" />
       </list>
     </option>
@@ -245,10 +269,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="613" />
+    <option name="width" value="1371" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -398,12 +421,6 @@
       <created>1430500943909</created>
       <option name="number" value="Default" />
       <updated>1430500943909</updated>
-    </task>
-    <task id="LOCAL-00019" summary="fonts updated">
-      <created>1431628377403</created>
-      <option name="number" value="00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1431628377403</updated>
     </task>
     <task id="LOCAL-00020" summary="login modal and error (x) color updated">
       <created>1431629760475</created>
@@ -693,7 +710,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434298103038</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="create where map mobile">
+      <created>1434344728005</created>
+      <option name="number" value="00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1434344728037</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -717,28 +740,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="613" y="0" width="1371" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26273063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31759655" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31759655" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -760,7 +783,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="event detail fixed sidebar" />
     <MESSAGE value="hide bottom section on scroll on mobile event details" />
     <MESSAGE value="modal desktop done event details" />
     <MESSAGE value="fixed top nav secondary event details" />
@@ -785,20 +807,14 @@
     <MESSAGE value="updates desktop create" />
     <MESSAGE value="time picker added" />
     <MESSAGE value="what and when mobile page" />
-    <option name="LAST_COMMIT_MESSAGE" value="what and when mobile page" />
+    <MESSAGE value="create where map mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="create where map mobile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_modal_mobile.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1539">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Settings_Desktop_Support.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="6831" max-vertical-offset="8883">
@@ -941,48 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Create_Invites_Email.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="11.803279" vertical-offset="5607" max-vertical-offset="8208">
-          <caret line="273" column="0" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create_Invites_Myhub.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="33.901638" vertical-offset="9358" max-vertical-offset="11664">
-          <caret line="348" column="0" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create_Invites_Gmail_Out.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.442623" vertical-offset="6240" max-vertical-offset="8532">
-          <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create_Invites_Gmail_In.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="33.901638" vertical-offset="7630" max-vertical-offset="9666">
-          <caret line="256" column="0" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create_Advanced_Entry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="36.28125" vertical-offset="4914" max-vertical-offset="17226">
-          <caret line="139" column="18" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create_Advanced_Free.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="19.40625" vertical-offset="3510" max-vertical-offset="9639">
-          <caret line="154" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Create_Advanced_MinPrice.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="21.508196" vertical-offset="5929" max-vertical-offset="12474">
@@ -1077,13 +1051,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334" vertical-offset="547290" max-vertical-offset="691470">
           <caret line="19346" column="20" selection-start-line="19346" selection-start-column="20" selection-end-line="19346" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ED_GuestList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2943" max-vertical-offset="22599">
-          <caret line="109" column="12" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="85" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1115,6 +1083,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.21875" vertical-offset="4968" max-vertical-offset="9963">
           <caret line="189" column="51" selection-start-line="189" selection-start-column="51" selection-end-line="189" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1122,18 +1091,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.5625" vertical-offset="648" max-vertical-offset="6966">
           <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="136" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="673" max-vertical-offset="11799">
-          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
           <folding>
-            <element signature="e#5705#6167#0" expanded="false" />
-            <element signature="e#6224#6270#0" expanded="false" />
-            <element signature="e#6318#6353#0" expanded="false" />
-            <element signature="e#6404#7287#0" expanded="false" />
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1150,29 +1111,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_create.scss">
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6959459" vertical-offset="13098" max-vertical-offset="14013">
-          <caret line="508" column="26" selection-start-line="508" selection-start-column="26" selection-end-line="508" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create_Advanced.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="29.53125" vertical-offset="7587" max-vertical-offset="15228">
-          <caret line="246" column="25" selection-start-line="246" selection-start-column="25" selection-end-line="246" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="33.96552" vertical-offset="6223" max-vertical-offset="15984">
+          <caret line="194" column="27" selection-start-line="194" selection-start-column="27" selection-end-line="194" selection-end-column="27" />
+          <folding>
+            <element signature="e#6817#6852#0" expanded="false" />
+            <element signature="e#6903#7786#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Create_Where_Map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33445945" vertical-offset="3375" max-vertical-offset="8127">
-          <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
+        <state vertical-scroll-proportion="35.9375" vertical-offset="4525" max-vertical-offset="8721">
+          <caret line="139" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
           <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile_following.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35779816" vertical-offset="5115" max-vertical-offset="11718">
+          <caret line="328" column="0" selection-start-line="328" selection-start-column="0" selection-end-line="423" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ED_GuestList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3623853" vertical-offset="3132" max-vertical-offset="32319">
+          <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_Invites_Email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.442623" vertical-offset="4689" max-vertical-offset="11556">
+          <caret line="132" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_Invites_Gmail_Out.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.90625" vertical-offset="3525" max-vertical-offset="9099">
+          <caret line="136" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_Invites_Gmail_In.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.6875" vertical-offset="3197" max-vertical-offset="9234">
+          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_Advanced_Entry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="46.0" vertical-offset="6251" max-vertical-offset="16227">
+          <caret line="186" column="78" selection-start-line="186" selection-start-column="78" selection-end-line="186" selection-end-column="78" />
+          <folding>
+            <element signature="n#div#1;n#li#1;n#ul#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_Invites_Myhub.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.72131145" vertical-offset="2467" max-vertical-offset="9909">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#form#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_Advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-46.65625" vertical-offset="3070" max-vertical-offset="12015">
+          <caret line="178" column="54" selection-start-line="178" selection-start-column="54" selection-end-line="178" selection-end-column="54" />
+          <folding>
+            <element signature="n#button#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#li#1;n#ul#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_create.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7758007" vertical-offset="17841" max-vertical-offset="18765">
+          <caret line="685" column="27" selection-start-line="685" selection-start-column="27" selection-end-line="685" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_Advanced_Free.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46565774" vertical-offset="4406" max-vertical-offset="10989">
+          <caret line="140" column="10" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>

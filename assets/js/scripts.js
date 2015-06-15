@@ -188,21 +188,37 @@
         var $this = $(this);
 
 
-        $this.hide( "normal", function() {
-            $this.find('img').attr('src', 'assets/images/pimg_icons/User_Follow@3x.png');
-            $this.show('slow',function(){
-                $this.hide('normal', function(){
-                    $this.find('img').attr('src', 'assets/images/pimg_icons/User_Pending@3x.png');
-                    $this.show('slow', function(){
-                        $this.removeClass('not-following');
+        if($this.closest('.cr_invite_cont_wrap').length){
+            console.log('aa');
+
+            $this.animate({
+                opacity : 0
+            }, 500, function() {
+                $this.removeClass('not-following');
+                $this.animate({
+                    opacity : 1
+                }, 500, function() {
+                    // Animation complete.
+                });
+            });
+        } else {
+            $this.hide( "normal", function() {
+                $this.find('img').attr('src', 'assets/images/pimg_icons/User_Follow@3x.png');
+                $this.show('slow',function(){
+                    $this.hide('normal', function(){
+                        $this.find('img').attr('src', 'assets/images/pimg_icons/User_Pending@3x.png');
+                        $this.show('slow', function(){
+                            $this.removeClass('not-following');
+                        });
                     });
                 });
             });
-        });
-        $(this).animate({
-        }, 5000, function() {
-            // Animation complete.
-        });
+            $(this).animate({
+            }, 5000, function() {
+                // Animation complete.
+            });
+        }
+
     }).on('click', '.pl-hover a', function(e){
         e.preventDefault();
     });
