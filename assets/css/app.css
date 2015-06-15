@@ -20534,7 +20534,7 @@ textarea.sfc_m_input {
   color: #FFFFFF;
   text-align: center;
   font-size: 1em;
-  padding: 10px 16px;
+  padding: 10px 15px;
   width: 100%;
   max-width: 98%;
   line-height: 32px;
@@ -21323,6 +21323,7 @@ a[data-toggle="tooltip"] .icon-question {
   .cr_input_wrap:not(.cr_input_wrap_single_lne_mbl) input {
     width: 100%;
     text-align: center;
+    line-height: 1;
   }
   .cr_input_wrap:not(.cr_input_wrap_single_lne_mbl) span[class*="ciw_lic"] {
     top: -65px;
@@ -21494,6 +21495,7 @@ a[data-toggle="tooltip"] .icon-question {
   .cr_input_wrap_single_lne_mbl.cr_input_wrap {
     background: none;
     padding-top: 10px;
+    padding-left: 50px;
   }
   .cr_input_wrap_single_lne_mbl.cr_input_wrap h3 {
     margin: 3px 0 0;
@@ -21505,12 +21507,14 @@ a[data-toggle="tooltip"] .icon-question {
   }
   .cr_input_wrap_single_lne_mbl.cr_input_wrap .ciw_lic {
     left: 0;
+    top: 20px;
   }
   .cr_input_wrap_single_lne_mbl.cr_input_wrap .cr_nostyle_input {
     float: right;
     width: 100px;
     padding: 0;
     text-align: right;
+    line-height: 1;
   }
   .cr_input_wrap_single_lne_mbl.cr_input_wrap span[class*="icon-Money_circle"] {
     color: #00BA84;
@@ -21519,6 +21523,10 @@ a[data-toggle="tooltip"] .icon-question {
   .ciw_btxt {
     padding-top: 20px;
     font-size: 1.1em;
+  }
+
+  .create_cont_wrap input[type="text"] {
+    line-height: 1;
   }
 }
 @media all and (max-width: 767px) {

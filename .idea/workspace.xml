@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0d655a5-174b-4c81-8c8f-9945b3fbdf3f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_create.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_create.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css.map" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -29,24 +30,14 @@
     <favorites_list name="myhub" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.64870846">
+    <splitter split-orientation="horizontal" split-proportion="0.33791">
       <split-first>
         <leaf>
-          <file leaf-file-name="_event_details.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="189" max-vertical-offset="29970">
-                  <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="_create.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/sass/pages/_create.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5731707" vertical-offset="13246" max-vertical-offset="19953">
-                  <caret line="508" column="20" selection-start-line="508" selection-start-column="20" selection-end-line="508" selection-end-column="20" />
+                <state vertical-scroll-proportion="0.70933014" vertical-offset="19819" max-vertical-offset="20817">
+                  <caret line="733" column="13" selection-start-line="733" selection-start-column="13" selection-end-line="733" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
@@ -91,21 +82,6 @@
                     <element signature="e#5601#6777#0" expanded="false" />
                     <element signature="e#6817#6852#0" expanded="false" />
                     <element signature="e#6903#7786#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="jquery-ui-custom.min.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assets/js/jquery-ui-custom.min.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding>
-                    <marker date="1430759884000" expanded="true" signature="17387:17458" placeholder="..." />
-                    <marker date="1430759884000" expanded="true" signature="17472:17496" placeholder="..." />
-                    <marker date="1430759884000" expanded="true" signature="48313:48330" placeholder="..." />
-                    <marker date="1430759884000" expanded="true" signature="57697:57713" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -181,8 +157,8 @@
           <file leaf-file-name="Create_Advanced_Preview.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Create_Advanced_Preview.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.43540668" vertical-offset="40757" max-vertical-offset="42957">
-                  <caret line="799" column="14" selection-start-line="799" selection-start-column="14" selection-end-line="799" selection-end-column="14" />
+                <state vertical-scroll-proportion="0.5645933" vertical-offset="25097" max-vertical-offset="26730">
+                  <caret line="802" column="0" selection-start-line="802" selection-start-column="0" selection-end-line="802" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -233,7 +209,6 @@
         <option value="$PROJECT_DIR$/ED_GuestList_Empty.html" />
         <option value="$PROJECT_DIR$/ED_Main_Paid.html" />
         <option value="$PROJECT_DIR$/ED_Main_Paid_Confirmed.html" />
-        <option value="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_modal.scss" />
         <option value="$PROJECT_DIR$/assets/sass/app.scss" />
         <option value="$PROJECT_DIR$/assets/js/bootstrap-wysiwyg.js" />
@@ -253,6 +228,7 @@
         <option value="$PROJECT_DIR$/Create_Advanced_FixedPrice.html" />
         <option value="$PROJECT_DIR$/Create_Advanced_MinPrice.html" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/assets/sass/pages/_event_details.scss" />
         <option value="$PROJECT_DIR$/assets/sass/pages/_create.scss" />
       </list>
     </option>
@@ -266,7 +242,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="613" />
+    <option name="x" value="586" />
     <option name="width" value="1371" />
     <option name="height" value="1040" />
   </component>
@@ -325,6 +301,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,12 +448,6 @@
       <created>1430500943909</created>
       <option name="number" value="Default" />
       <updated>1430500943909</updated>
-    </task>
-    <task id="LOCAL-00022" summary="payment method fixes">
-      <created>1431635276865</created>
-      <option name="number" value="00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1431635276865</updated>
     </task>
     <task id="LOCAL-00023" summary="support page done">
       <created>1431635887989</created>
@@ -713,7 +737,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434390642507</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="create mobile pages change">
+      <created>1434390869124</created>
+      <option name="number" value="00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1434390869124</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -737,7 +767,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="613" y="0" width="1371" height="1040" extended-state="0" />
+    <frame x="586" y="0" width="1371" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -748,7 +778,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26273063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2623951" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31759655" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -780,7 +810,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="fixed top nav secondary event details" />
     <MESSAGE value="fixed top nav secondary color event details" />
     <MESSAGE value="mobile modal event details" />
     <MESSAGE value="commit before settings form changes" />
@@ -805,7 +834,8 @@
     <MESSAGE value="create where map mobile" />
     <MESSAGE value="create  mobile pages" />
     <MESSAGE value="create mobile pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="create mobile pages" />
+    <MESSAGE value="create mobile pages change" />
+    <option name="LAST_COMMIT_MESSAGE" value="create mobile pages change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -958,10 +988,10 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247401">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1430759884000" expanded="true" signature="17387:17458" placeholder="..." />
-            <marker date="1430759884000" expanded="true" signature="17472:17496" placeholder="..." />
-            <marker date="1430759884000" expanded="true" signature="48313:48330" placeholder="..." />
-            <marker date="1430759884000" expanded="true" signature="57697:57713" placeholder="..." />
+            <marker date="1430759884000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1430759884000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1430759884000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1430759884000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1195,14 +1225,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="29835">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="10787" max-vertical-offset="11772">
@@ -1215,18 +1237,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Create_Advanced_Preview.html">
+    <entry file="file://$PROJECT_DIR$/assets/sass/pages/_event_details.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43540668" vertical-offset="40757" max-vertical-offset="42957">
-          <caret line="799" column="14" selection-start-line="799" selection-start-column="14" selection-end-line="799" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.5783274" vertical-offset="23161" max-vertical-offset="29970">
+          <caret line="872" column="24" selection-start-line="872" selection-start-column="24" selection-end-line="872" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/pages/_create.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5731707" vertical-offset="13246" max-vertical-offset="19953">
-          <caret line="508" column="20" selection-start-line="508" selection-start-column="20" selection-end-line="508" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.70933014" vertical-offset="19819" max-vertical-offset="20817">
+          <caret line="733" column="13" selection-start-line="733" selection-start-column="13" selection-end-line="733" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_Advanced_Preview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5645933" vertical-offset="25097" max-vertical-offset="26730">
+          <caret line="802" column="0" selection-start-line="802" selection-start-column="0" selection-end-line="802" selection-end-column="0" />
           <folding />
         </state>
       </provider>
