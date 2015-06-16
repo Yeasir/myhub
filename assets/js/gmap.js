@@ -2,7 +2,10 @@ $(function(){
 
     var options = {
         map: ".map_canvas",
-        location: "Denver, CO, United States"
+        location: "Denver, CO, United States",
+        markerOptions: {
+            icon: "http://icons.iconarchive.com/icons/icons-land/vista-map-markers/256/Map-Marker-Bubble-Azure-icon.png"
+        }
     };
 
     var $geoComplete = $("#geocomplete");

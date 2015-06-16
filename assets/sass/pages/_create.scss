@@ -417,7 +417,7 @@ a[data-toggle="tooltip"] {
       line-height: 1;
     }
     &:after {
-      display: block;
+      display: none;
       position: absolute;
       content: "\e78f";
       font-family: "myhub-icomoon";

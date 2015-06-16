@@ -21225,7 +21225,7 @@ a[data-toggle="tooltip"] .icon-question {
   line-height: 1;
 }
 .pac-container .pac-item:after {
-  display: block;
+  display: none;
   position: absolute;
   content: "\e78f";
   font-family: "myhub-icomoon";
