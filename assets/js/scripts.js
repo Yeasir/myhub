@@ -180,42 +180,41 @@
       $following_btns = $profile_list_wrap.find('.pl-hover a:not(.not-following)'),
       $not_following_btns = $profile_list_wrap.find('.pl-hover a.not-following');
 
-    $body.on('click', '.pl-hover a.not-following', function(e){
+    $body.on('click', '.pl-hover a', function(e){
 
         e.preventDefault();
 
         var $this = $(this);
 
-
-        if($this.closest('.cr_invite_cont_wrap').length){
-            console.log('aa');
+        if ($this.closest('.cr_invite_cont_wrap').length) {
 
             $this.animate({
-                opacity : 0
-            }, 500, function() {
-                $this.removeClass('not-following');
+                opacity: 0
+            }, 500, function () {
+                $this.toggleClass('not-following');
                 $this.animate({
-                    opacity : 1
-                }, 500, function() {
+                    opacity: 1
+                }, 500, function () {
                     // Animation complete.
                 });
             });
         } else {
-            $this.hide( "normal", function() {
-                $this.find('img').attr('src', 'assets/images/pimg_icons/User_Follow@3x.png');
-                $this.show('slow',function(){
-                    $this.hide('normal', function(){
-                        $this.find('img').attr('src', 'assets/images/pimg_icons/User_Pending@3x.png');
-                        $this.show('slow', function(){
-                            $this.removeClass('not-following');
+            if($this.hasClass('not-following')) {
+                $this.hide("normal", function () {
+                    $this.find('img').attr('src', 'assets/images/pimg_icons/User_Follow@3x.png');
+                    $this.show('slow', function () {
+                        $this.hide('normal', function () {
+                            $this.find('img').attr('src', 'assets/images/pimg_icons/User_Pending@3x.png');
+                            $this.show('slow', function () {
+                                $this.removeClass('not-following');
+                            });
                         });
                     });
                 });
-            });
-            $(this).animate({
-            }, 5000, function() {
-                // Animation complete.
-            });
+                $(this).animate({}, 5000, function () {
+                    // Animation complete.
+                });
+            }
         }
 
     }).on('click', '.pl-hover a', function(e){
@@ -687,7 +686,7 @@ var $modal_wrap = $(".fmodal_wrap"),
 
     /*end the create section*/
 
-
+    $(".chosen-select").chosen({no_results_text: "Oops, nothing found!"});
 
 
 
