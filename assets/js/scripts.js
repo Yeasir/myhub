@@ -505,9 +505,10 @@ var $modal_wrap = $(".fmodal_wrap"),
             scaleValue = retrieveScale(actionBtn.next('.cd-modal-bg'));
 
         actionBtn.addClass('to-circle');
-        actionBtn.next('.cd-modal-bg').addClass('is-visible').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(){
+        actionBtn.next('.cd-modal-bg').addClass('is-visible')/*.one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(){
             animateLayer(actionBtn.next('.cd-modal-bg'), scaleValue, true);
-        });
+        })*/;
+        animateLayer(actionBtn.next('.cd-modal-bg'), scaleValue, true);
 
         //if browser doesn't support transitions...
         if(actionBtn.parents('.no-csstransitions').length > 0 ) animateLayer(actionBtn.next('.cd-modal-bg'), scaleValue, true);
@@ -567,6 +568,8 @@ var $modal_wrap = $(".fmodal_wrap"),
     /*Create page transition start*/
     $body.on('click', '.create_slide_btn', function(e){
         e.preventDefault();
+        $body.children('.cr_footer').hide(0);
+        $(".modal").modal('hide');
         var $url = $(this).attr("href"),
         //var $url = $(this).attr("href"),
         $contantWrap = $("#createContAjaxWrap");
@@ -575,17 +578,23 @@ var $modal_wrap = $(".fmodal_wrap"),
     });
 
     function loadAjaxCont($url, $context, $container){
-        $container.velocity("transition.slideLeftBigOut", { stagger: 250 });
-        $container.load($url + $context, function( response, status, xhr ) {
-            if(status == "success"){
-                funcToRunOnAjax($url);
-                $container.velocity("transition.slideLeftBigIn", {
-                    stagger: 250,
-                    complete: function(){
-                        $container.css('transform', 'none');
+        $container.velocity("transition.slideLeftBigOut", {
+            stagger: 250,
+            complete : function(){
+                $container.load($url + $context, function( response, status, xhr ) {
+                    if(status == "success"){
+                        funcToRunOnAjax($url);
+                        $container.velocity("transition.slideLeftBigIn", {
+                            stagger: 250,
+                            complete: function(){
+                                $container.css('transform', 'none');
+                                $body.children('.cr_footer').remove();
+                                $container.find('.cr_footer').appendTo("body");
+                            }
+                        });
+                        window.history.pushState("/", "", $url);
                     }
                 });
-                window.history.pushState("/", "", $url);
             }
         });
     }
@@ -655,6 +664,11 @@ var $modal_wrap = $(".fmodal_wrap"),
         }
         $parent.addClass('active');
     });
+
+    $body.on('change', '.tab_input_change input[type="radio"]', function(){
+        tabShow($($(this).attr("data-active")), $("#tabWrap"));
+    });
+
     function tabShow($item, $wrap){
         $wrap.velocity("transition.slideLeftOut", { stagger: 250,
             complete : function(){
