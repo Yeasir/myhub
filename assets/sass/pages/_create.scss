@@ -88,7 +88,7 @@ a[data-toggle="tooltip"] {
 .cr_nostyle_input {
   font-size: 24px;
   font-weight: $medium-weight;
-  color: $light-gray;
+  color: $dark-blue;
   border: none;
   width: 80%;
   background: none;
@@ -154,6 +154,7 @@ a[data-toggle="tooltip"] {
   bottom: 0;
   width: 100%;
   height: 75px;
+  z-index: 9999;
 }
 .cr_footer_btn {
   text-align: center;
@@ -391,7 +392,7 @@ a[data-toggle="tooltip"] {
   .cr_input_wrap {
     position: absolute;
     max-width: 600px;
-    top: 200px;
+    top: 100px;
     left: 50%;
     margin-left: -300px;
     z-index: 9998;
@@ -746,12 +747,19 @@ a[data-toggle="tooltip"] {
 /*Create animation on all pages before loading*/
 
 .cd-modal-action {
-  position: relative;
+  position: absolute;
+  right: 390px;
+  top: 0;
+  > a.btn {
+    z-index: -1;
+    width: 0;
+    height: 0;
+  }
 }
 .cd-modal-action .btn, .cd-modal-action .cd-modal-bg {
   display: inline-block;
   height: 4em;
-  background-color: #34383c;
+  background-color: $tag-gray;
 }
 .cd-modal-action .btn {
   width: 12.5em;
@@ -772,6 +780,7 @@ a[data-toggle="tooltip"] {
   -webkit-transition: color 0.2s 0s, width 0.3s 0.2s;
   -moz-transition: color 0.2s 0s, width 0.3s 0.2s;
   transition: color 0.2s 0s, width 0.3s 0.2s;
+  z-index: -1;
 }
 .cd-modal-action .cd-modal-bg {
   position: absolute;
@@ -799,4 +808,8 @@ a[data-toggle="tooltip"] {
 .cd-modal-action .cd-modal-bg.is-visible {
   opacity: 1;
   visibility: visible;
+  z-index: 99999;
+}
+#createContAjaxWrap {
+//  position: relative;
 }
