@@ -22124,6 +22124,27 @@ top: 0;*/
   z-index: 99999;
 }
 
+#cr_header_ajax {
+  position: relative;
+  height: 70px;
+  width: 100%;
+}
+#cr_header_ajax .cr_header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+.only_hide {
+  opacity: 0;
+  visibility: hidden;
+}
+
 @media all and (max-width: 767px) {
   .mobile_fullscreen_modal {
     background: #FFFFFF;
