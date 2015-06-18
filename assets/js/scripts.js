@@ -1,5 +1,9 @@
 ;$(document).ready(function(){
 
+    $.ajaxSetup ({
+        // Disable caching of AJAX responses
+        cache: false
+    });
     var $body = $('body');
 
     /*CHeck email*/
@@ -624,6 +628,14 @@ var $modal_wrap = $(".fmodal_wrap"),
         if($('[data-toggle="tooltip"]').length){
             $('[data-toggle="tooltip"]').tooltip();
         }
+
+
+        if($(".chosen-select").length){
+            $(".chosen-select").chosen({no_results_text: "Oops, nothing found!"});
+        }
+
+
+
         $(".cr_nostyle_input").each(function(){
             showCrossIcon($(this), $(this).siblings('.ciw_ric'));
         });
@@ -633,6 +645,15 @@ var $modal_wrap = $(".fmodal_wrap"),
                 mapInit();
                 setMapHeight($('.cr_map_wrap'));
                 $(".cre_map_modal").modal('show');
+                setTimeout(function(){
+                    $("#geocomplete").trigger("geocode");
+                    $(window).resize();
+                    //window.resizeTo ($(window).width(), $(window).height());
+                    if(typeof Event == "function"){
+                        window.dispatchEvent(new Event('resize'));
+                    }
+                }, 1000);
+
             }
         }
         if($urln == "Create_Advanced_Preview.html" || $urln == "Create_Share.html"){
@@ -686,8 +707,9 @@ var $modal_wrap = $(".fmodal_wrap"),
 
     /*end the create section*/
 
-    $(".chosen-select").chosen({no_results_text: "Oops, nothing found!"});
-
+    if($(".chosen-select").length){
+        $(".chosen-select").chosen({no_results_text: "Oops, nothing found!"});
+    }
 
 
 
