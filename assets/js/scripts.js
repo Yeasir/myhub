@@ -786,7 +786,7 @@ var $modal_wrap = $(".fmodal_wrap"),
             .removeClass('hide').siblings(".isw_item").addClass('hide');
         var $prevNxtisw = $(this).attr("data-pageinx"),
             $item = $($(this).attr("href")),
-            $wrap =  $("#tabWrapInv");
+            $wrap =  $("#tabWrap");
         tabShowInvite($item, $wrap, $prevNxtisw);
 
     });
