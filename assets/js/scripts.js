@@ -482,6 +482,22 @@ var $modal_wrap = $(".fmodal_wrap"),
 
     /*Home page create transition*/
 
+    $body.on('click', '.create_init', function(e){
+        e.preventDefault();
+        $body.addClass('overflow-hidden');
+        var $wrapper = $("#pushy_wrapper");
+        $wrapper.velocity(
+            {
+                translateX : "-100%"
+            }, {
+                easing: "easeOut",
+                duration: 600,
+                complete : function(){
+                    window.location = "Create_What.html";
+                }
+            });
+    });
+
 
     $(window).load(function(){
         $('.cr_map_wrap').removeClass("only_hide").addClass("hide");
